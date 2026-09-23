@@ -1,0 +1,32 @@
+{
+  "club_name": "Hack@Davidson",
+  "max_age_days": 90,
+  "stale_after_days": 7,
+  "exclude_advanced_degrees": true,
+  "include_keywords": [],
+  "exclude_keywords": [],
+  "sources": [
+    {
+      "name": "Simplify and Pitt CSC internships",
+      "kind": "simplify",
+      "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json",
+      "homepage": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "category": "Internship",
+      "enabled": true
+    },
+    {
+      "name": "Simplify new graduate roles",
+      "kind": "simplify",
+      "url": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/.github/scripts/listings.json",
+      "homepage": "https://github.com/SimplifyJobs/New-Grad-Positions",
+      "category": "New graduate role",
+      "enabled": true
+    },
+    {
+      "name": "Club submissions",
+      "kind": "csv",
+      "path": "data/manual.csv",
+      "enabled": true
+    }
+  ]
+}
