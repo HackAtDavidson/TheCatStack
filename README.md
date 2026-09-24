@@ -16,7 +16,6 @@ Status | Organization | Opportunity | Location | Apply | Deadline
 ✅ [OPEN] | Fidelity Investments | Undergraduate Internship - Software | Boston, MA; Westlake, TX; Durham, NC | [Apply](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/One-Destiny-Way-Westlake-TX/Summer-2027-Undergraduate-Internship---Software_2134524) | Rolling / check site
 ✅ [OPEN] | Live Oak Bank | Data Science Intern | Wilmington, NC | [Apply](https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Data-Science_R-002664) | Rolling / check site
 ✅ [OPEN] | Live Oak Bank | Software Engineering Intern - Summer Internship Program | Wilmington, NC | [Apply](https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Software-Engineering_R-002643) | Rolling / check site
-✅ [OPEN] | Oshkosh | Motorsports Intern - Summer 2027 | Huntersville, NC | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Huntersville-North-Carolina-United-States/Motorsports-Intern--Summer-2027-_R50520) | Rolling / check site
 ✅ [OPEN] | Microsoft | Electrical Engineer Intern - 6-Month Program | Seattle, WA; San Jose, CA; Raleigh, NC | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556982262) | Rolling / check site
 ✅ [OPEN] | LSEG | Engineering Intern | Charlotte, NC | [Apply](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Greater-Charlotte-Area-United-States/Engineering-Summer-Internship-Programme_R0123571) | Rolling / check site
 ✅ [OPEN] | LSEG | Engineering Intern | Charlotte, NC | [Apply](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Greater-Charlotte-Area-United-States/Engineering-Summer-Internship-Programme_R0123571-1) | Rolling / check site
@@ -27,10 +26,11 @@ Status | Organization | Opportunity | Location | Apply | Deadline
 ✅ [OPEN] | CACI | Software Engineer Intern - Summer 2027 | Sterling, VA | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/Software-Engineering-Intern---Summer-2027_332372) | Rolling / check site
 ✅ [OPEN] | Navy Federal | IT Reporting & Analytics Intern | Vienna, VA | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32668) | Rolling / check site
 ✅ [OPEN] | Udig | Software Engineer Intern | Nashville, TN; Richmond, VA | [Apply](https://udig.com/careers/job-listing/?gh_jid=7999436003) | Rolling / check site
-✅ [OPEN] | Booz Allen | Data Scientist Intern | McLean, VA | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0249866) | Rolling / check site
 ✅ [OPEN] | Booz Allen | Data Scientist Intern | McLean, VA | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0249838) | Rolling / check site
 ✅ [OPEN] | Booz Allen | Data Scientist Intern | McLean, VA | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0249842) | Rolling / check site
 ✅ [OPEN] | Booz Allen | Data Scientist Intern | McLean, VA | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0249837) | Rolling / check site
+✅ [OPEN] | Booz Allen | Software Developer Intern - University | McLean, VA | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249820) | Rolling / check site
+✅ [OPEN] | Booz Allen | Software Developer Intern - University | McLean, VA | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249828) | Rolling / check site
 <!-- END CURRENT OPPORTUNITIES -->
 
 ## Browse and use
