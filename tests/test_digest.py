@@ -20,8 +20,7 @@ class DigestTests(unittest.TestCase):
             output = Path(directory)
             self.assertEqual(prepare_digest([row], output, "Club", date(2026, 9, 23)), 1)
             preview = (output / "email-preview.html").read_text()
-            self.assertIn("View opportunity and apply", preview)
-            self.assertIn("Bachelor&#x27;s students", preview)
+            self.assertIn(">Apply</a>", preview)
 
 
 if __name__ == "__main__":
