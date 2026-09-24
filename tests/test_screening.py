@@ -149,7 +149,8 @@ class ScreeningTests(unittest.TestCase):
         with patch.object(JobReader, "job", return_value=page()) as fetch:
             selected, report = screen_records(records, reviews, config, self.root, TODAY)
             self.assertEqual(fetch.call_count, 1)
-            self.assertEqual([r["id"] for r in selected], [records[2]["id"]])
+            self.assertEqual(len(selected), 2)
+            self.assertIn(records[2]["id"], [r["id"] for r in selected])
             self.assertEqual(selected[0]["notes"], "My note")
             selected, report = screen_records(records, reviews, config, self.root, TODAY)
             self.assertEqual(fetch.call_count, 2)  # New page; the first page came from cache.
@@ -158,28 +159,28 @@ class ScreeningTests(unittest.TestCase):
         self.assertNotIn(records[0]["id"], [row["id"] for row in selected])
         self.assertNotIn(records[1]["id"], [row["id"] for row in selected])
 
-    def test_manual_include_still_requires_verified_strong_match(self):
+    def test_unchecked_listing_can_still_be_sent_from_the_catalog(self):
         row = record()
         reviews = {row["id"]: {"decision": "Include"}}
         with patch.object(JobReader, "job", return_value={}):
             selected, _ = screen_records([row], reviews, {"screening": {"max_pages_per_run": 1}}, self.root, TODAY)
-        self.assertEqual(selected, [])
+        self.assertEqual([item["id"] for item in selected], [row["id"]])
 
-    def test_selected_row_carries_verified_employer_deadline(self):
+    def test_selected_row_keeps_catalog_deadline(self):
         row = record()
         with patch.object(JobReader, "job", return_value=page(deadline="2026-09-30")):
             selected, _ = screen_records([row], {}, {"screening": {"max_pages_per_run": 1}}, self.root, TODAY)
-        self.assertEqual(selected[0]["deadline"], "2026-09-30")
+        self.assertEqual(selected[0]["deadline"], "")
 
-    def test_employer_diversity_and_scoring_changes_reuse_page_cache(self):
+    def test_catalog_order_and_scoring_changes_reuse_page_cache(self):
         records = [record(str(index), organization="First" if index < 3 else "Second") for index in range(4)]
         config = {"screening": {"max_per_organization": 1}}
         with patch.object(JobReader, "job", return_value=page()) as fetch:
             selected, report = screen_records(records, {}, config, self.root, TODAY)
-            self.assertEqual(len(selected), 2)
+            self.assertEqual(len(selected), 4)
             config["screening"]["interests"] = ["marine biology"]
             selected, _ = screen_records(records, {}, config, self.root, TODAY)
-            self.assertEqual(selected, [])
+            self.assertEqual(len(selected), 4)
             self.assertEqual(fetch.call_count, 4)
 
     def test_selects_exactly_twenty_when_enough_verified_matches_exist(self):

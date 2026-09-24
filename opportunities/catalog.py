@@ -84,7 +84,7 @@ def davidson_priority_score(row: dict, priority_config: dict) -> int:
     return score
 
 
-def _readme_sort_key(row: dict, today: date, priority_config: dict) -> tuple[int, int, int, str, str]:
+def readme_sort_key(row: dict, today: date, priority_config: dict) -> tuple[int, int, int, str, str]:
     status, _ = _status(row, today)
     status_priority = {"🔥 [CLOSING SOON]": 0, "✅ [OPEN]": 1, "⛔ [CLOSED]": 2}[status]
     published = _text(row.get("published_date"))
@@ -138,7 +138,7 @@ def render_catalog(records: list[dict], today: date) -> str:
 
 def render_readme_section(records: list[dict], today: date, limit: int = 20, priority_config: dict | None = None) -> str:
     priority_config = priority_config or {}
-    rows = sorted(records, key=lambda row: _readme_sort_key(row, today, priority_config))[:limit]
+    rows = sorted(records, key=lambda row: readme_sort_key(row, today, priority_config))[:limit]
     if not rows:
         return "The next scheduled collection will populate this table."
     lines = [
