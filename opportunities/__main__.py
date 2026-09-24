@@ -58,7 +58,7 @@ def collect(config: dict, config_root: Path, state_path: Path, output: Path, tod
     export_workbook(visible, reviews, report, workbook_path, config, today)
     export_csv(visible, output / "opportunities.csv")
     write_catalog(records, config_root / "OPPORTUNITIES.md", today)
-    update_readme(config_root / "README.md", records, today)
+    update_readme(config_root / "README.md", records, today, config.get("readme_priority", {}))
     write_json(review_path, reviews)
     write_json(state_path, records)
     print(f"Exported {len(visible)} undergraduate internships ({len(records)} current/community records stored). Excel review: {workbook_path}")

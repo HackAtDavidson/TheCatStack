@@ -3,7 +3,7 @@ from datetime import date
 from pathlib import Path
 from tempfile import TemporaryDirectory
 
-from opportunities.catalog import render_catalog, update_readme
+from opportunities.catalog import render_catalog, render_readme_section, update_readme
 
 
 class CatalogTests(unittest.TestCase):
@@ -66,6 +66,21 @@ class CatalogTests(unittest.TestCase):
         self.assertIn("Software Engineering Intern", content)
         self.assertIn("Keep this.", content)
         self.assertNotIn("\nold\n", content)
+
+    def test_readme_prioritizes_north_carolina_and_verified_davidson_employers(self):
+        rows = [
+            {"title": "Remote Software Intern", "organization": "Far Away", "category": "Internship", "location": "Seattle, WA", "url": "https://example.org/remote", "published_date": "2026-09-23"},
+            {"title": "Analytics Intern", "organization": "Trane Technologies", "category": "Internship", "location": "La Crosse, WI", "url": "https://example.org/trane", "published_date": "2026-09-23"},
+            {"title": "Software Intern", "organization": "Charlotte Startup", "category": "Internship", "location": "Charlotte, NC", "url": "https://example.org/nc", "published_date": "2026-09-23"},
+        ]
+        section = render_readme_section(rows, date(2026, 9, 23), priority_config={
+            "north_carolina_bonus": 120,
+            "nearby_states": {"sc": 80, "va": 70},
+            "davidson_employers": ["Trane Technologies"],
+            "davidson_employer_bonus": 160,
+        })
+        self.assertLess(section.index("Trane Technologies"), section.index("Charlotte Startup"))
+        self.assertLess(section.index("Charlotte Startup"), section.index("Far Away"))
 
 
 if __name__ == "__main__":

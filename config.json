@@ -4,6 +4,12 @@
   "stale_after_days": 7,
   "include_keywords": [],
   "exclude_keywords": [],
+  "readme_priority": {
+    "north_carolina_bonus": 120,
+    "nearby_states": {"sc": 80, "va": 70, "tn": 65, "ga": 60, "md": 55, "dc": 55},
+    "davidson_employers": ["Red Ventures", "Trane Technologies"],
+    "davidson_employer_bonus": 160
+  },
   "screening": {
     "interests": ["software", "computer science", "data", "machine learning", "cybersecurity", "product", "engineering", "quantitative", "research", "analytics"],
     "minimum_score": 65,
