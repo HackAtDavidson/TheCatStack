@@ -223,8 +223,9 @@ def screen_records(records: list[dict], reviews: dict, config: dict, output: Pat
         if result["decision"] in {"Skip", "Sent"} or result["status"] == "Excluded":
             continue
         role = (result["organization"].casefold(), re.sub(r"\W+", " ", result["title"].casefold()).strip())
-        if not manual and (result["status"] != "Strong match" or
-                           organizations[result["organization"].casefold()] >= per_company or role in roles):
+        if result["status"] != "Strong match":
+            continue
+        if not manual and (organizations[result["organization"].casefold()] >= per_company or role in roles):
             continue
         row = by_id[result["id"]]
         if not eligible(row, config, today) or availability(row, today, config.get("stale_after_days", 7)) != "Current":
@@ -234,7 +235,9 @@ def screen_records(records: list[dict], reviews: dict, config: dict, output: Pat
         compact = result["priority_labels"] + result["skills"][:3]
         if not compact:
             compact = ["Undergraduate tech internship"]
-        chosen.append({**row, **reviews.get(row["id"], {}), "decision": "Include",
+        chosen.append({**row, **reviews.get(row["id"], {}),
+                       "deadline": result["evidence"].get("deadline") or row.get("deadline", ""),
+                       "decision": "Include",
                        "notes": reviews.get(row["id"], {}).get("notes", ""), "availability": "Current",
                        "sources": "; ".join(row.get("active_sources", [])), "fit_reason": explanation,
                        "screening_notes": result["authorization"] + ". " + "; ".join(result["unknowns"]),

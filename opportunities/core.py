@@ -112,6 +112,8 @@ def merge(previous: list[dict], batches: dict[str, list[dict]], configured: set[
             if ident not in records:
                 records[ident] = {**item, "first_seen": today.isoformat(), "active_sources": []}
             row = records[ident]
+            if item.get("community_record"):
+                row["community_record"] = True
             if ident not in updated:
                 row.update(item)
                 updated.add(ident)

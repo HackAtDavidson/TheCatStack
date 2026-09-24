@@ -43,6 +43,7 @@ def collect(config: dict, config_root: Path, state_path: Path, output: Path, tod
         raise ValueError("Every source failed. Existing state and workbook were preserved.")
     records = merge(previous, batches, set(names), today)
     records = [row for row in records if row.get("community_record") or
+               reviews.get(row["id"], {}).get("notes", "").strip() or
                (undergraduate_internship(row) and posted_recently(row, today, config.get("max_age_days", 7)))]
     visible = [row for row in records if undergraduate_internship(row)
                and posted_recently(row, today, config.get("max_age_days", 7))]

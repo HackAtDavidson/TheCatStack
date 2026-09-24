@@ -135,6 +135,19 @@ class ScreeningTests(unittest.TestCase):
         self.assertNotIn(records[0]["id"], [row["id"] for row in selected])
         self.assertNotIn(records[1]["id"], [row["id"] for row in selected])
 
+    def test_manual_include_still_requires_verified_strong_match(self):
+        row = record()
+        reviews = {row["id"]: {"decision": "Include"}}
+        with patch.object(JobReader, "job", return_value={}):
+            selected, _ = screen_records([row], reviews, {"screening": {"max_pages_per_run": 1}}, self.root, TODAY)
+        self.assertEqual(selected, [])
+
+    def test_selected_row_carries_verified_employer_deadline(self):
+        row = record()
+        with patch.object(JobReader, "job", return_value=page(deadline="2026-09-30")):
+            selected, _ = screen_records([row], {}, {"screening": {"max_pages_per_run": 1}}, self.root, TODAY)
+        self.assertEqual(selected[0]["deadline"], "2026-09-30")
+
     def test_employer_diversity_and_scoring_changes_reuse_page_cache(self):
         records = [record(str(index), organization="First" if index < 3 else "Second") for index in range(4)]
         config = {"screening": {"max_per_organization": 1}}
