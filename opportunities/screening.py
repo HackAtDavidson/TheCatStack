@@ -9,6 +9,7 @@ from datetime import date
 from pathlib import Path
 
 from .core import availability, eligible, iso_date, read_json, write_json
+from .catalog import davidson_priority_score
 from .job_pages import JobReader, supported_ats
 
 DEFAULT_INTERESTS = ["software", "computer science", "data", "machine learning", "cybersecurity",
@@ -148,6 +149,16 @@ def assess(row: dict, page: dict, config: dict, today: date) -> dict:
         result["score"] += int(settings.get("class_year_bonus", 8))
         result["priority_labels"].append("Class-year fit")
         result["reasons"].append("States class-year guidance for undergraduates")
+    davidson_score = davidson_priority_score(row, config.get("readme_priority", {}))
+    if davidson_score:
+        result["score"] += davidson_score
+        if any(name.casefold() in row["organization"].casefold()
+               for name in config.get("readme_priority", {}).get("davidson_employers", [])):
+            result["priority_labels"].append("Davidson-connected employer")
+            result["reasons"].append("Employer has a documented Davidson connection")
+        else:
+            result["priority_labels"].append("Davidson-region location")
+            result["reasons"].append("Location is in North Carolina or a nearby state")
     distance_priority = source_priority(row, settings)
     if distance_priority == 3:
         result["score"] += int(settings.get("nearby_location_bonus", 20))
@@ -191,6 +202,7 @@ def screen_records(records: list[dict], reviews: dict, config: dict, output: Pat
         else:
             candidates.append(row)
     candidates.sort(key=lambda row: (reviews.get(row["id"], {}).get("decision") == "Include",
+                                     davidson_priority_score(row, config.get("readme_priority", {})),
                                      source_priority(row, settings), supported_ats(row["url"]),
                                      row["published_date"], row["id"]), reverse=True)
     reader = JobReader(timeout=int(settings.get("request_timeout_seconds", 12)))

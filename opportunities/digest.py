@@ -54,7 +54,7 @@ def prepare_digest(rows: list[dict], output: Path, club: str, today: date, stale
             return 0
         raise ValueError("No current listings marked Include. Review the workbook and try again; no email draft was written.")
     subject = f"{club} tech opportunities — {today:%B %d, %Y}"
-    intro = "Here are this week's opportunities. Check each application page for eligibility and the latest deadline."
+    intro = "Here are this week's strongest Davidson matches. Check each application page for eligibility and the latest deadline."
     text_parts = [subject, "", intro]
     cards = []
     esc = html.escape
@@ -73,7 +73,8 @@ def prepare_digest(rows: list[dict], output: Path, club: str, today: date, stale
         if row["notes"]:
             text_parts.append("Note: " + row["notes"])
         text_parts.append(f'Apply: {row["url"]}')
-        note = f'<br><em>{esc(row["notes"]).replace(chr(10), " ")}</em>' if row["notes"] else ""
+        note_text = " ".join(row["notes"].split())[:180]
+        note = f'<br><em>Note: {esc(note_text)}</em>' if note_text else ""
         cards.append(f'<li style="margin:0 0 12px"><strong>{esc(title)}</strong><br>'
                      f'<span style="color:#43556a;font-size:14px">{esc(details)}</span>{note}<br>'
                      f'<a href="{esc(row["url"], quote=True)}">Apply</a></li>')

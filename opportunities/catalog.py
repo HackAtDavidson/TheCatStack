@@ -65,7 +65,7 @@ def _sort_key(row: dict, today: date) -> tuple[int, int, str, str]:
     return priority, -int(published.replace("-", "") or "0"), _text(row.get("organization")).casefold(), _text(row.get("title")).casefold()
 
 
-def _readme_priority(row: dict, priority_config: dict) -> int:
+def davidson_priority_score(row: dict, priority_config: dict) -> int:
     """Prefer practical Davidson connections for the small README snapshot."""
     organization = _text(row.get("organization")).casefold()
     location = _text(row.get("location")).casefold()
@@ -88,7 +88,7 @@ def _readme_sort_key(row: dict, today: date, priority_config: dict) -> tuple[int
     status, _ = _status(row, today)
     status_priority = {"🔥 [CLOSING SOON]": 0, "✅ [OPEN]": 1, "⛔ [CLOSED]": 2}[status]
     published = _text(row.get("published_date"))
-    return (-_readme_priority(row, priority_config), status_priority,
+    return (-davidson_priority_score(row, priority_config), status_priority,
             -int(published.replace("-", "") or "0"),
             _text(row.get("organization")).casefold(), _text(row.get("title")).casefold())
 
