@@ -1,7 +1,9 @@
 import unittest
 from datetime import date
+from pathlib import Path
+from tempfile import TemporaryDirectory
 
-from opportunities.catalog import render_catalog
+from opportunities.catalog import render_catalog, update_readme
 
 
 class CatalogTests(unittest.TestCase):
@@ -45,6 +47,25 @@ class CatalogTests(unittest.TestCase):
         catalog = render_catalog([row], date(2026, 9, 23))
         self.assertIn("Data \\| Research Intern", catalog)
         self.assertIn("A \\| B", catalog)
+
+    def test_readme_updates_only_the_generated_section(self):
+        row = {
+            "title": "Software Engineering Intern",
+            "organization": "Davidson Labs",
+            "category": "Internship",
+            "location": "Charlotte, NC",
+            "url": "https://example.org/apply",
+            "published_date": "2026-09-23",
+        }
+        with TemporaryDirectory() as directory:
+            path = Path(directory) / "README.md"
+            path.write_text("# Landing\n\n<!-- BEGIN CURRENT OPPORTUNITIES -->\nold\n<!-- END CURRENT OPPORTUNITIES -->\n\nKeep this.\n", encoding="utf-8")
+            update_readme(path, [row], date(2026, 9, 23))
+            content = path.read_text(encoding="utf-8")
+        self.assertIn("# Landing", content)
+        self.assertIn("Software Engineering Intern", content)
+        self.assertIn("Keep this.", content)
+        self.assertNotIn("\nold\n", content)
 
 
 if __name__ == "__main__":

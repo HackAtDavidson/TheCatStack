@@ -1,139 +1,53 @@
-# Hack@Davidson opportunities
+# Hack@Davidson Opportunities
 
-Automatically collect undergraduate tech internships, review them in Excel, and prepare an email for the club.
+Current undergraduate tech internships and community-submitted opportunities for Hack@Davidson members.
 
-**Workflow:** public listings → daily collection → Excel review → selected opportunities → email draft.
+The collector refreshes listings, applies the seven-day freshness and undergraduate filters, screens employer pages, and prepares a compact email draft. It never sends email automatically.
 
-Browse the generated [Davidson Student Opportunities catalog](OPPORTUNITIES.md) for a quick, sectioned Markdown view of current internships and community-submitted opportunities. The catalog is refreshed by the collector and follows the same source and freshness rules as the workbook.
+## Current opportunities
 
-For the automatic path, run `python -m opportunities run`. It collects the current feed, checks a bounded number of public employer pages, ranks matches for all undergraduate class years in tech internships, writes a Screening tab and HTML report, and creates a draft containing the strongest verified matches. It never sends email. Use `python -m opportunities mark-sent` after sending the draft.
+<!-- BEGIN CURRENT OPPORTUNITIES -->
+_Showing up to 20 current opportunities. See the [full catalog](OPPORTUNITIES.md) for every record._
 
-## What the first version does
+Status | Organization | Opportunity | Location | Apply | Deadline
+--- | --- | --- | --- | --- | ---
+✅ [OPEN] | Advanced Energy | Firmware Engineer Intern - Undergraduate | Eden Prairie, MN | [Apply](https://jobs.advanced-energy.com/job/Eden-Prairie-Intern-Firmware-Engineer,-Undergraduate-MN-55344/1432967000/?ats=successfactors) | Rolling / check site
+✅ [OPEN] | Apple | Design Verification Engineer Intern | Cupertino, CA | [Apply](https://jobs.apple.com/en-us/details/200685172) | Rolling / check site
+✅ [OPEN] | Astranis | Backend Software Engineer Intern - Summer 2027 | SF | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705214006) | Rolling / check site
+✅ [OPEN] | Astranis | Flight Software Intern | SF | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704595006) | Rolling / check site
+✅ [OPEN] | Astranis | Flight Software Intern - Summer 2027 | SF | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704598006) | Rolling / check site
+✅ [OPEN] | Astranis | Software Engineer Enterprise Systems Intern - Summer 2027 | SF | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705610006) | Rolling / check site
+✅ [OPEN] | Bedrock Robotics | Evaluation Engineer Intern - Metric Prototyping | SF | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/07b55743-d5c4-4347-bfac-000821317b13/application?embed=true) | Rolling / check site
+✅ [OPEN] | Booz Allen | Quantum Research Intern - Summer 2027 | Washington, DC | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/University---Summer-2027---Quantum-Research-Intern_R0250129) | Rolling / check site
+✅ [OPEN] | Boston Properties | IT Data Services Co-op | Boston, MA | [Apply](https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5001/job/26157) | Rolling / check site
+✅ [OPEN] | Boston Scientific | Data Science Engineering Intern | Arden Hills, MN | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813638090) | Rolling / check site
+✅ [OPEN] | Brunswick | Data Analytics Intern | Fond du Lac, WI | [Apply](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Data-Analytics-Co-Op_JR-051119) | Rolling / check site
+✅ [OPEN] | CACI | AI Systems Engineer Intern - Summer 2027 | Annapolis Junction, MD; Fort Meade, MD | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Annapolis-Junction-MD-US/AI-Systems-Engineering-Intern----Summer-2027_332506) | Rolling / check site
+✅ [OPEN] | CACI | Software Engineer Intern | Reston, VA | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Reston-VA-US/Software-Engineering-Intern---Summer-2027_332041) | Rolling / check site
+✅ [OPEN] | CACI | Software Engineer Intern - Summer 2027 | Sterling, VA | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/Software-Engineering-Intern---Summer-2027_332372) | Rolling / check site
+✅ [OPEN] | CAE | Weapons Simulation Software Co-op | Arlington, TX | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Weapons-Simulation-Software-Co-Op_123873) | Rolling / check site
+✅ [OPEN] | Citadel | Fixed Income & Macro Trader Intern - US | Greenwich, CT; Miami, FL; NYC | [Apply](https://www.citadel.com/careers/details/trader-fixed-income-macro-rotational-trader-intern-us/) | Rolling / check site
+✅ [OPEN] | Clearwater Analytics | Data Management & Reporting Intern | NYC | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---New-York/Data-Management---Reporting-Intern_R12095) | Rolling / check site
+✅ [OPEN] | Coram AI | Software Engineer Intern | London, UK | [Apply](https://jobs.ashbyhq.com/coram-ai/0c4bb1e4-0d05-40b5-a61c-6db475e21640/application?embed=true) | Rolling / check site
+✅ [OPEN] | Entrust | Software Development Intern | Ottawa, ON, Canada | [Apply](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/XMLNAME--Intern---Software-Development----8-months---Hybrid-Ottawa_R004359) | Rolling / check site
+✅ [OPEN] | Entrust | Software Development Intern - Citizen Remote Identity Verification | Ottawa, ON, Canada | [Apply](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/Intern--Software-Development---Hybrid-in-Ottawa_R004360) | Rolling / check site
+<!-- END CURRENT OPPORTUNITIES -->
 
-- Collects undergraduate internships from [Simplify and Pitt CSC internships](https://github.com/SimplifyJobs/Summer2027-Internships) and the [Vansh & Ouckah Summer 2027 internship feed](https://github.com/vanshb03/Summer2027-Internships). The new-graduate/full-time feed is not collected.
-- Adds club-submitted undergraduate internships from `data/manual.csv`, using the same eligibility rules.
-- Combines duplicate application URLs and keeps only current automatic listings in the active state; community-marked records may remain for future-cycle knowledge.
-- Exports a filterable `.xlsx` workbook with a Decision dropdown, Club notes, application links, eligibility, and source details. A CSV export is also available.
-- Screens public employer pages for undergraduate requirements, technical interests, class-year language, pay, deadlines, and work-authorization statements. The Screening tab preserves evidence and unknowns; a score ranks priority and is not an acceptance prediction.
-- Generates HTML, plain text, and `.eml` email drafts from rows marked **Include**. It never sends email.
-- Runs daily on GitHub after the workflow is merged into the default branch. Each run uploads a downloadable workbook and collection report.
+## Browse and use
 
-This version tracks configured sources, not every opportunity on the internet. Each source is credited in the workbook and collection report; source schemas are normalized into the same eligibility and seven-day filters. Automated hackathon/fellowship feeds and Microsoft 365 workbook synchronization are future extensions.
-
-## Step 1: Set up once
-
-Install Python 3.12 or newer. Download/clone this repository, open a terminal in its folder, then run:
-
-```sh
-python3 -m venv .venv
-source .venv/bin/activate
-python -m pip install -r requirements.txt
-```
-
-On Windows, use `py -m venv .venv` and `.venv\Scripts\activate` instead of the first two lines.
-
-The collector loads the `certifi` certificate bundle alongside Python's configured
-trusted certificates. This supports Python installations missing a default CA
-bundle while keeping HTTPS certificate and hostname verification enabled.
-After updating the project, rerun `python -m pip install -r requirements.txt`.
-
-## Step 2: Collect opportunities
-
-```sh
-python -m opportunities collect
-```
-
-Open `output/opportunities.xlsx` in Excel. Its Opportunities tab contains listings and review fields, Instructions explains the review process, and Sources reports collection results.
-
-Only listings categorized as Internship with an intern, internship, or co-op title and explicit undergraduate/bachelor's eligibility are included. The Simplify adapter reads its `degrees` field; listings without degree information are excluded. Internships open to both bachelor's and advanced-degree students can qualify, but titles explicitly marked graduate, master's, MBA, PhD, postdoctoral, or full-time are excluded even if degree metadata includes bachelor's students. A legacy advanced-degree flag also excludes a listing.
-
-Only listings posted within the last 7 days are collected and exported by default. This uses the source's publication date, not the date the collector first discovered a listing. The cutoff includes postings exactly 7 days old, using UTC calendar dates; missing and future publication dates are excluded. Email generation rechecks this window when reading a saved workbook. No location filter is applied; check location and eligibility before sharing. Unknown application deadlines remain blank rather than being guessed. Eligibility is based on source metadata, so verify the employer's application page before sharing.
-
-Refreshing an existing workbook removes out-of-scope and older rows from the Excel and CSV exports. Historical records remain in `data/opportunities.json` and review notes remain in `output/reviews.json`. Email generation applies the same undergraduate-only rules, including when reading an older workbook.
-
-## Step 3: Review in Excel
-
-1. Filter **Availability** to **Current** and use **First seen** to find recent additions.
-2. Open application links to verify eligibility, location, and whether applications remain open.
-3. Set **Decision** to **Include** for the next email. Use **Skip** for irrelevant listings.
-4. Add your wording in **Club notes**.
-5. Save as `.xlsx` and close Excel before collecting again.
-
-Keep IDs and the header row intact. Local collection preserves Decision and Club notes from `output/opportunities.xlsx` and saves them in ignored `output/reviews.json`. Other fields refresh from sources. Daily GitHub downloads start with Pending decisions and do not synchronize your edits. To carry edits into a local refresh, save the edited file as `output/opportunities.xlsx` first.
-
-**Not in latest feed** can mean a listing closed, aged out of the configured filter, or was removed; it is not proof that an employer closed applications. **Needs recheck** means the last observation is over seven days old. Source outages preserve previous observations and record an error.
-
-## Step 4: Prepare the club email
-
-```sh
-python -m opportunities digest --workbook output/opportunities.xlsx
-```
-
-You can supply a downloaded workbook's full path (in quotes if it contains spaces).
-
-- Open `output/digest/email-preview.html` in a browser. Copy the formatted message into Gmail, Outlook, or your email editor.
-- Short digests offer an **Open a plain-text draft in your mail app** link. Long digests use the copy path because email links have client-specific size limits.
-- `email-draft.eml` is an alternative for clients that support opening draft files; some clients open it as a message instead.
-- `email.txt` is a plain-text fallback. `digest-report.json` lists selected rows excluded because they expired or need rechecking.
-
-Add the club recipient, review, and send from your email account. Afterwards, mark those rows **Sent** in Excel and save. Generating a draft does not mark anything as sent. No mailing lists or email credentials are stored.
-
-## Automatic shortlist and email
-
-Use the one-command workflow:
+- [Full opportunities catalog](OPPORTUNITIES.md) — all current and community-maintained records, organized by category.
+- [Process and setup guide](GUIDE.md) — installation, collection, screening, Excel review, email preparation, and troubleshooting.
+- [Roadmap](docs/ROADMAP.md) — planned community knowledge, recurring opportunities, archives, and future database work.
+- [Project context](CONTEXT.md) — shared vocabulary and domain decisions.
 
 ```sh
 python -m opportunities run
 ```
 
-Open `output/screening-report.html` to see the evidence and unresolved questions. Open `output/digest/email-preview.html`, use **Copy formatted email**, paste it into Gmail or Outlook, review it, and send it. The email uses compact entries—title, employer, location, posting/deadline dates, a few priority tags, work-authorization status, and the application link—so readers can scan all 20 quickly. Pages that are blocked, incomplete, or not checked are never automatically selected.
-
-The default run checks at most 200 new employer pages and targets exactly 20 strong matches when at least 20 verified eligible roles are available. It includes at most two roles per employer. If fewer than 20 verified matches exist, it reports the shortfall instead of filling the email with unchecked roles. Ranking favors evidence that a role is a strong Davidson fit: explicit undergraduate eligibility, technical interests and skills, class-year guidance, student mentoring/team signals, and locations near Davidson. Employer prestige is not used as a shortcut. Adjust the fit terms, location lists, bonuses, page budget, and target under `screening` in `config.json`. `output/page-cache.json` avoids rechecking the same page on the same day. Use `--refresh-pages` when you need a fresh read.
-
-After sending:
+Review `output/screening-report.html` and `output/digest/email-preview.html`, copy the email into your mail app, verify it, and send it. Then record the completed send:
 
 ```sh
 python -m opportunities mark-sent
 ```
 
-This marks only the listings in the last generated draft as Sent. It does not send email.
-
-## Step 5: Turn on daily collection
-
-After merging the implementation into `main`:
-
-1. Open **Actions → Collect opportunities** in GitHub.
-2. Use **Run workflow** to check the first run.
-3. Download the completed run's **opportunity-review-…** artifact. Unzip it and open the workbook.
-4. Scheduled runs follow at 12:23 UTC daily (8:23 a.m. Eastern during daylight time; 7:23 a.m. in standard time). GitHub may delay runs.
-
-The workflow uses GitHub's built-in token to commit the current active listing state to `data/opportunities.json`; no personal token is needed. Community knowledge will later move to the durable member catalog described in the roadmap. If repository rules block bot pushes, the run reports failure and still provides its workbook. Concurrent external pushes can also reject an update; the workflow never force-pushes. Review notes stay outside version control.
-
-Artifacts are retained for 30 days. GitHub can disable scheduled workflows in inactive public repositories after 60 days. See [schedule documentation](https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule) and [artifact documentation](https://docs.github.com/en/actions/concepts/workflows-and-actions/workflow-artifacts).
-
-## Configure sources and filters
-
-Edit `config.json`:
-
-| Setting | Meaning |
-| --- | --- |
-| `club_name` | Email heading and subject |
-| `max_age_days` | Maximum posting age, inclusive (default 7 days); missing/future dates are excluded; `null` disables the date filter |
-| `stale_after_days` | Days without observation before a listing is excluded from email |
-| `include_keywords` | Require at least one match in title, organization, or category |
-| `exclude_keywords` | Skip title/organization/category matches |
-| `sources` | Enabled sources, addresses, and source types |
-
-Update the internship source address when a new recruiting cycle starts. The data layout is documented in [Simplify's contributing guide](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/CONTRIBUTING.md). This project links back to those maintainers and does not copy their collector code.
-
-For manual internships, add rows to `data/manual.csv`. `title` and `url` are required. Set `category` to `Internship`, use an internship/co-op title, and state confirmed undergraduate or bachelor's eligibility in `eligibility` (for example, `Open to undergraduate students`). Other categories and unknown degree eligibility are excluded. Dates use `YYYY-MM-DD`; supply `published_date` within the last 7 days to qualify under the default posting window. Include an official source link. Committed CSV rows are public, so include opportunity information only.
-
-## Development
-
-```sh
-python -m unittest discover -s tests -v
-```
-
-Offline tests cover undergraduate eligibility, exclusion of graduate/full-time roles, seven-day filtering, ephemeral automatic listings, community-record retention, employer-page parsing, safe URL handling, screening evidence, page caching, employer diversity, manual decisions, draft generation, and marking sent, along with duplicate handling, listing lifecycle, outages, review persistence, workbook round trips, formula-like source text, and email selection/escaping. GitHub runs the suite on pull requests.
-
-See [BUILD_PLAN.md](BUILD_PLAN.md) for the implementation stages and next milestones.
+To contribute an opportunity or recruiting knowledge, open an issue in the private Hack@Davidson repository. Human-reviewed community records remain visible beyond the automatic seven-day window.
