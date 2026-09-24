@@ -4,6 +4,8 @@ Automatically collect undergraduate tech internships, review them in Excel, and 
 
 **Workflow:** public listings → daily collection → Excel review → selected opportunities → email draft.
 
+Browse the generated [Davidson Student Opportunities catalog](OPPORTUNITIES.md) for a quick, sectioned Markdown view of current internships and community-submitted opportunities. The catalog is refreshed by the collector and follows the same source and freshness rules as the workbook.
+
 For the automatic path, run `python -m opportunities run`. It collects the current feed, checks a bounded number of public employer pages, ranks matches for all undergraduate class years in tech internships, writes a Screening tab and HTML report, and creates a draft containing the strongest verified matches. It never sends email. Use `python -m opportunities mark-sent` after sending the draft.
 
 ## What the first version does
