@@ -65,6 +65,34 @@ def _sort_key(row: dict, today: date) -> tuple[int, int, str, str]:
     return priority, -int(published.replace("-", "") or "0"), _text(row.get("organization")).casefold(), _text(row.get("title")).casefold()
 
 
+def _readme_priority(row: dict, priority_config: dict) -> int:
+    """Prefer practical Davidson connections for the small README snapshot."""
+    organization = _text(row.get("organization")).casefold()
+    location = _text(row.get("location")).casefold()
+    score = 0
+    for employer in priority_config.get("davidson_employers", []):
+        if _text(employer).casefold() in organization:
+            score += int(priority_config.get("davidson_employer_bonus", 0))
+            break
+    states = priority_config.get("nearby_states", {})
+    for state, bonus in states.items():
+        if re.search(rf"(?:,|\s)\s*{re.escape(state.casefold())}(?:\b|;)", location):
+            score += int(bonus)
+            break
+    if "north carolina" in location or re.search(r"(?:,|\s)\s*nc(?:\b|;)", location):
+        score += int(priority_config.get("north_carolina_bonus", 0))
+    return score
+
+
+def _readme_sort_key(row: dict, today: date, priority_config: dict) -> tuple[int, int, int, str, str]:
+    status, _ = _status(row, today)
+    status_priority = {"🔥 [CLOSING SOON]": 0, "✅ [OPEN]": 1, "⛔ [CLOSED]": 2}[status]
+    published = _text(row.get("published_date"))
+    return (-_readme_priority(row, priority_config), status_priority,
+            -int(published.replace("-", "") or "0"),
+            _text(row.get("organization")).casefold(), _text(row.get("title")).casefold())
+
+
 def _anchor(title: str) -> str:
     return re.sub(r"[^a-z0-9 -]", "", title.casefold()).replace(" ", "-")
 
@@ -108,8 +136,9 @@ def render_catalog(records: list[dict], today: date) -> str:
     return "\n".join(lines).rstrip() + "\n"
 
 
-def render_readme_section(records: list[dict], today: date, limit: int = 20) -> str:
-    rows = sorted(records, key=lambda row: _sort_key(row, today))[:limit]
+def render_readme_section(records: list[dict], today: date, limit: int = 20, priority_config: dict | None = None) -> str:
+    priority_config = priority_config or {}
+    rows = sorted(records, key=lambda row: _readme_sort_key(row, today, priority_config))[:limit]
     if not rows:
         return "The next scheduled collection will populate this table."
     lines = [
@@ -133,7 +162,7 @@ def render_readme_section(records: list[dict], today: date, limit: int = 20) -> 
     return "\n".join(lines)
 
 
-def update_readme(path: Path, records: list[dict], today: date) -> None:
+def update_readme(path: Path, records: list[dict], today: date, priority_config: dict | None = None) -> None:
     if not path.exists():
         return
     text = path.read_text(encoding="utf-8")
@@ -141,7 +170,7 @@ def update_readme(path: Path, records: list[dict], today: date) -> None:
         raise ValueError("README is missing the current-opportunities markers")
     before, remainder = text.split(README_START, 1)
     _, after = remainder.split(README_END, 1)
-    updated = before + README_START + "\n" + render_readme_section(records, today) + "\n" + README_END + after
+    updated = before + README_START + "\n" + render_readme_section(records, today, priority_config=priority_config) + "\n" + README_END + after
     temporary = path.with_suffix(path.suffix + ".tmp")
     temporary.write_text(updated, encoding="utf-8")
     temporary.replace(path)

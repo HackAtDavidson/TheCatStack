@@ -113,6 +113,8 @@ Artifacts are retained for 30 days. GitHub can disable scheduled workflows in in
 
 ## Configure sources and filters
 
+The README highlight table uses a separate, transparent proximity signal: North Carolina roles rank first, followed by roles in nearby states, then other locations. It also gives a bonus to employers with documented Davidson connections in `config.json`. The initial employer list includes Trane Technologies, whose leadership has described hiring Davidson interns and graduates, and Red Ventures, which Davidson documented as a recruiting partnership. These signals affect the README highlights only; they do not imply an employer will accept an application or change the email screening score. See [Davidson career connections](https://www.davidson.edu/career-success-alumni-connections) and the [Davidson–Red Ventures partnership](https://www.davidson.edu/news/2014/09/09/davidsonred-ventures-partnership-offers-career-opportunities-to-students-and-alumni).
+
 Edit `config.json`:
 
 | Setting | Meaning |
