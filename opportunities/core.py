@@ -60,12 +60,38 @@ def normalize(raw: dict) -> dict:
     }
 
 
+def undergraduate_internship(record: dict) -> bool:
+    """Require affirmative undergraduate eligibility and an internship role."""
+    if clean(record.get("category")).casefold() != "internship":
+        return False
+    title = clean(record.get("title"))
+    if not re.search(r"\b(?:intern(?:ship)?s?|co[ -]?op)\b", title, re.I):
+        return False
+    if re.search(
+        r"\b(?:grad(?:uate)?s?|post[ -]?grad(?:uate)?|post[ -]?doc(?:toral)?|"
+        r"doctoral|ph\.?\s?d\.?|mba|m\.?s\.?|msc|"
+        r"master(?:['’]s|s)|full[ -]?time)\b", title, re.I
+    ):
+        return False
+    return bool(re.search(r"\b(?:undergrad(?:uate)?s?|bachelor(?:['’]s|s)?)\b",
+                          clean(record.get("eligibility")), re.I))
+
+
+def posted_recently(record: dict, today: date, max_age_days: int | None = 7) -> bool:
+    if max_age_days is None:
+        return True
+    published = record.get("published_date")
+    if not published:
+        return False
+    return 0 <= (today - date.fromisoformat(published)).days <= max_age_days
+
+
 def eligible(record: dict, config: dict, today: date) -> bool:
+    if not undergraduate_internship(record):
+        return False
     if record["deadline"] and date.fromisoformat(record["deadline"]) < today:
         return False
-    published = record["published_date"]
-    max_age = config.get("max_age_days", 90)
-    if published and max_age is not None and (today - date.fromisoformat(published)).days > max_age:
+    if not posted_recently(record, today, config.get("max_age_days", 7)):
         return False
     text = f'{record["title"]} {record["organization"]} {record["category"]}'.casefold()
     includes = config.get("include_keywords", [])
