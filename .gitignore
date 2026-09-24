@@ -209,6 +209,10 @@ tempCodeRunnerFile.py
 # PyPI configuration file
 .pypirc
 
+# Generated workbooks and private club review notes stay local.
+output/
+outputs/
+
 # Marimo
 marimo/_static/
 marimo/_lsp/
