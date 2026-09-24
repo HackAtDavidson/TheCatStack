@@ -9,7 +9,7 @@ from datetime import date
 from pathlib import Path
 
 from .core import availability, eligible, iso_date, read_json, write_json
-from .catalog import davidson_priority_score
+from .catalog import davidson_priority_score, readme_sort_key
 from .job_pages import JobReader, supported_ats
 
 DEFAULT_INTERESTS = ["software", "computer science", "data", "machine learning", "cybersecurity",
@@ -187,9 +187,8 @@ def screen_records(records: list[dict], reviews: dict, config: dict, output: Pat
     settings = config.get("screening", {})
     budget = int(settings.get("max_pages_per_run", 120))
     limit = int(settings.get("max_email_items", 20))
-    per_company = int(settings.get("max_per_organization", 2))
-    if budget < 0 or limit < 1 or per_company < 1:
-        raise ValueError("Page budget must be nonnegative; email and employer limits must be positive")
+    if budget < 0 or limit < 1:
+        raise ValueError("Page budget must be nonnegative; email limit must be positive")
     cache_path = output / "page-cache.json"
     cache = read_json(cache_path, {})
     pages = {}
@@ -228,19 +227,14 @@ def screen_records(records: list[dict], reviews: dict, config: dict, output: Pat
     by_id = {row["id"]: row for row in records}
     for result in results:
         result["decision"] = reviews.get(result["id"], {}).get("decision", "Pending")
-    results.sort(key=lambda item: (item["decision"] == "Include", item["davidson_priority"],
-                                   item["score"], by_id[item["id"]]["published_date"], item["id"]), reverse=True)
-    chosen, organizations, roles = [], Counter(), set()
+    results.sort(key=lambda item: (readme_sort_key(by_id[item["id"]], today, config.get("readme_priority", {})),
+                                   item["decision"] != "Include", -item["score"], item["id"]))
+    chosen = []
     for result in results:
         if len(chosen) >= limit:
             break
         manual = result["decision"] == "Include"
-        if result["decision"] in {"Skip", "Sent"} or result["status"] == "Excluded":
-            continue
-        role = (result["organization"].casefold(), re.sub(r"\W+", " ", result["title"].casefold()).strip())
-        if result["status"] != "Strong match":
-            continue
-        if not manual and (organizations[result["organization"].casefold()] >= per_company or role in roles):
+        if result["decision"] in {"Skip", "Sent"}:
             continue
         row = by_id[result["id"]]
         if not eligible(row, config, today) or availability(row, today, config.get("stale_after_days", 7)) != "Current":
@@ -251,7 +245,7 @@ def screen_records(records: list[dict], reviews: dict, config: dict, output: Pat
         if not compact:
             compact = ["Undergraduate tech internship"]
         chosen.append({**row, **reviews.get(row["id"], {}),
-                       "deadline": result["evidence"].get("deadline") or row.get("deadline", ""),
+                       "deadline": row.get("deadline", ""),
                        "decision": "Include",
                        "notes": reviews.get(row["id"], {}).get("notes", ""), "availability": "Current",
                        "sources": "; ".join(row.get("active_sources", [])), "fit_reason": explanation,
@@ -259,8 +253,6 @@ def screen_records(records: list[dict], reviews: dict, config: dict, output: Pat
                        "class_years": result["class_years"], "skills": ", ".join(result["skills"]),
                        "email_summary": " · ".join(compact),
                        "authorization_summary": result["authorization"]})
-        organizations[result["organization"].casefold()] += 1
-        roles.add(role)
     report = {"date": today.isoformat(), "profile": "All undergraduate class years; tech internships",
               "method": "Employer page metadata and explicit text rules; scores are priorities, not acceptance probabilities",
               "checked_this_run": min(budget, len(candidates)), "cached": len(pages) - min(budget, len(candidates)),

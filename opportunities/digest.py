@@ -54,7 +54,7 @@ def prepare_digest(rows: list[dict], output: Path, club: str, today: date, stale
             return 0
         raise ValueError("No current listings marked Include. Review the workbook and try again; no email draft was written.")
     subject = f"{club} tech opportunities — {today:%B %d, %Y}"
-    intro = "Here are this week's strongest Davidson matches. Check each application page for eligibility and the latest deadline."
+    intro = "Here are this week's current opportunities from the README catalog. Check each application page for eligibility and the latest deadline."
     text_parts = [subject, "", intro]
     cards = []
     esc = html.escape
