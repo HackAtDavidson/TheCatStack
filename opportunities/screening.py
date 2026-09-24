@@ -52,6 +52,7 @@ def source_priority(row: dict, settings: dict) -> int:
 def assess(row: dict, page: dict, config: dict, today: date) -> dict:
     result = {"id": row["id"], "title": row["title"], "organization": row["organization"],
               "url": row["url"], "status": "Needs review", "score": 0, "reasons": [],
+              "davidson_priority": 0,
               "unknowns": [], "evidence": {}, "authorization": "Not specified — verify before applying",
               "class_years": "Not specified", "skills": [], "pay": "Not specified",
               "priority_labels": [], "checked_on": page.get("checked_on", ""), "selected": False}
@@ -150,6 +151,7 @@ def assess(row: dict, page: dict, config: dict, today: date) -> dict:
         result["priority_labels"].append("Class-year fit")
         result["reasons"].append("States class-year guidance for undergraduates")
     davidson_score = davidson_priority_score(row, config.get("readme_priority", {}))
+    result["davidson_priority"] = davidson_score
     if davidson_score:
         result["score"] += davidson_score
         if any(name.casefold() in row["organization"].casefold()
@@ -226,7 +228,8 @@ def screen_records(records: list[dict], reviews: dict, config: dict, output: Pat
     by_id = {row["id"]: row for row in records}
     for result in results:
         result["decision"] = reviews.get(result["id"], {}).get("decision", "Pending")
-    results.sort(key=lambda item: (item["decision"] == "Include", item["score"], by_id[item["id"]]["published_date"], item["id"]), reverse=True)
+    results.sort(key=lambda item: (item["decision"] == "Include", item["davidson_priority"],
+                                   item["score"], by_id[item["id"]]["published_date"], item["id"]), reverse=True)
     chosen, organizations, roles = [], Counter(), set()
     for result in results:
         if len(chosen) >= limit:

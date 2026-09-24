@@ -114,6 +114,15 @@ class ScreeningTests(unittest.TestCase):
         self.assertGreater(connected["score"], nearby["score"])
         self.assertIn("Davidson-connected employer", connected["priority_labels"])
 
+    def test_email_order_uses_readme_priority_before_page_fit_score(self):
+        local = record("local", organization="Local NC", location="Charlotte, NC")
+        distant = record("distant", organization="Distant Co", location="Seattle, WA")
+        config = {"readme_priority": {"north_carolina_bonus": 120},
+                  "screening": {"max_pages_per_run": 2, "max_email_items": 2}}
+        with patch.object(JobReader, "job", side_effect=[page(), page()]):
+            selected, _ = screen_records([distant, local], {}, config, self.root, TODAY)
+        self.assertEqual(selected[0]["id"], local["id"])
+
     def test_priority_roles_are_checked_first_with_a_small_budget(self):
         ordinary = record("ordinary", organization="Ordinary Co", location="Boston, MA")
         priority = record("priority", organization="Local Co", location="Charlotte, NC")
