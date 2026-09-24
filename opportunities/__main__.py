@@ -7,7 +7,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from .core import eligible, merge, posted_recently, read_json, undergraduate_internship, write_json
-from .catalog import write_catalog
+from .catalog import update_readme, write_catalog
 from .digest import prepare_digest
 from .sources import collect_source
 from .screening import screen_records
@@ -58,6 +58,7 @@ def collect(config: dict, config_root: Path, state_path: Path, output: Path, tod
     export_workbook(visible, reviews, report, workbook_path, config, today)
     export_csv(visible, output / "opportunities.csv")
     write_catalog(records, config_root / "OPPORTUNITIES.md", today)
+    update_readme(config_root / "README.md", records, today)
     write_json(review_path, reviews)
     write_json(state_path, records)
     print(f"Exported {len(visible)} undergraduate internships ({len(records)} current/community records stored). Excel review: {workbook_path}")

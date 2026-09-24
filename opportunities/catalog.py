@@ -14,6 +14,8 @@ SECTIONS = (
     ("Resources & Events", "resource"),
     ("Other Opportunities", "other"),
 )
+README_START = "<!-- BEGIN CURRENT OPPORTUNITIES -->"
+README_END = "<!-- END CURRENT OPPORTUNITIES -->"
 
 
 def _text(value) -> str:
@@ -104,6 +106,45 @@ def render_catalog(records: list[dict], today: date) -> str:
     if not any(grouped.values()):
         lines.extend(["## No current opportunities", "", "The next scheduled collection will populate this catalog.", ""])
     return "\n".join(lines).rstrip() + "\n"
+
+
+def render_readme_section(records: list[dict], today: date, limit: int = 20) -> str:
+    rows = sorted(records, key=lambda row: _sort_key(row, today))[:limit]
+    if not rows:
+        return "The next scheduled collection will populate this table."
+    lines = [
+        f"_Showing up to {len(rows)} current opportunities. See the [full catalog](OPPORTUNITIES.md) for every record._",
+        "",
+        "Status | Organization | Opportunity | Location | Apply | Deadline",
+        "--- | --- | --- | --- | --- | ---",
+    ]
+    for row in rows:
+        status, _ = _status(row, today)
+        url = _text(row.get("url"))
+        apply_link = f"[Apply]({url})" if url else "Check site"
+        lines.append(" | ".join([
+            status,
+            _cell(row.get("organization")) or "Not specified",
+            _cell(row.get("title")),
+            _cell(row.get("location")) or "Check site",
+            apply_link,
+            _cell(row.get("deadline")) or "Rolling / check site",
+        ]))
+    return "\n".join(lines)
+
+
+def update_readme(path: Path, records: list[dict], today: date) -> None:
+    if not path.exists():
+        return
+    text = path.read_text(encoding="utf-8")
+    if README_START not in text or README_END not in text:
+        raise ValueError("README is missing the current-opportunities markers")
+    before, remainder = text.split(README_START, 1)
+    _, after = remainder.split(README_END, 1)
+    updated = before + README_START + "\n" + render_readme_section(records, today) + "\n" + README_END + after
+    temporary = path.with_suffix(path.suffix + ".tmp")
+    temporary.write_text(updated, encoding="utf-8")
+    temporary.replace(path)
 
 
 def write_catalog(records: list[dict], path: Path, today: date) -> None:
