@@ -100,6 +100,20 @@ class ScreeningTests(unittest.TestCase):
         self.assertIn("Davidson student fit", ordinary["priority_labels"])
         self.assertIn("Class-year fit", ordinary["priority_labels"])
 
+    def test_email_screening_uses_readme_davidson_priority_signals(self):
+        config = {"readme_priority": {
+            "north_carolina_bonus": 120,
+            "nearby_states": {"sc": 80},
+            "davidson_employers": ["Trane Technologies"],
+            "davidson_employer_bonus": 160,
+        }}
+        ordinary = assess(record(organization="Ordinary Co", location="Seattle, WA"), page(), config, TODAY)
+        nearby = assess(record(organization="Ordinary Co", location="Charlotte, NC"), page(), config, TODAY)
+        connected = assess(record(organization="Trane Technologies", location="La Crosse, WI"), page(), config, TODAY)
+        self.assertGreater(nearby["score"], ordinary["score"])
+        self.assertGreater(connected["score"], nearby["score"])
+        self.assertIn("Davidson-connected employer", connected["priority_labels"])
+
     def test_priority_roles_are_checked_first_with_a_small_budget(self):
         ordinary = record("ordinary", organization="Ordinary Co", location="Boston, MA")
         priority = record("priority", organization="Local Co", location="Charlotte, NC")
