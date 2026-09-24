@@ -1,10 +1,24 @@
 {
   "club_name": "Hack@Davidson",
-  "max_age_days": 90,
+  "max_age_days": 7,
   "stale_after_days": 7,
-  "exclude_advanced_degrees": true,
   "include_keywords": [],
   "exclude_keywords": [],
+  "screening": {
+    "interests": ["software", "computer science", "data", "machine learning", "cybersecurity", "product", "engineering", "quantitative", "research", "analytics"],
+    "minimum_score": 65,
+    "max_email_items": 20,
+    "max_per_organization": 2,
+    "max_pages_per_run": 200,
+    "davidson_fit_terms": ["mentor", "mentorship", "training", "collaborat", "cross-functional", "communication", "team", "research", "analytics", "product"],
+    "davidson_fit_bonus": 10,
+    "class_year_bonus": 8,
+    "nearby_locations": ["Davidson, NC", "Charlotte, NC", "Cornelius, NC", "Huntersville, NC", "Mooresville, NC", "Concord, NC", "Kannapolis, NC"],
+    "nearby_location_bonus": 20,
+    "north_carolina_bonus": 12,
+    "remote_bonus": 5,
+    "request_timeout_seconds": 12
+  },
   "sources": [
     {
       "name": "Simplify and Pitt CSC internships",
@@ -15,17 +29,19 @@
       "enabled": true
     },
     {
-      "name": "Simplify new graduate roles",
+      "name": "Vansh & Ouckah Summer 2027 internships",
       "kind": "simplify",
-      "url": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/.github/scripts/listings.json",
-      "homepage": "https://github.com/SimplifyJobs/New-Grad-Positions",
-      "category": "New graduate role",
+      "url": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/.github/scripts/listings.json",
+      "homepage": "https://github.com/vanshb03/Summer2027-Internships",
+      "category": "Internship",
+      "undergraduate_feed": true,
       "enabled": true
     },
     {
       "name": "Club submissions",
       "kind": "csv",
       "path": "data/manual.csv",
+      "community": true,
       "enabled": true
     }
   ]
