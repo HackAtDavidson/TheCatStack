@@ -114,9 +114,9 @@ def export_workbook(records: list[dict], reviews: dict, report: dict, path: Path
     validation.add(f"A2:A{max(1000, sheet.max_row + 100)}")
     if report.get("screening"):
         screening = book.create_sheet("Screening")
-        screening.append(["Selected for email", "Match", "Priority score", "Opportunity", "Organization", "Why", "Unknowns", "Authorization", "Class years", "Skills mentioned", "Pay excerpt", "Checked", "Application link", "Evidence"])
+        screening.append(["Selected for email", "Match", "Priority score", "Davidson priority", "Opportunity", "Organization", "Why", "Unknowns", "Authorization", "Class years", "Skills mentioned", "Pay excerpt", "Checked", "Application link", "Evidence"])
         for result in report["screening"]["results"]:
-            screening.append(["Yes" if result["selected"] else "", result["status"], result["score"], result["title"], result["organization"],
+            screening.append(["Yes" if result["selected"] else "", result["status"], result["score"], result.get("davidson_priority", 0), result["title"], result["organization"],
                               "; ".join(result["reasons"]), "; ".join(result["unknowns"]), result["authorization"], result["class_years"],
                               ", ".join(result["skills"]), result["pay"], result["checked_on"], result["url"],
                               "\n".join(f"{key}: {value}" for key, value in result["evidence"].items() if value)])
@@ -130,7 +130,7 @@ def export_workbook(records: list[dict], reviews: dict, report: dict, path: Path
                 if cell.row == 1:
                     cell.fill = PatternFill("solid", fgColor="17324D")
                     cell.font = Font(color="FFFFFF", bold=True)
-        for index in range(1, 15):
+        for index in range(1, 16):
             screening.column_dimensions[screening.cell(1, index).column_letter].width = 24 if index < 4 else 50
         for cell in list(screening.columns)[12][1:]:
             cell.hyperlink = cell.value
