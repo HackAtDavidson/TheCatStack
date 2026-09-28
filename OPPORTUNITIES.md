@@ -2,7 +2,7 @@
 
 > A living catalog of opportunities for Hack@Davidson members. Automatic internship listings are limited to undergraduate roles posted within the configured freshness window; community-submitted records remain visible for human review and future cycles.
 
-_Last refreshed: 2026-09-27 by the opportunity collector._
+_Last refreshed: 2026-09-28 by the opportunity collector._
 
 ## Contents
 
@@ -490,7 +490,5 @@ Status | Organization | Opportunity | Location | Application | Deadline | Date p
 ✅ [OPEN] | Zimmer Biomet Holdings | Data Management Intern | Warsaw, IN | [Apply](https://careers.zimmerbiomet.com/us/en/job/12746) | Rolling / check site | 2026-09-21
 ✅ [OPEN] | Zimmer Biomet Holdings | Product Management Intern - Artificial Intelligence Product Management | Remote in USA | [Apply](https://careers.zimmerbiomet.com/us/en/job/12745) | Rolling / check site | 2026-09-21
 ✅ [OPEN] | Zimmer Biomet Holdings | Summer Intern - Data Mesh Platform | Remote in USA | [Apply](https://careers.zimmerbiomet.com/us/en/job/12688) | Rolling / check site | 2026-09-21
-✅ [OPEN] | Nordson | Electrical Engineer Intern | Minneapolis, MN | [Apply](https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Minnesota---Minneapolis---5900-Golden-Hills-Drive/Electrical-Engineering-Intern_REQ52913) | Rolling / check site | 2026-09-20
-✅ [OPEN] | The Aerospace Corporation | Reliability and Statistics Intern | El Segundo, CA | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Reliability-and-Statistics-Undergraduate-Intern_R016594) | Rolling / check site | 2026-09-20
 
 ---
