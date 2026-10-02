@@ -13,6 +13,8 @@ Status | Organization | Opportunity | Location | Apply | Deadline
 --- | --- | --- | --- | --- | ---
 ✅ [OPEN] | Red Ventures | Data Science Intern - Launch Program | Charlotte, NC | [Apply](https://www.redventures.com/careers/positions/open?gh_jid=8233284) | Rolling / check site
 ✅ [OPEN] | General Dynamics Mission Systems | Software Engineer Intern | McLeansville, NC | [Apply](https://careers-gdms.icims.com/jobs/74537/job?mobile=true&needsRedirect=false) | Rolling / check site
+✅ [OPEN] | SAS | Software Development and Testing Intern | Cary, NC | [Apply](https://careers-sas.icims.com/jobs/42964/job?mobile=true&needsRedirect=false) | Rolling / check site
+✅ [OPEN] | Vanguard | Data Product Analyst Co-op | Charlotte, NC | [Apply](https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Charlotte-NC/Data-Product-Analyst-Co-op_182921) | Rolling / check site
 ✅ [OPEN] | Epic Games | Technical Product Management Intern | Cary, NC | [Apply](https://epicgames.com/careers/jobs/6178818004?gh_jid=6178818004) | Rolling / check site
 ✅ [OPEN] | MetLife | Global Technology Intern | Tampa, FL; Hanover, NJ; Cary, NC; NYC | [Apply](https://metlife.avature.net/en_US/ml/JobDetail/20701) | Rolling / check site
 ✅ [OPEN] | Northrop Grumman | Software Engineer Intern | Morrisville, NC | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Software-Engineer-Intern---Morrisville-NC_R10253768) | Rolling / check site
@@ -24,13 +26,11 @@ Status | Organization | Opportunity | Location | Apply | Deadline
 ✅ [OPEN] | First Citizens BancShares | IT Intern - Software Developer | Raleigh, NC | [Apply](https://firstcitizens.jibeapply.com/jobs/35709?icims=1) | Rolling / check site
 ✅ [OPEN] | Keysight Technologies | Software Developer Intern | Austin, TX; Raleigh, NC | [Apply](https://jobs.keysight.com/jobs/54638?icims=1) | Rolling / check site
 ✅ [OPEN] | TRC Companies | GIS Intern | Seattle, WA; Houston, TX; Lakewood, CO; Raleigh, NC; Chicago, IL; Phoenix, AZ | [Apply](https://careers.trccompanies.com/jobs/26961?icims=1) | Rolling / check site
-✅ [OPEN] | Booz Allen | Product Engineer Intern | McLean, VA | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Product-Engineering-Intern_R0250655) | Rolling / check site
-✅ [OPEN] | Noblis | Data Science and Innovation Intern | Springfield, VA; Reston, VA | [Apply](https://careers.noblis.org/jobs/27942?icims=1) | Rolling / check site
-✅ [OPEN] | AeroVironment | Software Engineer Intern | Leesburg, VA | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Leesburg-VA/Titan-SV-Software-Engineer-Intern_8901) | Rolling / check site
-✅ [OPEN] | ICF International | AI Engineer Intern | Reston, VA | [Apply](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603312-1) | Rolling / check site
-✅ [OPEN] | Iridium Communications | Software Engineering Intern | Tempe, AZ; McLean, VA | [Apply](https://careers-iridium.icims.com/jobs/5136/job?mobile=true&needsRedirect=false) | Rolling / check site
-✅ [OPEN] | The Aerospace Corporation | Software Engineering Intern | Chantilly, VA; El Segundo, CA | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Software-Engineering-Undergrad-Intern_R016758) | Rolling / check site
-✅ [OPEN] | ICF International | Data Scientist Intern | Remote in USA; Reston, VA; Denver, CO | [Apply](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Scientist--Reston--VA--Denver--CO--Remote-_R2603252) | Rolling / check site
+✅ [OPEN] | Northrop Grumman | College Technical Intern | McLean, VA | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/XMLNAME-2027-College-Technical-Intern---McLean-VA_R10253146) | Rolling / check site
+✅ [OPEN] | Range | Software Engineer Intern | McLean, VA | [Apply](https://jobs.ashbyhq.com/range/5fe3697d-b5b3-4772-9de4-1551cb726718/application?embed=true) | Rolling / check site
+✅ [OPEN] | Amazon | Software Engineer Intern | Seattle, WA; Jessup, MD; Arlington County, Arlington, VA; Denver, CO | [Apply](https://amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc) | Rolling / check site
+✅ [OPEN] | CACI | Software Development Intern | Ashburn, VA | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/Software-Development-Intern---Summer-2027_332790) | Rolling / check site
+✅ [OPEN] | Freddie Mac | Multifamily Capital Markets Analytics & Engineering Intern | McLean, VA | [Apply](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Capital-Markets-Analytics---Engineering-Intern----Summer-2027_JR17690) | Rolling / check site
 <!-- END CURRENT OPPORTUNITIES -->
 
 ## Browse and use
