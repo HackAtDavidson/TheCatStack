@@ -2,7 +2,7 @@
 
 > A living catalog of opportunities for Hack@Davidson members. Automatic internship listings are limited to undergraduate roles posted within the configured freshness window; community-submitted records remain visible for human review and future cycles.
 
-_Last refreshed: 2026-10-03 by the opportunity collector._
+_Last refreshed: 2026-10-04 by the opportunity collector._
 
 ## Contents
 
@@ -16,12 +16,17 @@ Status is based on the recorded deadline. Verify eligibility, work authorization
 
 Status | Organization | Opportunity | Location | Application | Deadline | Date posted
 --- | --- | --- | --- | --- | --- | ---
+✅ [OPEN] | Diversified Energy | Information Technology Intern | Birmingham, AL | [Apply](https://careers.div.energy/jobs/2734?icims=1) | Rolling / check site | 2026-10-04
+✅ [OPEN] | DocuSign | Software Engineer Intern - Self-Service Directory Diagnostics | Seattle, WA | [Apply](https://careers.docusign.com/jobs/30464?icims=1) | Rolling / check site | 2026-10-04
+✅ [OPEN] | Keysight Technologies | Data Scientist Intern | Santa Rosa, CA | [Apply](https://jobs.keysight.com/jobs/54570?icims=1) | Rolling / check site | 2026-10-04
 ✅ [OPEN] | CesiumAstro | Electrical Engineering Intern - FPGA | El Segundo, CA | [Apply](https://jobs.lever.co/CesiumAstro/5ac10e3b-f9d7-4029-bf25-73a191ff2636/apply) | Rolling / check site | 2026-10-03
 ✅ [OPEN] | Electronic Arts | Software Engineer Intern | Austin, TX | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027/216239) | Rolling / check site | 2026-10-03
 ✅ [OPEN] | First Citizens BancShares | Summer Intern - Sales Performance & Analytics Strategy | Raleigh, NC | [Apply](https://firstcitizens.jibeapply.com/jobs/35826?icims=1) | Rolling / check site | 2026-10-03
 ✅ [OPEN] | Garmin | Audio Engineer Intern | Miramar, FL | [Apply](https://careers.garmin.com/jobs/20289?icims=1) | Rolling / check site | 2026-10-03
 ✅ [OPEN] | Keysight Technologies | R&D Software Engineering Intern | Atlanta, GA | [Apply](https://jobs.keysight.com/jobs/54388?icims=1) | Rolling / check site | 2026-10-03
 ✅ [OPEN] | Koch Industries | Product Management Intern | Eden Prairie, MN; Lisle, IL | [Apply](https://koch.avature.net/en_US/careers/JobDetail/195099) | Rolling / check site | 2026-10-03
+✅ [OPEN] | Northern Trust | Data & Analytics Office Intern | Chicago, IL | [Apply](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Data---Analytics-Office-Intern_R160769-1) | Rolling / check site | 2026-10-03
+✅ [OPEN] | RTX | AI DSP Applied Research Co-op | Cedar Rapids, IA | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Co-Op---AI-DSP-Applied-Research_01873016) | Rolling / check site | 2026-10-03
 ✅ [OPEN] | Allegion | Hardware Engineering Intern - Hardware Engineering | Indianapolis, IN | [Apply](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineering_JR37413-1) | Rolling / check site | 2026-10-02
 ✅ [OPEN] | Altera | High Level Synthesis Engineer Intern | Toronto, ON, Canada | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/High-Level-Synthesis-Engineer---Intern_R03254) | Rolling / check site | 2026-10-02
 ✅ [OPEN] | Altera | Software Engineer Intern | Toronto, ON, Canada | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer---Intern_R03193) | Rolling / check site | 2026-10-02
@@ -120,6 +125,7 @@ Status | Organization | Opportunity | Location | Application | Deadline | Date p
 ✅ [OPEN] | Certara | Junior Software Developer Intern | Sheffield, UK | [Apply](https://careers.certara.com/jobs/2609?icims=1) | Rolling / check site | 2026-10-01
 ✅ [OPEN] | Cigna Group | Product Analytics Intern | Morris Plains, NJ; St. Louis, MO | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Product-Analytics-Summer-Intern---Start-Date--May-24--2027_26010180) | Rolling / check site | 2026-10-01
 ✅ [OPEN] | Corgan | Software Development Intern | Dallas, TX | [Apply](https://campus-us-corgan.icims.com/jobs/4109/job?mobile=true&needsRedirect=false) | Rolling / check site | 2026-10-01
+✅ [OPEN] | CoStar Group | Associate Software Engineer Intern | Sunnyvale, CA | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Software-Engineer---Sunnyvale--CA_R39942) | Rolling / check site | 2026-10-01
 ✅ [OPEN] | CoStar Group | Embedded Software Engineer Intern | Sunnyvale, CA | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Embedded-Software-Engineering-Intern_R39950) | Rolling / check site | 2026-10-01
 ✅ [OPEN] | CoStar Group | Technology Intern | Sunnyvale, CA | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Summer-2027-Technology-Intern---Sunnyvale--CA_R39945) | Rolling / check site | 2026-10-01
 ✅ [OPEN] | Cummins | Service Engineer Intern - Service Engineering - Digital and Data Analytics | Huddersfield, UK | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2438342) | Rolling / check site | 2026-10-01
@@ -372,10 +378,5 @@ Status | Organization | Opportunity | Location | Application | Deadline | Date p
 ✅ [OPEN] | The Aerospace Corporation | Software Engineering Intern | Chantilly, VA; El Segundo, CA | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Software-Engineering-Undergrad-Intern_R016758) | Rolling / check site | 2026-09-28
 ✅ [OPEN] | UL Solutions | Product Management Intern | Northbrook, IL; Chicago, IL | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10625) | Rolling / check site | 2026-09-28
 ✅ [OPEN] | QuEra Computing | Scientific Software Intern - Scientific Software and Compilation | Boston, MA | [Apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/5435902008) | Rolling / check site | 2026-09-27
-✅ [OPEN] | Flint | Engineering Intern - Summer 2027 | SF | [Apply](https://jobs.ashbyhq.com/flint/39f9e665-7037-4dff-b77a-ff7039df2bfc/application?embed=true) | Rolling / check site | 2026-09-26
-✅ [OPEN] | Microsoft | Software Engineer Intern | Atlanta, GA | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557008714) | Rolling / check site | 2026-09-26
-✅ [OPEN] | Moment Energy | Data Scientist Co-op | Surrey, BC, Canada | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4421775009) | Rolling / check site | 2026-09-26
-✅ [OPEN] | Tesla | Mobile Application Software Engineer Intern - Energy Engineering | Palo Alto, CA | [Apply](https://www.tesla.com/careers/search/job/284776) | Rolling / check site | 2026-09-26
-✅ [OPEN] | Tesla | Silicon Validation Engineer Intern - AI Hardware | Palo Alto, CA | [Apply](https://www.tesla.com/careers/search/job/284821) | Rolling / check site | 2026-09-26
 
 ---
