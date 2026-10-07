@@ -11,7 +11,11 @@ _Showing up to 20 current opportunities. See the [full catalog](OPPORTUNITIES.md
 
 Status | Organization | Opportunity | Location | Apply | Deadline
 --- | --- | --- | --- | --- | ---
+✅ [OPEN] | ABB | AI Engineering ERP Intern | Cary, NC | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--ERP-Intern--Summer-2027_JR00048711) | Rolling / check site
+✅ [OPEN] | ABB | AI Engineering Intern - Business Systems | Cary, NC | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--Business-Systems-Intern--Summer-2027_JR00048714) | Rolling / check site
 ✅ [OPEN] | Astera Labs | Platform Solutions Product Management Intern | Cary, NC | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731590005) | Rolling / check site
+✅ [OPEN] | Royal Bank of Canada | Capital Markets Intern - Quantitative Technology Services | Raleigh, NC | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/8081-ARCO-CORPORATE-DRIVERALEIGH/XMLNAME-2027-Capital-Markets--Quantitative-Technology-Services-Summer--Raleigh_R-0000189675) | Rolling / check site
+✅ [OPEN] | RTX | Software Engineer Intern | Morrisville, NC | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NC-MORRISVILLE-907--951-Aviation-Pkwy--907-BLDG/Software-Engineering-Intern--Summer-2027-_01879721) | Rolling / check site
 ✅ [OPEN] | State of North Carolina | Data Science Intern | Raleigh, NC | [Apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Science-Intern_JR-125225) | Rolling / check site
 ✅ [OPEN] | First Citizens BancShares | Summer Intern - Sales Performance & Analytics Strategy | Raleigh, NC | [Apply](https://firstcitizens.jibeapply.com/jobs/35826?icims=1) | Rolling / check site
 ✅ [OPEN] | Hewlett Packard Enterprise | ASIC Engineer Intern | Durham, NC | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Durham-North-Carolina-United-States-of-America/ASIC-Engineering-Intern_1214213) | Rolling / check site
@@ -22,15 +26,11 @@ Status | Organization | Opportunity | Location | Apply | Deadline
 ✅ [OPEN] | Epic Games | Technical Product Management Intern | Cary, NC | [Apply](https://epicgames.com/careers/jobs/6178818004?gh_jid=6178818004) | Rolling / check site
 ✅ [OPEN] | MetLife | Global Technology Intern | Tampa, FL; Hanover, NJ; Cary, NC; NYC | [Apply](https://metlife.avature.net/en_US/ml/JobDetail/20701) | Rolling / check site
 ✅ [OPEN] | Northrop Grumman | Software Engineer Intern | Morrisville, NC | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Software-Engineer-Intern---Morrisville-NC_R10253768) | Rolling / check site
-✅ [OPEN] | Epic Games | Product Management Intern | Cary, NC | [Apply](https://epicgames.com/careers/jobs/6161289004?gh_jid=6161289004) | Rolling / check site
-✅ [OPEN] | Q2 | Data Science Intern | Cary, NC | [Apply](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Data-Science_REQ-12799) | Rolling / check site
-✅ [OPEN] | Q2 | Machine Learning Engineer Intern | Cary, NC | [Apply](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Machine-Learning-Engineer_REQ-12800) | Rolling / check site
-✅ [OPEN] | Q2 | Software Engineer Intern | Cary, NC | [Apply](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12798) | Rolling / check site
-✅ [OPEN] | SouthState Bank | Quantitative Intern | Texas; Florida; South Carolina; Georgia; Virginia; Colorado; North Carolina; Alabama | [Apply](https://southstatebank.wd5.myworkdayjobs.com/external/job/Remote-Opportunity---VA-NC-SC-GA--FL-AL-TX--CO/Summer-2027-Quantitative-Intern--Remote-_R-06264) | Rolling / check site
+✅ [OPEN] | GE Vernova | Systems Architecture Intern | Greenville, SC; Schenectady, NY | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/GE-Vernova-Systems-Architecture-Intern---2027_R5054433-2) | Rolling / check site
+✅ [OPEN] | GE Vernova | Systems Architecture Intern | Greenville, SC; Schenectady, NY | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-Systems-Architecture-Intern---2027_R5054433-1) | Rolling / check site
+✅ [OPEN] | Northrop Grumman | Software Developer Intern | Chantilly, VA | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1) | Rolling / check site
 ✅ [OPEN] | IDEMIA | Engineering Intern | Reston, VA | [Apply](https://uscareers-idemia.icims.com/jobs/8647/job?mobile=true&needsRedirect=false) | Rolling / check site
 ✅ [OPEN] | Innovative Defense Technologies | Software Engineer Intern | Arlington County, Arlington, VA | [Apply](https://idtus.pinpointhq.com/en/postings/79744981-0812-4999-8af2-ce7399f521d3?ats=pinpointhq) | Rolling / check site
-✅ [OPEN] | Innovative Defense Technologies | Software Engineer Intern | Mt Laurel Township, NJ; Arlington County, Arlington, VA; San Diego, CA | [Apply](https://idtus.pinpointhq.com/en/postings/0900a5f2-65d5-4cfa-8b14-b2a58d156d53?ats=pinpointhq) | Rolling / check site
-✅ [OPEN] | Innovative Defense Technologies | Software Engineer Intern | Mt Laurel Township, NJ; Arlington County, Arlington, VA; San Diego, CA | [Apply](https://idtus.pinpointhq.com/en/postings/eac7d1ca-2dbd-4c60-8f65-979f0a9e3f33?ats=pinpointhq) | Rolling / check site
 <!-- END CURRENT OPPORTUNITIES -->
 
 ## Browse and use
