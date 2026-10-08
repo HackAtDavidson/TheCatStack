@@ -11,6 +11,8 @@ _Showing up to 20 current opportunities. See the [full catalog](OPPORTUNITIES.md
 
 Status | Organization | Opportunity | Location | Apply | Deadline
 --- | --- | --- | --- | --- | ---
+✅ [OPEN] | Lowe's | PRO Services Reporting Intern | Mooresville, NC | [Apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/PRO-Services-Reporting-Intern---Undergrad-Internship---Summer-2027-_JR-02672698) | Rolling / check site
+✅ [OPEN] | First Citizens BancShares | Outreach Analytics Intern | Raleigh, NC | [Apply](https://firstcitizens.jibeapply.com/jobs/35906?icims=1) | Rolling / check site
 ✅ [OPEN] | ABB | AI Engineering ERP Intern | Cary, NC | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--ERP-Intern--Summer-2027_JR00048711) | Rolling / check site
 ✅ [OPEN] | ABB | AI Engineering Intern - Business Systems | Cary, NC | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--Business-Systems-Intern--Summer-2027_JR00048714) | Rolling / check site
 ✅ [OPEN] | Astera Labs | Platform Solutions Product Management Intern | Cary, NC | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731590005) | Rolling / check site
@@ -23,14 +25,12 @@ Status | Organization | Opportunity | Location | Apply | Deadline
 ✅ [OPEN] | General Dynamics Mission Systems | Software Engineer Intern | McLeansville, NC | [Apply](https://careers-gdms.icims.com/jobs/74537/job?mobile=true&needsRedirect=false) | Rolling / check site
 ✅ [OPEN] | SAS | Software Development and Testing Intern | Cary, NC | [Apply](https://careers-sas.icims.com/jobs/42964/job?mobile=true&needsRedirect=false) | Rolling / check site
 ✅ [OPEN] | Vanguard | Data Product Analyst Co-op | Charlotte, NC | [Apply](https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Charlotte-NC/Data-Product-Analyst-Co-op_182921) | Rolling / check site
-✅ [OPEN] | Epic Games | Technical Product Management Intern | Cary, NC | [Apply](https://epicgames.com/careers/jobs/6178818004?gh_jid=6178818004) | Rolling / check site
-✅ [OPEN] | MetLife | Global Technology Intern | Tampa, FL; Hanover, NJ; Cary, NC; NYC | [Apply](https://metlife.avature.net/en_US/ml/JobDetail/20701) | Rolling / check site
-✅ [OPEN] | Northrop Grumman | Software Engineer Intern | Morrisville, NC | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Software-Engineer-Intern---Morrisville-NC_R10253768) | Rolling / check site
 ✅ [OPEN] | GE Vernova | Systems Architecture Intern | Greenville, SC; Schenectady, NY | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/GE-Vernova-Systems-Architecture-Intern---2027_R5054433-2) | Rolling / check site
 ✅ [OPEN] | GE Vernova | Systems Architecture Intern | Greenville, SC; Schenectady, NY | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-Systems-Architecture-Intern---2027_R5054433-1) | Rolling / check site
+✅ [OPEN] | ICF International | Data Analytics Intern | Reston, VA | [Apply](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Analytics--Reston--VA-or-Remote-_R2603382-1) | Rolling / check site
+✅ [OPEN] | ICF International | Data Engineer Intern | Remote in USA; Reston, VA | [Apply](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Engineer--Reston--VA-or-Remote-_R2603380) | Rolling / check site
 ✅ [OPEN] | Northrop Grumman | Software Developer Intern | Chantilly, VA | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1) | Rolling / check site
-✅ [OPEN] | IDEMIA | Engineering Intern | Reston, VA | [Apply](https://uscareers-idemia.icims.com/jobs/8647/job?mobile=true&needsRedirect=false) | Rolling / check site
-✅ [OPEN] | Innovative Defense Technologies | Software Engineer Intern | Arlington County, Arlington, VA | [Apply](https://idtus.pinpointhq.com/en/postings/79744981-0812-4999-8af2-ce7399f521d3?ats=pinpointhq) | Rolling / check site
+✅ [OPEN] | The Aerospace Corporation | Embedded Systems / Software Engineer Intern | Chantilly, VA; El Segundo, CA | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Embedded-Systems---Software-Engineering-Undergrad-Intern_R016804) | Rolling / check site
 <!-- END CURRENT OPPORTUNITIES -->
 
 ## Browse and use
