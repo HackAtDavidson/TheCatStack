@@ -20,8 +20,6 @@ Status | Organization | Opportunity | Location | Apply | Deadline
 ✅ [OPEN] | RTX | Software Engineer Intern | Morrisville, NC | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NC-MORRISVILLE-907--951-Aviation-Pkwy--907-BLDG/Software-Engineering-Intern--Summer-2027-_01879721) | Rolling / check site
 ✅ [OPEN] | State of North Carolina | Data Science Intern | Raleigh, NC | [Apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Science-Intern_JR-125225) | Rolling / check site
 ✅ [OPEN] | First Citizens BancShares | Summer Intern - Sales Performance & Analytics Strategy | Raleigh, NC | [Apply](https://firstcitizens.jibeapply.com/jobs/35826?icims=1) | Rolling / check site
-✅ [OPEN] | Hewlett Packard Enterprise | ASIC Engineer Intern | Durham, NC | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Durham-North-Carolina-United-States-of-America/ASIC-Engineering-Intern_1214213) | Rolling / check site
-✅ [OPEN] | Vanguard | IT Intern Application Development | Charlotte, NC | [Apply](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship-Application-Development--NC-_182781) | Rolling / check site
 ✅ [OPEN] | Robert Bosch Venture Capital | Product Management Co-op | Fountain Inn, SC | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000154671460) | Rolling / check site
 ✅ [OPEN] | GE Vernova | Systems Architecture Intern | Greenville, SC; Schenectady, NY | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/GE-Vernova-Systems-Architecture-Intern---2027_R5054433-2) | Rolling / check site
 ✅ [OPEN] | GE Vernova | Systems Architecture Intern | Greenville, SC; Schenectady, NY | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-Systems-Architecture-Intern---2027_R5054433-1) | Rolling / check site
@@ -31,6 +29,8 @@ Status | Organization | Opportunity | Location | Apply | Deadline
 ✅ [OPEN] | ICF International | Data Analytics Intern | Reston, VA | [Apply](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Analytics--Reston--VA-or-Remote-_R2603382-1) | Rolling / check site
 ✅ [OPEN] | ICF International | Data Engineer Intern | Remote in USA; Reston, VA | [Apply](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Engineer--Reston--VA-or-Remote-_R2603380) | Rolling / check site
 ✅ [OPEN] | Northrop Grumman | Software Developer Intern | Chantilly, VA | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1) | Rolling / check site
+✅ [OPEN] | The Aerospace Corporation | Embedded Systems / Software Engineer Intern | Chantilly, VA; El Segundo, CA | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Embedded-Systems---Software-Engineering-Undergrad-Intern_R016804) | Rolling / check site
+✅ [OPEN] | IDEMIA | Engineering Intern | Reston, VA | [Apply](https://uscareers-idemia.icims.com/jobs/8647/job?mobile=true&needsRedirect=false) | Rolling / check site
 <!-- END CURRENT OPPORTUNITIES -->
 
 ## Browse and use
