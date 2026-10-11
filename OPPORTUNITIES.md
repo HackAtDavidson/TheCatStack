@@ -2,7 +2,7 @@
 
 > A living catalog of opportunities for Hack@Davidson members. Automatic internship listings are limited to undergraduate roles posted within the configured freshness window; community-submitted records remain visible for human review and future cycles.
 
-_Last refreshed: 2026-10-10 by the opportunity collector._
+_Last refreshed: 2026-10-11 by the opportunity collector._
 
 ## Contents
 
@@ -18,6 +18,7 @@ Status | Organization | Opportunity | Location | Application | Deadline | Date p
 --- | --- | --- | --- | --- | --- | ---
 ✅ [OPEN] | Arizona State University | Student Web Developer & Content Specialist Intern | Tempe, AZ | [Apply](https://asuep.wd5.myworkdayjobs.com/ASUEP/job/Tempe-AZ/Student-Web-Developer---Content-Specialist_R1546) | Rolling / check site | 2026-10-10
 ✅ [OPEN] | DocuSign | Software Engineer Intern | Seattle, WA | [Apply](https://careers.docusign.com/jobs/30499?icims=1) | Rolling / check site | 2026-10-10
+✅ [OPEN] | Johns Hopkins Applied Physics Laboratory | Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection | Laurel, MD | [Apply](https://careers.jhuapl.edu/jobs/60432?icims=1) | Rolling / check site | 2026-10-10
 ✅ [OPEN] | Magnet Forensics | Software Developer Co-op | Ontario, Canada; Waterloo, ON, Canada; Ottawa, ON, Canada | [Apply](https://jobs.lever.co/magnetforensics/6eba87dc-f110-47b2-8015-31311ca60f52/apply) | Rolling / check site | 2026-10-10
 ✅ [OPEN] | Meter | Hardware Engineer Intern | SF | [Apply](https://jobs.ashbyhq.com/meter/a5f1e4c3-2930-4933-ab38-8f600486494b/application?embed=true) | Rolling / check site | 2026-10-10
 ✅ [OPEN] | AMD | AI Agentic Flow for GPU ASIC Design Co-op Intern | Orlando, FL | [Apply](https://careers.amd.com/jobs/91341?icims=1) | Rolling / check site | 2026-10-09
@@ -498,13 +499,5 @@ Status | Organization | Opportunity | Location | Application | Deadline | Date p
 ✅ [OPEN] | Micron Technology | HBM Memory Design Engineer Intern - HBM | Richardson, TX | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR111821) | Rolling / check site | 2026-10-04
 ✅ [OPEN] | Micron Technology | Memory Design Engineer Intern - HBM | Richardson, TX | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Memory-Design-Engineer--HBM_JR112528) | Rolling / check site | 2026-10-04
 ✅ [OPEN] | Primient | AI Analyst Intern | Schaumburg, IL | [Apply](https://primient.wd1.myworkdayjobs.com/External_Careers/job/Schaumburg-IL/AI-Analyst-Intern---Summer-2027_JREQ7056) | Rolling / check site | 2026-10-04
-✅ [OPEN] | CesiumAstro | Electrical Engineering Intern - FPGA | El Segundo, CA | [Apply](https://jobs.lever.co/CesiumAstro/5ac10e3b-f9d7-4029-bf25-73a191ff2636/apply) | Rolling / check site | 2026-10-03
-✅ [OPEN] | Electronic Arts | Software Engineer Intern | Austin, TX | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027/216239) | Rolling / check site | 2026-10-03
-✅ [OPEN] | First Citizens BancShares | Summer Intern - Sales Performance & Analytics Strategy | Raleigh, NC | [Apply](https://firstcitizens.jibeapply.com/jobs/35826?icims=1) | Rolling / check site | 2026-10-03
-✅ [OPEN] | Garmin | Audio Engineer Intern | Miramar, FL | [Apply](https://careers.garmin.com/jobs/20289?icims=1) | Rolling / check site | 2026-10-03
-✅ [OPEN] | Keysight Technologies | R&D Software Engineering Intern | Atlanta, GA | [Apply](https://jobs.keysight.com/jobs/54388?icims=1) | Rolling / check site | 2026-10-03
-✅ [OPEN] | Koch Industries | Product Management Intern | Eden Prairie, MN; Lisle, IL | [Apply](https://koch.avature.net/en_US/careers/JobDetail/195099) | Rolling / check site | 2026-10-03
-✅ [OPEN] | Northern Trust | Data & Analytics Office Intern | Chicago, IL | [Apply](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Data---Analytics-Office-Intern_R160769-1) | Rolling / check site | 2026-10-03
-✅ [OPEN] | RTX | AI DSP Applied Research Co-op | Cedar Rapids, IA | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Co-Op---AI-DSP-Applied-Research_01873016) | Rolling / check site | 2026-10-03
 
 ---

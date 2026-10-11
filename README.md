@@ -19,7 +19,6 @@ Status | Organization | Opportunity | Location | Apply | Deadline
 ✅ [OPEN] | Royal Bank of Canada | Capital Markets Intern - Quantitative Technology Services | Raleigh, NC | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/8081-ARCO-CORPORATE-DRIVERALEIGH/XMLNAME-2027-Capital-Markets--Quantitative-Technology-Services-Summer--Raleigh_R-0000189675) | Rolling / check site
 ✅ [OPEN] | RTX | Software Engineer Intern | Morrisville, NC | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NC-MORRISVILLE-907--951-Aviation-Pkwy--907-BLDG/Software-Engineering-Intern--Summer-2027-_01879721) | Rolling / check site
 ✅ [OPEN] | State of North Carolina | Data Science Intern | Raleigh, NC | [Apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Science-Intern_JR-125225) | Rolling / check site
-✅ [OPEN] | First Citizens BancShares | Summer Intern - Sales Performance & Analytics Strategy | Raleigh, NC | [Apply](https://firstcitizens.jibeapply.com/jobs/35826?icims=1) | Rolling / check site
 ✅ [OPEN] | Robert Bosch Venture Capital | Product Management Co-op | Fountain Inn, SC | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000154671460) | Rolling / check site
 ✅ [OPEN] | GE Vernova | Systems Architecture Intern | Greenville, SC; Schenectady, NY | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/GE-Vernova-Systems-Architecture-Intern---2027_R5054433-2) | Rolling / check site
 ✅ [OPEN] | GE Vernova | Systems Architecture Intern | Greenville, SC; Schenectady, NY | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-Systems-Architecture-Intern---2027_R5054433-1) | Rolling / check site
@@ -31,6 +30,7 @@ Status | Organization | Opportunity | Location | Apply | Deadline
 ✅ [OPEN] | Northrop Grumman | Software Developer Intern | Chantilly, VA | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1) | Rolling / check site
 ✅ [OPEN] | The Aerospace Corporation | Embedded Systems / Software Engineer Intern | Chantilly, VA; El Segundo, CA | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Embedded-Systems---Software-Engineering-Undergrad-Intern_R016804) | Rolling / check site
 ✅ [OPEN] | IDEMIA | Engineering Intern | Reston, VA | [Apply](https://uscareers-idemia.icims.com/jobs/8647/job?mobile=true&needsRedirect=false) | Rolling / check site
+✅ [OPEN] | Innovative Defense Technologies | Software Engineer Intern | Arlington County, Arlington, VA | [Apply](https://idtus.pinpointhq.com/en/postings/79744981-0812-4999-8af2-ce7399f521d3?ats=pinpointhq) | Rolling / check site
 <!-- END CURRENT OPPORTUNITIES -->
 
 ## Browse and use
