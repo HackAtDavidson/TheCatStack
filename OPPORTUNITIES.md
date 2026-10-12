@@ -2,7 +2,7 @@
 
 > A living catalog of opportunities for Hack@Davidson members. Automatic internship listings are limited to undergraduate roles posted within the configured freshness window; community-submitted records remain visible for human review and future cycles.
 
-_Last refreshed: 2026-10-11 by the opportunity collector._
+_Last refreshed: 2026-10-12 by the opportunity collector._
 
 ## Contents
 
@@ -16,6 +16,16 @@ Status is based on the recorded deadline. Verify eligibility, work authorization
 
 Status | Organization | Opportunity | Location | Application | Deadline | Date posted
 --- | --- | --- | --- | --- | --- | ---
+✅ [OPEN] | Capula | Technology Intern | London, UK | [Apply](https://apply.workable.com/capula-investment-management-ltd/j/96EBCF5617/apply) | Rolling / check site | 2026-10-12
+✅ [OPEN] | Crown Innovations | Intern | Mountain View, CA | [Apply](https://jobs.smartrecruiters.com/TBD20261012CrownInnovationsInc/744000144112445) | Rolling / check site | 2026-10-12
+✅ [OPEN] | Google | Forward Deployed Engineer Intern | NYC; Sunnyvale, CA | [Apply](https://www.google.com/about/careers/applications/jobs/results/75665705386549958) | Rolling / check site | 2026-10-12
+✅ [OPEN] | Kainos | Placement Technologist Intern | Londonderry, UK | [Apply](https://kainos.wd3.myworkdayjobs.com/kainos/job/Derry-Londonderry/Placement-Technologist--L-Derry----June-2027-Start-Date_JR_18557-1) | Rolling / check site | 2026-10-12
+✅ [OPEN] | Kainos | Technologist Intern | Belfast, UK | [Apply](https://kainos.wd3.myworkdayjobs.com/kainos/job/Belfast/Placement-Technologist--Belfast----June-2027-Start-Date_JR_18556) | Rolling / check site | 2026-10-12
+✅ [OPEN] | Kainos | Technologist Intern | Birmingham, UK | [Apply](https://kainos.wd3.myworkdayjobs.com/kainos/job/Birmingham/Placement-Technologist--Birmingham----July-2027-Start-Date_JR_18558) | Rolling / check site | 2026-10-12
+✅ [OPEN] | LSEG | Engineering Intern | Nottingham, UK | [Apply](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Nottingham-United-Kingdom/Engineering-Summer-Internship-Programme_R0124221) | Rolling / check site | 2026-10-12
+✅ [OPEN] | RTX | Software Engineer Intern | Tucson, AZ | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-Intern_01874282-1) | Rolling / check site | 2026-10-12
+✅ [OPEN] | Tower Research Capital | Venture Capital Intern | NYC | [Apply](https://www.tower-research.com/open-positions/?gh_jid=7368106) | Rolling / check site | 2026-10-12
+✅ [OPEN] | C&S Wholesale Grocers | IS Intern - Data Analytics & Data Science | Edison, NJ | [Apply](https://cswg.wd1.myworkdayjobs.com/cs_careers/job/Edison-NJ/IS-Internship---Data-Analytics---Data-Science_R-268963) | Rolling / check site | 2026-10-11
 ✅ [OPEN] | Arizona State University | Student Web Developer & Content Specialist Intern | Tempe, AZ | [Apply](https://asuep.wd5.myworkdayjobs.com/ASUEP/job/Tempe-AZ/Student-Web-Developer---Content-Specialist_R1546) | Rolling / check site | 2026-10-10
 ✅ [OPEN] | DocuSign | Software Engineer Intern | Seattle, WA | [Apply](https://careers.docusign.com/jobs/30499?icims=1) | Rolling / check site | 2026-10-10
 ✅ [OPEN] | Johns Hopkins Applied Physics Laboratory | Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection | Laurel, MD | [Apply](https://careers.jhuapl.edu/jobs/60432?icims=1) | Rolling / check site | 2026-10-10
@@ -490,14 +500,5 @@ Status | Organization | Opportunity | Location | Application | Deadline | Date p
 ✅ [OPEN] | Vertiv | Technical Innovation Intern | Westerville, OH | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279287) | Rolling / check site | 2026-10-05
 ✅ [OPEN] | Vertiv | Technical Innovation Intern | Columbus, OH | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279286) | Rolling / check site | 2026-10-05
 ✅ [OPEN] | Zurn Elkay Water Solutions | Sales Analytics Intern | Milwaukee, WI | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1) | Rolling / check site | 2026-10-05
-✅ [OPEN] | Diversified Energy | Information Technology Intern | Birmingham, AL | [Apply](https://careers.div.energy/jobs/2734?icims=1) | Rolling / check site | 2026-10-04
-✅ [OPEN] | DocuSign | Software Engineer Intern - Self-Service Directory Diagnostics | Seattle, WA | [Apply](https://careers.docusign.com/jobs/30464?icims=1) | Rolling / check site | 2026-10-04
-✅ [OPEN] | Hewlett Packard Enterprise | Electric Hardware Engineer Intern | Chippewa Falls, WI | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Electric-Hardware-Engineering-Intern_1213414) | Rolling / check site | 2026-10-04
-✅ [OPEN] | Hewlett Packard Enterprise | Hardware Tools and Libraries Intern | Sunnyvale, CA | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Tools-and-Libraries-Intern_1214085) | Rolling / check site | 2026-10-04
-✅ [OPEN] | Hewlett Packard Enterprise | VLSI Design Verification Intern | Chippewa Falls, WI | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/VLSI-Design-Verification-Internship_1213400) | Rolling / check site | 2026-10-04
-✅ [OPEN] | Keysight Technologies | Data Scientist Intern | Santa Rosa, CA | [Apply](https://jobs.keysight.com/jobs/54570?icims=1) | Rolling / check site | 2026-10-04
-✅ [OPEN] | Micron Technology | HBM Memory Design Engineer Intern - HBM | Richardson, TX | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR111821) | Rolling / check site | 2026-10-04
-✅ [OPEN] | Micron Technology | Memory Design Engineer Intern - HBM | Richardson, TX | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Memory-Design-Engineer--HBM_JR112528) | Rolling / check site | 2026-10-04
-✅ [OPEN] | Primient | AI Analyst Intern | Schaumburg, IL | [Apply](https://primient.wd1.myworkdayjobs.com/External_Careers/job/Schaumburg-IL/AI-Analyst-Intern---Summer-2027_JREQ7056) | Rolling / check site | 2026-10-04
 
 ---
