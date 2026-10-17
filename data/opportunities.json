@@ -1,5 +1,889 @@
 [
   {
+    "id": "fefafcde0d4c486428048e12",
+    "title": "Software Engineer Intern",
+    "organization": "Northrop Grumman",
+    "category": "Internship",
+    "location": "Aurora, CO",
+    "deadline": "",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256243",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "fac982b4d83c1a82b631529d",
+    "title": "R&D Software Engineer Intern",
+    "organization": "Keysight Technologies",
+    "category": "Internship",
+    "location": "Austin, TX",
+    "deadline": "",
+    "url": "https://jobs.keysight.com/jobs/54848?icims=1",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "f321549911c22015c7ca5cb7",
+    "title": "Software Engineer Intern",
+    "organization": "AeroVironment",
+    "category": "Internship",
+    "location": "Moorpark, CA",
+    "deadline": "",
+    "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Software-Engineering-Intern_9094",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2026; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "ec4b2af550714ea384f3c101",
+    "title": "Application Development Intern",
+    "organization": "Ryan",
+    "category": "Internship",
+    "location": "Plano, TX",
+    "deadline": "",
+    "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Application-Development_R0020820-1",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "e8130d376138f8ec67924c35",
+    "title": "Artificial Intelligence Developer Intern",
+    "organization": "National Bank of Canada",
+    "category": "Internship",
+    "location": "Canada",
+    "deadline": "",
+    "url": "https://bnc.avature.net/en_CA/careers/JobDetail/36120",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-14",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "e79894afa4fe3866f9c88254",
+    "title": "Software Engineer Intern",
+    "organization": "Assort Health",
+    "category": "Internship",
+    "location": "SF",
+    "deadline": "",
+    "url": "https://jobs.ashbyhq.com/assorthealth/3d8a2c74-8d0c-40be-9624-afc3678654ee/application?embed=true",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Winter 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "e319a4ecc07854e5e813d384",
+    "title": "Operations Intern",
+    "organization": "Pattern",
+    "category": "Internship",
+    "location": "Lehi, UT",
+    "deadline": "",
+    "url": "https://jobs.lever.co/pattern/13695e3e-92b7-40f7-8805-ea39b9c324e7/apply",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "d0ef32deb0f35a0f3d1946c8",
+    "title": "Quantitative Research Intern",
+    "organization": "Invesco",
+    "category": "Internship",
+    "location": "NYC",
+    "deadline": "",
+    "url": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/New-York-New-York/Quantitative-Strategies-Research-Intern_R-15803",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "cdf625888dbd3dcd2b02994a",
+    "title": "Software Development Intern",
+    "organization": "Ryan",
+    "category": "Internship",
+    "location": "Plano, TX",
+    "deadline": "",
+    "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Development_R0020822-1",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "c260bc5078c936abd0975ac7",
+    "title": "Enterprise Software Engineer Intern",
+    "organization": "Impulse Space",
+    "category": "Internship",
+    "location": "Redondo Beach, CA",
+    "deadline": "",
+    "url": "https://impulsespace.pinpointhq.com/en/postings/66981a77-8e79-4050-9818-4ed4209c5579?ats=pinpointhq",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "bb045237936f052824cff961",
+    "title": "Engineering Intern",
+    "organization": "Energy Transfer Partners",
+    "category": "Internship",
+    "location": "Houston, TX",
+    "deadline": "",
+    "url": "https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003882",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "b78e79b8ccfc39c012bc09b4",
+    "title": "Quantitative Research Intern",
+    "organization": "Invesco",
+    "category": "Internship",
+    "location": "NYC",
+    "deadline": "",
+    "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/New-York-New-York/Quantitative-Strategies-Research-Intern_R-15803-1",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "b1e6a64d93e11d66ceaa1f4a",
+    "title": "Software Engineer Intern",
+    "organization": "Ryan",
+    "category": "Internship",
+    "location": "Plano, TX",
+    "deadline": "",
+    "url": "https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "aff19b64cd74eb54a07e65e3",
+    "title": "Analytics Intern",
+    "organization": "Electronic Arts",
+    "category": "Internship",
+    "location": "Vancouver, BC, Canada",
+    "deadline": "",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Analytics-Intern/216232",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "aee79eb22e03a72547f3b180",
+    "title": "Process Automation Student Intern - Process Automation - Data and Analytics",
+    "organization": "John Deere",
+    "category": "Internship",
+    "location": "Greeneville, TN",
+    "deadline": "",
+    "url": "https://johndeere.eightfold.ai/careers/job/137483907415",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's, PhD; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "a10d75d0ae1625349966052a",
+    "title": "Software Engineer Intern",
+    "organization": "Kepler Communications",
+    "category": "Internship",
+    "location": "Toronto, ON, Canada",
+    "deadline": "",
+    "url": "https://jobs.lever.co/kepler/5514238a-8301-49f1-8116-26d38ea0900c/apply",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Winter 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "9f7c6601e5eac1c50fc034e5",
+    "title": "Embedded Software Engineer Intern",
+    "organization": "AGCO",
+    "category": "Internship",
+    "location": "Hesston, KS; Jackson, MN",
+    "deadline": "",
+    "url": "https://careers.agcocorp.com/job/Hesston-Embedded-Software-Engineering-Intern-Summer-2027-KS-67062/1440993300/?ats=successfactors",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "95c8e0247e463f9c69dbfc3a",
+    "title": "Research Account Management & Field Application Engineering Support Intern",
+    "organization": "GlobalFoundries",
+    "category": "Internship",
+    "location": "Essex Junction, VT",
+    "deadline": "",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/GF-Labs-Research-AM-and-FAE-support-Intern--Summer-2027--_JR-2604431",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "94e54f774bb4205d9253a475",
+    "title": "Foundation IP Design Verification Intern",
+    "organization": "GlobalFoundries",
+    "category": "Internship",
+    "location": "Santa Clara, CA",
+    "deadline": "",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Foundation-IP-Design-Verification-Intern--Summer-2027-_JR-2604356",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's, PhD; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "8fbd75b08561b1e5c4f6bc5c",
+    "title": "Software Development Intern",
+    "organization": "Ryan",
+    "category": "Internship",
+    "location": "Plano, TX",
+    "deadline": "",
+    "url": "https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Software-Development_R0020822",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "851b830b081364074a8023e9",
+    "title": "Firmware Engineer Intern",
+    "organization": "Rockwell Automation",
+    "category": "Internship",
+    "location": "Milwaukee, WI",
+    "deadline": "",
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Firmware-Engineering_R26-7922-1",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2026; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "758264e66d6ae8510debdd02",
+    "title": "Software Engineer Intern",
+    "organization": "Northrop Grumman",
+    "category": "Internship",
+    "location": "Colorado Springs, CO",
+    "deadline": "",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256259",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "70fde639776438cf7b266275",
+    "title": "Software Engineer Intern",
+    "organization": "Northrop Grumman",
+    "category": "Internship",
+    "location": "Aurora, CO",
+    "deadline": "",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256393",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "6c9f12c2f4f640a0a020fae4",
+    "title": "Software Engineer Intern",
+    "organization": "Ryan",
+    "category": "Internship",
+    "location": "Plano, TX",
+    "deadline": "",
+    "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843-1",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "6c01b550af69d7b40d393a14",
+    "title": "Firmware Engineer Intern",
+    "organization": "Rockwell Automation",
+    "category": "Internship",
+    "location": "Milwaukee, WI",
+    "deadline": "",
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Milwaukee-Wisconsin-United-States/Intern--Firmware-Engineering_R26-7922",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2026; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "6b3ec24437ef55dd9ed11316",
+    "title": "Application Development Intern",
+    "organization": "Ryan",
+    "category": "Internship",
+    "location": "Plano, TX",
+    "deadline": "",
+    "url": "https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Application-Development_R0020820",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "6ac876dcb17017eed74e0750",
+    "title": "Electrical Hardware Engineer Intern",
+    "organization": "Boston Scientific",
+    "category": "Internship",
+    "location": "Arden Hills, MN",
+    "deadline": "",
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813563527",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "659a47ae9814a16fc52da98f",
+    "title": "Software Engineer Intern",
+    "organization": "Altera",
+    "category": "Internship",
+    "location": "Toronto, ON, Canada",
+    "deadline": "",
+    "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03320",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "6593482064594ecc756a58b8",
+    "title": "Automotive Engineering Intern",
+    "organization": "Qualcomm",
+    "category": "Internship",
+    "location": "Markham, ON, Canada",
+    "deadline": "",
+    "url": "https://qualcomm.eightfold.ai/careers/job/446721615591",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "651a41b2f305dd3e0e6ba9f7",
+    "title": "Safety Methodologies Intern Co-op",
+    "organization": "Waabi",
+    "category": "Internship",
+    "location": "Toronto, ON, Canada; SF; Pittsburgh, PA",
+    "deadline": "",
+    "url": "https://jobs.lever.co/waabi/480d9d41-33d0-429a-8883-7f9ec305a30f/apply",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's, PhD; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "62b5c50137be2494beaba45e",
+    "title": "Software Engineer Intern - Technology Health Plan",
+    "organization": "Wellmark",
+    "category": "Internship",
+    "location": "Des Moines, IA",
+    "deadline": "",
+    "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000156043218",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "5fc7dea64318a35bb4a57167",
+    "title": "Software Developer Co-op - Custom Development Services",
+    "organization": "D2L",
+    "category": "Internship",
+    "location": "Kitchener, ON, Canada",
+    "deadline": "",
+    "url": "https://www.d2l.com/careers/jobs/?job_id=8289767&gh_jid=8289767",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Associate's; Sponsorship: Not confirmed; Terms: Winter 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "5c415aeee3d919945791a465",
+    "title": "Managed Care Analytics Intern",
+    "organization": "Ascension",
+    "category": "Internship",
+    "location": "St. Louis, MO",
+    "deadline": "",
+    "url": "https://jobs.ascension.org/us/en/job/15636",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2026; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-17",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "5729353232307bc0def407fa",
+    "title": "Electrical Engineer Intern",
+    "organization": "Signify",
+    "category": "Internship",
+    "location": "Peachtree City, GA",
+    "deadline": "",
+    "url": "https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Peachtree-City/Electrical-Engineer-Intern--Cooper-Lighting-Solutions---Spring-2027_366726",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Spring 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "5313313d4fc2d96ca285af24",
+    "title": "Software Engineering Intern",
+    "organization": "Northrop Grumman",
+    "category": "Internship",
+    "location": "Colorado Springs, CO",
+    "deadline": "",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256080",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "4ee339a2a5404f48dcdde526",
+    "title": "QPU Build Co-op - Optics & Data Analysis",
+    "organization": "QuEra Computing",
+    "category": "Internship",
+    "location": "Boston, MA",
+    "deadline": "",
+    "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5455950008",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-17",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "4b9ca486899d60c5e48eee8d",
+    "title": "Quality Assurance Associate Intern",
+    "organization": "General Dynamics Information Technology",
+    "category": "Internship",
+    "location": "Falls Church, VA",
+    "deadline": "",
+    "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Quality-Assurance-Associate--Intern_RQ230538",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's, Associate's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "4a2d37d564cbf452dedff1b7",
+    "title": "Software Engineer Intern",
+    "organization": "Booz Allen",
+    "category": "Internship",
+    "location": "Fayetteville, NC",
+    "deadline": "",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/University--Software-Engineer-Intern_R0251802",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "4983f0004bda4962656d44ec",
+    "title": "Chemistry Data Science Intern - Digital CMC Workflows",
+    "organization": "Zoetis Services",
+    "category": "Internship",
+    "location": "Kalamazoo, MI",
+    "deadline": "",
+    "url": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Kalamazoo---Downtown-Portage-Street/Chemistry-Data-Science-Intern---Digital-CMC-Workflows_JR00021822-2",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's, PhD; Sponsorship: Not confirmed; Terms: Summer 2026; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "497a744a862f82b61975b328",
+    "title": "GIS Intern",
+    "organization": "Linea Energy",
+    "category": "Internship",
+    "location": "Austin, TX",
+    "deadline": "",
+    "url": "https://ats.rippling.com/linea-energy/jobs/1247c5f0-eedf-4f15-9f81-065445d89d01",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Fall 2026; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "42b879c658a48c13f93f2fe5",
+    "title": "Software Engineer Intern",
+    "organization": "Northrop Grumman",
+    "category": "Internship",
+    "location": "Boulder, CO",
+    "deadline": "",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10256077",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "39d519f5a475d475e4dc7fcc",
+    "title": "Hardware Engineering & Connected Devices Intern",
+    "organization": "ADT",
+    "category": "Internship",
+    "location": "Boca Raton, FL",
+    "deadline": "",
+    "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022475",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "38619eb36058b4adbff0e3a2",
+    "title": "Applied Data & Technology Intern",
+    "organization": "Daimler Truck",
+    "category": "Internship",
+    "location": "Portland, OR",
+    "deadline": "",
+    "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Applied-Data---Technology-Intern_DT-20262-1",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's, PhD; Sponsorship: Not confirmed; Terms: Summer 2026; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "334c0f05f8489033fab1d1e8",
+    "title": "Data & Analytics Engineering Intern",
+    "organization": "Veeam Software",
+    "category": "Internship",
+    "location": "Alpharetta, GA",
+    "deadline": "",
+    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4996533101",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "26a4965a92f00b7f13670fb3",
+    "title": "Memory Design Engineer Intern - HBM",
+    "organization": "Micron Technology",
+    "category": "Internship",
+    "location": "Richardson, TX",
+    "deadline": "",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Memory-Design-Engineer--HBM_JR112529",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "23bcfa6d9c5a8d9fc9673ae3",
+    "title": "Software Engineer Intern - Apple Services Engineering",
+    "organization": "Apple",
+    "category": "Internship",
+    "location": "London, UK",
+    "deadline": "",
+    "url": "https://jobs.apple.com/en-us/details/200689473",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "217e3d9a3b92084399596e26",
+    "title": "AI/Data Science Intern",
+    "organization": "Boston Scientific",
+    "category": "Internship",
+    "location": "Maple Grove, MN",
+    "deadline": "",
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813519129",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "1e85d341e75c008a6886157c",
+    "title": "Electrical Engineer Intern - Labs",
+    "organization": "DoorDash",
+    "category": "Internship",
+    "location": "Oakland, CA",
+    "deadline": "",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8274095",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "1c4ed67f21245b2eeda24af6",
+    "title": "Video Moderation & Platform Responsibility Product Manager Project Intern - Platform Responsibility - Feed Safety",
+    "organization": "TikTok",
+    "category": "Internship",
+    "location": "San Jose, CA",
+    "deadline": "",
+    "url": "https://lifeattiktok.com/search/7697105572165519621",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2026; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-17",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "139d13cd5a4491fff2cdf9eb",
+    "title": "Applications Intern",
+    "organization": "onsemi",
+    "category": "Internship",
+    "location": "Scottsdale, AZ",
+    "deadline": "",
+    "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506972",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-17",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "12c3dc110a982126f60ed296",
+    "title": "Data Engineering / Data Science Intern",
+    "organization": "American Family Insurance Group",
+    "category": "Internship",
+    "location": "Madison, WI",
+    "deadline": "",
+    "url": "https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Summer-2027-Intern---Data-Engineering_R39674",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
+    "id": "021f8272ec5d323d90f2f732",
+    "title": "Artificial Intelligence Scientist Intern",
+    "organization": "National Bank of Canada",
+    "category": "Internship",
+    "location": "Canada",
+    "deadline": "",
+    "url": "https://bnc.avature.net/en_CA/careers/JobDetail/36110",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-14",
+    "first_seen": "2026-10-17",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-17"
+  },
+  {
     "id": "f9942c2c863578d418f71020",
     "title": "Software Developer Intern",
     "organization": "Amazon",
@@ -14,7 +898,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "f43984435547253fe68a6d7a",
@@ -31,7 +915,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "f1184862ccb76d6038bd2b02",
@@ -48,7 +932,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "eee3df5860eadbacb2f246f1",
@@ -65,7 +949,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "e8cf991d9e2f704f691bff0a",
@@ -82,7 +966,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "e7a253fb3e321e25d91bf159",
@@ -99,7 +983,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "e6186a16b8ba6ea1d968af7c",
@@ -116,7 +1000,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "df082a2c4cb34a8fb8730b5c",
@@ -133,7 +1017,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "d8d6db921eb809819d555bb6",
@@ -150,7 +1034,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "d80dc28584664c071e7c70f0",
@@ -167,7 +1051,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "d5d891a478ca39b85ebde934",
@@ -184,7 +1068,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "d4d4fee3e1841470d1fccd9b",
@@ -201,7 +1085,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "d412ccbf187a584605278579",
@@ -218,7 +1102,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "d21989515b85844302228a10",
@@ -235,7 +1119,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "c8459023f0ca2b9d410db590",
@@ -252,7 +1136,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "c7e8dc08a49bda88c08dbf7e",
@@ -269,7 +1153,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "c26665fbc572aa3763bf5e3d",
@@ -286,7 +1170,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "bebec1d1b7c0ad6a00a2d9d7",
@@ -303,7 +1187,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "ab7a02e7f90c8d0bf6d48572",
@@ -320,7 +1204,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "aad287f572f8ff51a5d0f78c",
@@ -337,7 +1221,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "a58a39f03eda02aa9b867c5f",
@@ -354,7 +1238,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "a4391340abfa4dd4d9102272",
@@ -371,7 +1255,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "a33ddd2dcde5b67fddf26d19",
@@ -388,7 +1272,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "9d4c9b0a9d00895ad124cada",
@@ -405,7 +1289,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "9a080a042075e7b8b817fbce",
@@ -422,7 +1306,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "956b3809d095bbbe07c886e9",
@@ -439,7 +1323,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "95670ad0c1426f8c72b7c254",
@@ -456,7 +1340,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "9539be231a2e0383b2d7ec2e",
@@ -473,7 +1357,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "924bb53224598e969e7943d2",
@@ -490,7 +1374,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "8cd417b7f24fc97871227973",
@@ -507,7 +1391,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "8a9e521d477eca827ac74d5a",
@@ -524,7 +1408,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "8700b02d19e197eb11cf5cd9",
@@ -541,7 +1425,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "8116fc00ed6cf52662e16142",
@@ -558,7 +1442,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "74c9de00465c027d6c930f12",
@@ -575,7 +1459,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "6e229b3da43e70e681c0507d",
@@ -592,7 +1476,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "6d1f44d3c982492fcdcb9f5c",
@@ -609,7 +1493,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "6874eb6e5089ed2d8a7a93f5",
@@ -626,7 +1510,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "6593ae71675c3739a9528afd",
@@ -643,7 +1527,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "61e71c043795ec5333d4c625",
@@ -660,7 +1544,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "576ed9fcfaeca32aeee2f055",
@@ -677,7 +1561,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "4e25e46121e2df31de5e62ba",
@@ -691,9 +1575,7 @@
     "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
     "published_date": "2026-10-15",
     "first_seen": "2026-10-16",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
+    "active_sources": [],
     "last_seen": "2026-10-16"
   },
   {
@@ -711,7 +1593,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "41f558d48547290f8e9d733f",
@@ -728,7 +1610,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "3892e12858864b621f85b049",
@@ -745,7 +1627,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "3819b8abbeece055e9acd5d5",
@@ -762,7 +1644,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "34b070b57a6b37b51bc7d1b2",
@@ -779,7 +1661,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "2b0de799fab4cdd0873225f7",
@@ -796,7 +1678,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "2ac2862b852ca9fad673c19d",
@@ -810,9 +1692,7 @@
     "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
     "published_date": "2026-10-15",
     "first_seen": "2026-10-16",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
+    "active_sources": [],
     "last_seen": "2026-10-16"
   },
   {
@@ -830,7 +1710,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "2242d6704fa8d09f011ba921",
@@ -847,7 +1727,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "1eba3a1d14edee11f6e8cc1b",
@@ -864,7 +1744,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "1815e7cddc0ab99425dae96a",
@@ -881,7 +1761,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "176016789d8abd3289d12635",
@@ -898,7 +1778,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "168d568eae3cbcb3785fd779",
@@ -915,7 +1795,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "135cd4d1883afb34da852fe4",
@@ -932,7 +1812,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "1316da1d0b286f899b7b6ef5",
@@ -949,7 +1829,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "10c558f5079551839c67d335",
@@ -966,7 +1846,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "0ff09290b65beee7a06797be",
@@ -983,7 +1863,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "0e7bab93293f236e1762fe59",
@@ -1000,7 +1880,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "0d023e3e039237b7a1b8c486",
@@ -1017,7 +1897,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "097a7d6681c7edfde2097498",
@@ -1034,7 +1914,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "04d15f26406ce655f4c6354a",
@@ -1051,7 +1931,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "04aab0acb7bcdc6c9e461b3c",
@@ -1068,7 +1948,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "03edb7071752095537fd410d",
@@ -1085,7 +1965,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "fe15287ab48f3ace3380f77f",
@@ -1102,7 +1982,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "fe10cfe6ab419486e4ff0233",
@@ -1119,7 +1999,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "f857ebc1b2afd471b656b534",
@@ -1136,7 +2016,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "f7358eca3299dccdde7589a7",
@@ -1153,7 +2033,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "f4b61c901308e0ff94b00c94",
@@ -1170,7 +2050,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "f31aca54a9f21b5b6916b2d6",
@@ -1187,7 +2067,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "f2ebd3ed743472e887baf180",
@@ -1204,7 +2084,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "ebb40deded3eb5ecab8122b3",
@@ -1221,7 +2101,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "eb6b7bf738bc7e5b5c9c2aee",
@@ -1238,7 +2118,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "e7716cfa19a4518cce9a98a5",
@@ -1255,7 +2135,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "e691a18cbd4e8d3445bc5f40",
@@ -1272,7 +2152,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "e57f8a2e84462db9b05944ea",
@@ -1289,7 +2169,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "e4c1f051087f45860ef3392c",
@@ -1306,7 +2186,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "e4567fa60d883a8f78bd5cb6",
@@ -1323,7 +2203,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "e125fbbc9014f06d60148053",
@@ -1340,7 +2220,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "dfab284d1c14c928505a96ba",
@@ -1357,7 +2237,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "d636aa1673c66c01d29776af",
@@ -1374,7 +2254,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "d27c8880fb02ab918f65d021",
@@ -1391,7 +2271,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "cead2c80933bb0f5f6886ccb",
@@ -1423,7 +2303,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "c699be075bed39a58b7995ca",
@@ -1440,7 +2320,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "c4889de06c780b9c24326eac",
@@ -1457,7 +2337,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "c453e7ae1e81e10136b0e859",
@@ -1474,7 +2354,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "c41c92208fb8dfd5baaeab18",
@@ -1491,7 +2371,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "c0123af03b4c532f1c733009",
@@ -1508,7 +2388,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "bfe260d4af729307fa39c9a0",
@@ -1525,7 +2405,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "bf2e8834be7ba688091ac9c6",
@@ -1539,9 +2419,7 @@
     "eligibility": "Degrees: Bachelor's, MBA; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
     "published_date": "2026-10-14",
     "first_seen": "2026-10-15",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
+    "active_sources": [],
     "last_seen": "2026-10-16"
   },
   {
@@ -1559,7 +2437,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "b012a461df446d8ddcb6b588",
@@ -1576,7 +2454,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "af1c2a6687b08372fb87fe87",
@@ -1593,7 +2471,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "ad815408f8125a2e83744014",
@@ -1610,7 +2488,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "acbe7713fdaedf0d3153ef11",
@@ -1627,7 +2505,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "ab9ec120a37a14ab1f3fa389",
@@ -1644,7 +2522,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "a9a0bd3f6f361f6954093450",
@@ -1661,7 +2539,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "a740e9a8009c4435bcddfa4a",
@@ -1678,7 +2556,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "a4abe6eb2831f59e20bc4db6",
@@ -1695,7 +2573,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "a37d77d60d5c5599d7d0e0d5",
@@ -1712,7 +2590,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "9f42b848716966dfbede2b07",
@@ -1729,7 +2607,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "93552963969c1e8c02cadfe7",
@@ -1746,7 +2624,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "90ece852cb7839a91f658b13",
@@ -1763,7 +2641,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "8f5215aa429c4ed3d4ebce74",
@@ -1780,7 +2658,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "8ea5a0c8d97a83e807534a48",
@@ -1797,7 +2675,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "8c8031d4acab3f11481f39cf",
@@ -1814,7 +2692,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "88e459e77b018d2c44931b4d",
@@ -1831,7 +2709,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "881f56fb1b0d4a6db6ec8e26",
@@ -1848,7 +2726,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "87339286c7e11a1ca77ebbf0",
@@ -1865,7 +2743,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "82f7fe90f9c28a45eb74c683",
@@ -1882,7 +2760,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "81169f6680a140f5fe9d22f6",
@@ -1899,7 +2777,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "8077791d4c95c3bb3bb9c6a6",
@@ -1916,7 +2794,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "6bedf4ec48bb9f4dbfab3791",
@@ -1933,7 +2811,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "685a5ac8b27676f52101d9ae",
@@ -1950,7 +2828,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "65569bb9ad6e7a061e301d21",
@@ -1967,7 +2845,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "649c545709bf0145acd8f3c3",
@@ -1984,7 +2862,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "5f3051af396be461408e4271",
@@ -2001,7 +2879,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "5d3546a651e1b7726dab4235",
@@ -2018,7 +2896,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "59cb12f93c2cc339291baf23",
@@ -2035,7 +2913,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "5692ec629488dacf6921452f",
@@ -2052,7 +2930,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "557100f3b3cb991e7be1d3c2",
@@ -2069,7 +2947,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "535e9a3265d8fec90f506be4",
@@ -2086,7 +2964,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "4ac8fb2b96e2fbca92017db2",
@@ -2103,7 +2981,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "47dde2243c0d3ac3d5bc419e",
@@ -2120,7 +2998,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "45000bb626b234ec9e519b83",
@@ -2137,7 +3015,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "417cddcd2ef0afb20ec31acb",
@@ -2154,7 +3032,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "3f1f350209446e03c28b1044",
@@ -2171,7 +3049,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "3e970202a918c2a392ef97a7",
@@ -2188,7 +3066,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "3e18d1d13ce68ed933156449",
@@ -2205,7 +3083,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "3ba2f08e1118122357cd659d",
@@ -2222,7 +3100,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "35414d5d767b356cc6f1deca",
@@ -2239,7 +3117,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "345eab5b2f9ede3bf645bede",
@@ -2256,7 +3134,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "32423bbc7f26b0130507e78c",
@@ -2273,7 +3151,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "2bdee1450144f47919978de9",
@@ -2290,7 +3168,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "2aaef0a2f6659f2efbef8e7e",
@@ -2307,7 +3185,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "2aade8f9ec31a9b109e33205",
@@ -2324,7 +3202,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "2758e67e0c965eb2a02bd2c8",
@@ -2341,7 +3219,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "269ca3e54366096b7705eb25",
@@ -2358,7 +3236,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "1aa1f7a975844aee46c2be2d",
@@ -2375,7 +3253,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "1a053064b3fde14776f01b41",
@@ -2392,7 +3270,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "178fdd98a43cd9f643d53e53",
@@ -2406,9 +3284,7 @@
     "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
     "published_date": "2026-10-14",
     "first_seen": "2026-10-15",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
+    "active_sources": [],
     "last_seen": "2026-10-16"
   },
   {
@@ -2426,7 +3302,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "12f201d6e457273fd80b38d0",
@@ -2443,7 +3319,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "10f4196e7ed2f335bca2f410",
@@ -2460,7 +3336,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "0c741af9c8121e503aac9b15",
@@ -2477,7 +3353,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "0435e6d659ae5db6eda3f676",
@@ -2494,7 +3370,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "030046efa76c683af983e389",
@@ -2511,7 +3387,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "026a9170fd14762baacdb001",
@@ -2528,7 +3404,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "fc00b20daae23f230a3ffd81",
@@ -2545,7 +3421,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "fbc4fb70e178308a158a1c8c",
@@ -2562,7 +3438,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "f91866ef49e94aca3fffb59e",
@@ -2579,7 +3455,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "f7d9f648e7fe5324051000ad",
@@ -2596,7 +3472,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "f3689915e53d48a79004f8ec",
@@ -2613,7 +3489,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "e9315233f20c4e91c2e4f05d",
@@ -2630,7 +3506,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "e4ec62ac50fcc9b7ab1499bf",
@@ -2647,7 +3523,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "e1fdd45163ac0e5053c5aa84",
@@ -2664,7 +3540,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "dfc396daa7378ffcacb1baaf",
@@ -2681,7 +3557,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "df56b281647b827acca3edee",
@@ -2698,7 +3574,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "d9d08a7918a8424aedbafced",
@@ -2715,7 +3591,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "d9508b2b8bd7f2d4a6dee863",
@@ -2747,7 +3623,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "d082bc637d9515fcf56e4470",
@@ -2764,7 +3640,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "ced12b85ef246d50f490268c",
@@ -2781,7 +3657,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "cb108b13053af7a24c94e1ee",
@@ -2798,7 +3674,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "cafdbb036754e140ec4151cd",
@@ -2815,7 +3691,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "bdd97a52f68b72e5a4084423",
@@ -2832,7 +3708,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "bd67a3da8089e77cc8db6e4d",
@@ -2846,9 +3722,7 @@
     "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
     "published_date": "2026-10-14",
     "first_seen": "2026-10-14",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
+    "active_sources": [],
     "last_seen": "2026-10-16"
   },
   {
@@ -2866,7 +3740,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "b1a32839cbb5f114a217baaa",
@@ -2883,7 +3757,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "ae0d7f575c564ea55b89a6f9",
@@ -2900,7 +3774,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "ad86fe8dd0bf5d80d8f0e6b0",
@@ -2917,7 +3791,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "aad556440aac5bba3d6d44de",
@@ -2934,7 +3808,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "a7b6d5af94318a3516646afe",
@@ -2951,7 +3825,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "a10afcec457a1ad655bef830",
@@ -2968,7 +3842,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "9ed73bd161ae8510898e977a",
@@ -2985,7 +3859,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "9e55947851ee7080530cf55b",
@@ -3002,7 +3876,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "9ca62356be89798535bb9a73",
@@ -3019,7 +3893,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "99e278fb0e46989f003cf094",
@@ -3036,7 +3910,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "99c268f8ee2e86f8e24606b9",
@@ -3053,7 +3927,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "98201a6a8b151e1b2d3b38ff",
@@ -3070,7 +3944,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "95a9c577f14e62e710cc3c80",
@@ -3087,7 +3961,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "8afea27b6136847c9e0ff6e0",
@@ -3101,9 +3975,7 @@
     "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
     "published_date": "2026-10-14",
     "first_seen": "2026-10-14",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
+    "active_sources": [],
     "last_seen": "2026-10-16"
   },
   {
@@ -3121,7 +3993,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "842e795b635332134519bc4f",
@@ -3138,7 +4010,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "7cbbb0c6e5b1f0382e1b8fcd",
@@ -3155,7 +4027,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "7bb2adcda492bbce112040b6",
@@ -3172,7 +4044,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "72f7b3220e9781edf34c140f",
@@ -3189,7 +4061,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "6d40e8e3ff8c6a55fb70f47c",
@@ -3206,7 +4078,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "6c58f9bc322b07b184d4abaa",
@@ -3238,7 +4110,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "6326b18457698fad32d9a5d3",
@@ -3252,9 +4124,7 @@
     "eligibility": "Degrees: Bachelor's, Master's, Associate's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
     "published_date": "2026-10-13",
     "first_seen": "2026-10-14",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
+    "active_sources": [],
     "last_seen": "2026-10-16"
   },
   {
@@ -3272,7 +4142,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "60d64934770a47c6cc859b6a",
@@ -3289,7 +4159,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "581b0842b30ca144a701dff8",
@@ -3306,7 +4176,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "53c5c1ca4b9de67118ce62cc",
@@ -3323,7 +4193,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "4aaf2c2fd94a0ee877c64ee2",
@@ -3340,7 +4210,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "47bdbf3c002cab6bdd03c610",
@@ -3354,9 +4224,7 @@
     "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
     "published_date": "2026-10-14",
     "first_seen": "2026-10-14",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
+    "active_sources": [],
     "last_seen": "2026-10-16"
   },
   {
@@ -3374,7 +4242,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "38ae80a68be5f2f529617f34",
@@ -3391,7 +4259,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "35c777a05edea51edb205ae6",
@@ -3408,7 +4276,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "350d06947d32aebadb1948fa",
@@ -3425,7 +4293,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "34f1c9d2aca65b84a7db0112",
@@ -3442,7 +4310,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "3133dcf97ba978bb3953333c",
@@ -3474,7 +4342,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "263a89cc0c908c8642fdbc28",
@@ -3491,7 +4359,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "24fa6c0e85a1ce230725ee4b",
@@ -3508,7 +4376,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "236833e21e2612cb4dac0b60",
@@ -3525,7 +4393,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "2019befb34eef5842119cffe",
@@ -3542,7 +4410,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "1bfb817a3d4a07e70c738f11",
@@ -3574,7 +4442,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "0d924f78a2c35e7e164b8cf9",
@@ -3591,7 +4459,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "0c250c13d77436b1393a3988",
@@ -3608,7 +4476,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "0b229f4efb5a195aeda95e40",
@@ -3640,7 +4508,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "06e420182e5aef3c8d1104c0",
@@ -3657,7 +4525,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "05e898e52c1b73793071f9ea",
@@ -3674,7 +4542,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "01dc1ca9fd279738e5031b05",
@@ -3691,7 +4559,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "018669c1050d46f90e1de99a",
@@ -3723,7 +4591,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "fb09004dca1ba165cfc59ace",
@@ -3740,7 +4608,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "fa6bd122c884ee04fb113432",
@@ -3757,7 +4625,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "f9cc0a1b5dee8d5d37009fba",
@@ -3774,7 +4642,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "f7a3ff34ab13b96896dc7569",
@@ -3791,7 +4659,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "f54fe65b523e2718a86f5fff",
@@ -3823,7 +4691,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "ee483b4a6f1414a369f7f442",
@@ -3840,7 +4708,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "ed4108b4fca498b743baaffb",
@@ -3857,7 +4725,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "ebe737e9173bc2d32619c3bc",
@@ -3874,7 +4742,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "e5e6ff99c169f9389efee1a4",
@@ -3891,7 +4759,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "e45c5b89532de5fb73fc0a4e",
@@ -3908,7 +4776,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "e2f9ee2039492bb102382c75",
@@ -3925,7 +4793,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "e22b586e117e40c8763e70ad",
@@ -3942,7 +4810,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "df815338d4d0d070b01dc28a",
@@ -3959,7 +4827,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "decc0a14b132f0f716f15d29",
@@ -3976,7 +4844,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "dd1db8df86bc52a325d63a95",
@@ -3993,7 +4861,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "d21ded5b3f6b349fd9b97850",
@@ -4010,7 +4878,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "ced45654ce4246a50c857d3f",
@@ -4027,7 +4895,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "c791dc1882341c65b8b19b83",
@@ -4044,7 +4912,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "c71a9980ac8c2ea0b2d8e08a",
@@ -4061,7 +4929,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "c58d5727d7031b5df431150d",
@@ -4078,7 +4946,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "c1c758a56894783650244dd8",
@@ -4095,7 +4963,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "bdd3161a8b93282e7c4af330",
@@ -4112,7 +4980,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "baa112214d2f618d3e968acf",
@@ -4129,7 +4997,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "ba62cbea88234b231a896233",
@@ -4161,7 +5029,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "b810426ab4b7670291a3ae34",
@@ -4178,7 +5046,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "b58a385e94b1ed4167564a69",
@@ -4195,7 +5063,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "b2f4132bec07cf259fa7f44a",
@@ -4212,7 +5080,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "b208b4e66522e0f585b82cc3",
@@ -4229,7 +5097,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "b1f38fd2601514cf540e50f8",
@@ -4246,7 +5114,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "ae43d249421b8414bef1d760",
@@ -4263,7 +5131,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "ab972393335407e9eeb25499",
@@ -4280,7 +5148,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "ab91117038c27d42907e8cb8",
@@ -4312,7 +5180,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "9970bedb8f632df38d3fcfb1",
@@ -4344,7 +5212,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "9369b393ff3059ee3cbd80c6",
@@ -4406,7 +5274,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "89dd58c0d5abb15a901a21a3",
@@ -4420,9 +5288,7 @@
     "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Spring 2027, Summer 2027; Verify degree, work authorization, and location on application page",
     "published_date": "2026-10-12",
     "first_seen": "2026-10-13",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
+    "active_sources": [],
     "last_seen": "2026-10-16"
   },
   {
@@ -4455,7 +5321,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "824542e384deea1855118ef8",
@@ -4487,7 +5353,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "7f585e836325350487c4fa68",
@@ -4504,7 +5370,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "7e1fb66ca7dbfc4f4631b8db",
@@ -4521,7 +5387,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "7bef7a79c514035eef8d0115",
@@ -4550,9 +5416,7 @@
     "eligibility": "Degrees: Bachelor's, Associate's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
     "published_date": "2026-10-12",
     "first_seen": "2026-10-13",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
+    "active_sources": [],
     "last_seen": "2026-10-16"
   },
   {
@@ -4570,7 +5434,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "6cb3ede51efa404f599513c3",
@@ -4587,7 +5451,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "63142c33618a5f4c5bdc585e",
@@ -4604,7 +5468,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "62fd5b8dad7541cf29063172",
@@ -4621,7 +5485,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "5ce79b7b01d655a4a017c58b",
@@ -4638,7 +5502,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "59ddc6faaa2add44ec1c56db",
@@ -4655,7 +5519,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "57537bc3c6159f5aba87b7fb",
@@ -4672,7 +5536,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "572c30165c2ae123296fc675",
@@ -4689,7 +5553,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "55cca4aa9b109a75ad2af45e",
@@ -4721,7 +5585,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "5300195a466d48f65b04f25e",
@@ -4753,7 +5617,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "4fa52bd1f97caf3c8bf32820",
@@ -4785,7 +5649,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "483cb930d01c0950a1780ef4",
@@ -4802,7 +5666,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "46bddc7aa7f07bb217cf0f4e",
@@ -4819,7 +5683,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "43b45b1e68948aca1a7e1df8",
@@ -4836,7 +5700,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "3ca2f172c26009f014271251",
@@ -4853,7 +5717,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "3c6896ad1aec2006f587d2a4",
@@ -4870,7 +5734,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "3ad2a4a3845070f91b39a2f5",
@@ -4887,7 +5751,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "366104a6414f56ff2b6fa1bd",
@@ -4904,7 +5768,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "307abe301ed4d6da3e191a04",
@@ -4921,7 +5785,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "303a0ca0cbaf18b61177c85b",
@@ -4953,7 +5817,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "2d094c0fa39eeed8751815bf",
@@ -4970,7 +5834,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "2b5d89d09e78709ff30f8161",
@@ -4987,7 +5851,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "27134fffa731d07cf4e86f42",
@@ -5004,7 +5868,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "25a5880dd45c608dd6ae2c2e",
@@ -5018,9 +5882,7 @@
     "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
     "published_date": "2026-10-12",
     "first_seen": "2026-10-13",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
+    "active_sources": [],
     "last_seen": "2026-10-16"
   },
   {
@@ -5038,7 +5900,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "18a74a065f868e7e75083d14",
@@ -5055,7 +5917,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "14ed9944bf801d665fd1c0ab",
@@ -5072,7 +5934,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "123a265d9b140b3b03f70f40",
@@ -5089,7 +5951,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "0af51d2723c692e698b0f6b6",
@@ -5106,7 +5968,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "0a9da656a0210bf0ecf2fe53",
@@ -5123,7 +5985,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "02e91761ac7c0dfc7dd8ca88",
@@ -5155,7 +6017,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "e6053d6229b14f0852bc7dc8",
@@ -5172,7 +6034,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "b014bc8ef89b7fbbf9dbea1c",
@@ -5189,7 +6051,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "aa2326deb51b6fe6ee6ddd94",
@@ -5206,7 +6068,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "9883b903390bfbdff0820378",
@@ -5220,9 +6082,7 @@
     "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
     "published_date": "2026-10-12",
     "first_seen": "2026-10-12",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
+    "active_sources": [],
     "last_seen": "2026-10-16"
   },
   {
@@ -5240,7 +6100,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "931acf4369558ed6d1ac7e73",
@@ -5257,7 +6117,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "728ab84cca9a3d352e5fd2be",
@@ -5289,7 +6149,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "2d3533d2c3c0c00169d06750",
@@ -5306,7 +6166,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "f21f11280b49ae91371030fc",
@@ -5324,340 +6184,6 @@
     "last_seen": "2026-10-12"
   },
   {
-    "id": "ff9bbdbf92d39ee4c222bebe",
-    "title": "Software Engineer Intern",
-    "organization": "SageSure",
-    "category": "Internship",
-    "location": "Chicago, IL; Jersey City, NJ; Mountain View, CA",
-    "deadline": "",
-    "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719536006",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "f167e2bb79365c564284c4cd",
-    "title": "Electrical Engineer Intern",
-    "organization": "Applied Materials",
-    "category": "Internship",
-    "location": "Santa Clara, CA",
-    "deadline": "",
-    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern---Electrical-Engineer---BS-MS-Degree---Santa-Clara-_R2629428",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "f11df78c1049f943dbb5e3ce",
-    "title": "Test Engineering Intern",
-    "organization": "Harbinger Motors",
-    "category": "Internship",
-    "location": "Garden Grove, CA",
-    "deadline": "",
-    "url": "https://job-boards.greenhouse.io/harbingermotors/jobs/5255968007",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's, Master's, PhD; Sponsorship: Not confirmed; Terms: Winter 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "eabb3703bc4ccd0877ed3ac1",
-    "title": "Panasonic Transformation Group Intern",
-    "organization": "Panasonic Holdings",
-    "category": "Internship",
-    "location": "Sparks, NV",
-    "deadline": "",
-    "url": "https://careers.na.panasonic.com/jobs/51629?icims=1",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "ea710c5f11ed510fd57914e8",
-    "title": "Software Engineer Intern",
-    "organization": "RTX",
-    "category": "Internship",
-    "location": "Melbourne, FL",
-    "deadline": "",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876918",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [],
-    "last_seen": "2026-10-13"
-  },
-  {
-    "id": "dc390a563151c468a865f420",
-    "title": "IT Software Engineer Intern",
-    "organization": "Micron Technology",
-    "category": "Internship",
-    "location": "Boise, ID",
-    "deadline": "",
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR113941",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [],
-    "last_seen": "2026-10-15"
-  },
-  {
-    "id": "d2e6121e81b8857fa71f8f37",
-    "title": "HR AI Data Science Intern",
-    "organization": "Itron",
-    "category": "Internship",
-    "location": "Austin, TX",
-    "deadline": "",
-    "url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Texas-Austin/Intern---HR-AI-Data-Science--Summer-2027-_JR103034",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "d1e546cffec2356dde35c106",
-    "title": "Software Engineer Co-op",
-    "organization": "Electronic Arts",
-    "category": "Internship",
-    "location": "Vancouver, BC, Canada",
-    "deadline": "",
-    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216231",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "d150aa34bdf4f7406d6b913d",
-    "title": "Gameplay Software Engineer Co-op",
-    "organization": "Electronic Arts",
-    "category": "Internship",
-    "location": "Vancouver, BC, Canada",
-    "deadline": "",
-    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216230",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "cb0e0823d785407104572511",
-    "title": "People Analytics Intern",
-    "organization": "Itron",
-    "category": "Internship",
-    "location": "Liberty Lake, WA",
-    "deadline": "",
-    "url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---People-Analytics--Summer-2027-_JR103033",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "c8847011e7a1649351765ad6",
-    "title": "Energy Storage Product Management Intern",
-    "organization": "Vertiv",
-    "category": "Internship",
-    "location": "Delaware, OH",
-    "deadline": "",
-    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279379",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's, Master's, MBA; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "c73cc4004cae64d1947ebf80",
-    "title": "Software Application Development Engineer Intern",
-    "organization": "Workday",
-    "category": "Internship",
-    "location": "Pleasanton, CA",
-    "deadline": "",
-    "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0110811",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "c35166dd2ebb13badfb055b1",
-    "title": "HR AI Data Science Intern",
-    "organization": "Itron",
-    "category": "Internship",
-    "location": "Austin, TX",
-    "deadline": "",
-    "url": "https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Texas-Austin/Intern---HR-AI-Data-Science--Summer-2027-_JR103034-1",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "bda14e1ee18f78bce162a012",
-    "title": "Panasonic Transformation Group Intern",
-    "organization": "Panasonic Holdings",
-    "category": "Internship",
-    "location": "Sparks, NV",
-    "deadline": "",
-    "url": "https://careers.na.panasonic.com/jobs/51646?icims=1",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "ba2201c4059254b60b10ac41",
-    "title": "Software Product Management Intern",
-    "organization": "SageSure",
-    "category": "Internship",
-    "location": "Chicago, IL; Jersey City, NJ; Mountain View, CA",
-    "deadline": "",
-    "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719520006",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "b0ebed92e19e046eadd42e6b",
-    "title": "Information Technology Development Intern",
-    "organization": "Wawa",
-    "category": "Internship",
-    "location": "Media, PA",
-    "deadline": "",
-    "url": "https://wawa.wd1.myworkdayjobs.com/careers/job/WAWA---Wawa-Inc---Corporate-Office/Information-Technology-Development-Internship_JR122392",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "b0124fe540b04d291a5c94d6",
-    "title": "Pet Health Sales Excellence Intern - AI Innovation & Enablement",
-    "organization": "Elanco",
-    "category": "Internship",
-    "location": "Indianapolis, IN",
-    "deadline": "",
-    "url": "https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Indianapolis-IN/US-Pet-Health-Sales-Excellence-Intern---AI-Innovation---Enablement--Summer-2027-_R0027467",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "ad0f0070c3cec20c018f1b0d",
-    "title": "Software Engineer Intern",
-    "organization": "Danaher",
-    "category": "Internship",
-    "location": "Vista, CA",
-    "deadline": "",
-    "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Vista-California-United-States/Software-Engineering-Intern_R1315719",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "a4e77d468897208e0bd01b00",
-    "title": "Machine Learning / Artificial Intelligence Intern - AI",
-    "organization": "Loram",
-    "category": "Internship",
-    "location": "Hamel, Medina, MN",
-    "deadline": "",
-    "url": "https://jobs.smartrecruiters.com/Loram1/3743990016031492",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [],
-    "last_seen": "2026-10-15"
-  },
-  {
-    "id": "9feb306db3c53d0a6a394279",
-    "title": "C++ Software Engineer Intern",
-    "organization": "Electronic Arts",
-    "category": "Internship",
-    "location": "Vancouver, BC, Canada",
-    "deadline": "",
-    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-months-UFC/216226",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Spring 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
     "id": "979f4ed94750763b8d3286e0",
     "title": "Software Developer Co-op",
     "organization": "Magnet Forensics",
@@ -5672,326 +6198,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "8926edafac78c45bd4a64a0e",
-    "title": "Data Science Intern",
-    "organization": "SageSure",
-    "category": "Internship",
-    "location": "Jersey City, NJ",
-    "deadline": "",
-    "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719539006",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "830d8eabc844dfd06acae938",
-    "title": "Marketing Intern - Marketing Analysis",
-    "organization": "Kyndryl",
-    "category": "Internship",
-    "location": "NYC",
-    "deadline": "",
-    "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analysis_R-70007-1",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "82183364b893daf9dceb43ab",
-    "title": "Business Compliance Intern",
-    "organization": "Lennox International",
-    "category": "Internship",
-    "location": "Richardson, TX",
-    "deadline": "",
-    "url": "https://uscareers-lennox.icims.com/jobs/55590/job?mobile=true&needsRedirect=false",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "7fd80d7c571f8b50b0997771",
-    "title": "Software Development Engineer Intern",
-    "organization": "Workday",
-    "category": "Internship",
-    "location": "Vancouver, BC, Canada",
-    "deadline": "",
-    "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Software-Development-Engineer-Intern_JR-0110807",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Winter 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "760e44abbf367b67305bbaf8",
-    "title": "Systematic Multi-Strategy Intern",
-    "organization": "State of Wisconsin Investment Board",
-    "category": "Internship",
-    "location": "Madison, WI",
-    "deadline": "",
-    "url": "https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Systematic-Multi-Strategy-Intern_R-001342",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "6f99aa2fd9d10efbb493ba39",
-    "title": "Software Engineer Intern",
-    "organization": "Electronic Arts",
-    "category": "Internship",
-    "location": "Vancouver, BC, Canada",
-    "deadline": "",
-    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-Months-Sports-Technology/216225",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "6df131ab3730a9f8a083848a",
-    "title": "Data Scientist Intern",
-    "organization": "SageSure",
-    "category": "Internship",
-    "location": "Jersey City, NJ; Cheshire, CT",
-    "deadline": "",
-    "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719514006",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "6d947a8c724553aabb7e8f0f",
-    "title": "ASIC Engineer Intern",
-    "organization": "Hewlett Packard Enterprise",
-    "category": "Internship",
-    "location": "Sunnyvale, CA",
-    "deadline": "",
-    "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/ASIC-Engineer-Intern_1216555",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "6a61b38dbdf5fcd82bebf6fd",
-    "title": "Digital Automation Co-op",
-    "organization": "Johnson & Johnson",
-    "category": "Internship",
-    "location": "Malvern, PA",
-    "deadline": "",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-CGT-Digital-Automation-Co-Op_R-098537",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's, Master's, PhD; Sponsorship: Not confirmed; Terms: Winter 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "66e87f3c564aac3e5f72d8d1",
-    "title": "Software Engineer Intern",
-    "organization": "GCM Grosvenor",
-    "category": "Internship",
-    "location": "Chicago, IL",
-    "deadline": "",
-    "url": "https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8015792003",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "6631c8421c290090f628f6ad",
-    "title": "Enterprise Content Analytics & Solutions Intern",
-    "organization": "CHS",
-    "category": "Internship",
-    "location": "Inver Grove Heights, MN",
-    "deadline": "",
-    "url": "https://careers.chsinc.com/job/Inver-Grove-Heights-Enterprise-Content-Analytics-&-Solutions-Intern-MN-55077-1721/1438778100/?ats=successfactors",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "623bdf173559f3204bdd474b",
-    "title": "AI Agentic Flow for GPU ASIC Design Co-op Intern",
-    "organization": "AMD",
-    "category": "Internship",
-    "location": "Orlando, FL",
-    "deadline": "",
-    "url": "https://careers.amd.com/jobs/91341?icims=1",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's, Master's, PhD; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [],
-    "last_seen": "2026-10-12"
-  },
-  {
-    "id": "61ff6307afb6fa69210d491b",
-    "title": "Product Manager Intern",
-    "organization": "Workday",
-    "category": "Internship",
-    "location": "Pleasanton, CA",
-    "deadline": "",
-    "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Product-Manager-Intern_JR-0110813",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "53fed6db2b88b0f9b6cf8171",
-    "title": "Panasonic Transformation Group Intern",
-    "organization": "Panasonic Holdings",
-    "category": "Internship",
-    "location": "Sparks, NV",
-    "deadline": "",
-    "url": "https://careers.na.panasonic.com/jobs/51652?icims=1",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "52f2ff3430a7bde28f35c440",
-    "title": "Software Engineer Intern",
-    "organization": "GlobalFoundries",
-    "category": "Internship",
-    "location": "Austin, TX; Santa Clara, CA",
-    "deadline": "",
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineering-Intern--Summer-2027-_JR-2604039",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "4f0f296c59e0017711f16af6",
-    "title": "Software Engineer Intern",
-    "organization": "DocuSign",
-    "category": "Internship",
-    "location": "Chicago, IL",
-    "deadline": "",
-    "url": "https://careers.docusign.com/jobs/30497?icims=1",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "4eeb3254d5771e3f935cdf40",
-    "title": "Forward Deployed Engineer Intern - HR Technology",
-    "organization": "Coinbase",
-    "category": "Internship",
-    "location": "NYC",
-    "deadline": "",
-    "url": "https://boards.greenhouse.io/embed/job_app?token=8175510",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "4dbdd7bc2b0b9ec04ef9fe95",
-    "title": "Machine Learning Engineer Intern",
-    "organization": "Workday",
-    "category": "Internship",
-    "location": "Pleasanton, CA",
-    "deadline": "",
-    "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "49ba2050628c9a2fe67f9e10",
-    "title": "Data Science Intern",
-    "organization": "Daimler Truck",
-    "category": "Internship",
-    "location": "Portland, OR",
-    "deadline": "",
-    "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Data-Science-Intern_DT-20166-1",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2026; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [],
-    "last_seen": "2026-10-12"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "429a5d499647b1154de0c6b4",
@@ -6008,24 +6215,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "4239c86f031c096302e68f34",
-    "title": "Banking Automation Engineer Intern",
-    "organization": "FNBO",
-    "category": "Internship",
-    "location": "Omaha, NE",
-    "deadline": "",
-    "url": "https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Banking-Automation-Engineer-Intern_R-20261800",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's, Master's, Associate's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
+    "last_seen": "2026-10-17"
   },
   {
     "id": "4215d04f050f8ccd2286817c",
@@ -6043,208 +6233,6 @@
     "last_seen": "2026-10-15"
   },
   {
-    "id": "3a27e2c7d1ac03816b0d925a",
-    "title": "Proteins Cell Engineering, Analytics & Screening Automation Co-op",
-    "organization": "Johnson & Johnson",
-    "category": "Internship",
-    "location": "Spring House, PA",
-    "deadline": "",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/TDS-Proteins-CEAS-Automation-Co-Op_R-098580",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's, Master's, PhD; Sponsorship: Not confirmed; Terms: Winter 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "39647ba929e2603b8e4b4e8c",
-    "title": "EA & Cloud Intern",
-    "organization": "Nissan Global",
-    "category": "Internship",
-    "location": "Franklin, TN",
-    "deadline": "",
-    "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/EA---Cloud-Intern---Summer-2027---Franklin--TN_R00214214",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "34ee8b5da76eee541a0bd3b5",
-    "title": "Data Analyst Intern",
-    "organization": "American Family Insurance Group",
-    "category": "Internship",
-    "location": "Madison, WI",
-    "deadline": "",
-    "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Data-Analyst_R39404",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's, Master's, PhD; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "3296a486ef5b7c758b5498ba",
-    "title": "Systems Integration Engineer Intern",
-    "organization": "BorgWarner",
-    "category": "Internship",
-    "location": "Kokomo, IN",
-    "deadline": "",
-    "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/System-Integration-Intern_R2026-4042",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2026; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "326e5f7f00a77113dc2a350b",
-    "title": "Software Engineering Intern",
-    "organization": "RTX",
-    "category": "Internship",
-    "location": "Melbourne, FL",
-    "deadline": "",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876467",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [],
-    "last_seen": "2026-10-13"
-  },
-  {
-    "id": "281c886243f65c82f4e38cab",
-    "title": "Product Manager Intern",
-    "organization": "Workday",
-    "category": "Internship",
-    "location": "Vancouver, BC, Canada",
-    "deadline": "",
-    "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Product-Manager-Intern_JR-0110808",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Winter 2027, Summer 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "24e2df74c416fa3f78bda15b",
-    "title": "People Analytics Intern",
-    "organization": "Itron",
-    "category": "Internship",
-    "location": "Liberty Lake, WA",
-    "deadline": "",
-    "url": "https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---People-Analytics--Summer-2027-_JR103033-1",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "1e42cd96ac634e7379c05b28",
-    "title": "Data Operations Engineer Intern",
-    "organization": "SageSure",
-    "category": "Internship",
-    "location": "Jersey City, NJ; Cheshire, CT",
-    "deadline": "",
-    "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719517006",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "1a808c22d6537fb2611225f5",
-    "title": "Tech Execution Intern",
-    "organization": "Capstone Investment Advisors",
-    "category": "Internship",
-    "location": "NYC",
-    "deadline": "",
-    "url": "https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8882130002",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "1604ce72be2a3b1f354127cd",
-    "title": "Data & Analytics Co-op",
-    "organization": "Later",
-    "category": "Internship",
-    "location": "Boston, MA",
-    "deadline": "",
-    "url": "https://job-boards.greenhouse.io/later/jobs/8880737002",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Winter 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "119c66183e55352fdc48b357",
-    "title": "Software Engineer Intern",
-    "organization": "DocuSign",
-    "category": "Internship",
-    "location": "Seattle, WA",
-    "deadline": "",
-    "url": "https://careers.docusign.com/jobs/30513?icims=1",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "0e9cee47adf90b4696bbfff6",
-    "title": "Business Administration Co-op - Maintenance Excellence",
-    "organization": "Elk Valley Resources",
-    "category": "Internship",
-    "location": "Sparwood, BC, Canada",
-    "deadline": "",
-    "url": "https://jobs.lever.co/evr/f99e042d-7629-4822-b82f-521b6bdc1db3/apply",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Winter 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
     "id": "0c928d73b8550ec808c68c2c",
     "title": "Student Web Developer & Content Specialist Intern",
     "organization": "Arizona State University",
@@ -6259,415 +6247,6 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "0207742d4a22ea46de2643c6",
-    "title": "Machine Learning Engineer Intern",
-    "organization": "Workday",
-    "category": "Internship",
-    "location": "Toronto, ON, Canada; Vancouver, BC, Canada",
-    "deadline": "",
-    "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Machine-Learning-Engineer-Intern_JR-0110806",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Winter 2027, Summer 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "000aff7b468454e170b2d1e5",
-    "title": "Software Engineer Intern",
-    "organization": "Workday",
-    "category": "Internship",
-    "location": "Pleasanton, CA",
-    "deadline": "",
-    "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-10",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "feec742eb961ba9e41cafb29",
-    "title": "IT Analyst Intern",
-    "organization": "Standard Aero",
-    "category": "Internship",
-    "location": "Cincinnati, OH",
-    "deadline": "",
-    "url": "https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10479",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2026; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-09",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "f81abbc47e3e12d2a8094dac",
-    "title": "Embedded Software Engineer Intern",
-    "organization": "Aptiv",
-    "category": "Internship",
-    "location": "Walnut Creek, CA",
-    "deadline": "",
-    "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-09",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "f7d007dc44cb9e2576be62bf",
-    "title": "Software Engineer Co-op",
-    "organization": "Parsons",
-    "category": "Internship",
-    "location": "Centreville, VA",
-    "deadline": "",
-    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Software-Engineer-Co-Op---TS-SCI_R187147",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-09",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "f63e5b9d16d516401b8bbba8",
-    "title": "Software Engineer Intern",
-    "organization": "Barry-Wehmiller",
-    "category": "Internship",
-    "location": "Dallas, TX",
-    "deadline": "",
-    "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Software-Engineering-Intern---DAL_R023133",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-09",
-    "active_sources": [],
-    "last_seen": "2026-10-12"
-  },
-  {
-    "id": "e457ed37ddaf8cd9810e9cc6",
-    "title": "Undergrad Validation/Debug Co-op",
-    "organization": "AMD",
-    "category": "Internship",
-    "location": "Austin, TX",
-    "deadline": "",
-    "url": "https://careers.amd.com/jobs/90719?icims=1",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Winter 2027, Spring 2027, Summer 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-09",
-    "active_sources": [],
-    "last_seen": "2026-10-09"
-  },
-  {
-    "id": "e1076e949f0040ba7fffcedf",
-    "title": "Modeling & Simulation Engineer Intern",
-    "organization": "Radiance Technologies",
-    "category": "Internship",
-    "location": "Huntsville, AL",
-    "deadline": "",
-    "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Huntsville-AL/Modeling---Simulation-Engineer-Intern_HR102472",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-09",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "c168d027b845bf573fbe3d9c",
-    "title": "Software Engineer Co-op",
-    "organization": "Johnson Controls",
-    "category": "Internship",
-    "location": "Burlington, MA",
-    "deadline": "",
-    "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Burlington-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_EB00075408",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Winter 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-09",
-    "active_sources": [],
-    "last_seen": "2026-10-12"
-  },
-  {
-    "id": "bf6f2a6698d9f42681037c85",
-    "title": "Quantitative Research Intern",
-    "organization": "Schonfeld",
-    "category": "Internship",
-    "location": "Austin, TX",
-    "deadline": "",
-    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8267120",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's, Master's, PhD; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-09",
-    "active_sources": [],
-    "last_seen": "2026-10-12"
-  },
-  {
-    "id": "b0edc26b5d1ec30e8af2094d",
-    "title": "Data Analytics College Intern - Analytics and Innovation",
-    "organization": "Denver",
-    "category": "Internship",
-    "location": "Denver, CO",
-    "deadline": "",
-    "url": "https://denver.wd1.myworkdayjobs.com/CCD-denver-denvergov-CSC_Jobs-Civil_service_jobs-Police_Jobs-Fire_Jobs/job/Denver-International-Airport/Data-Analytics-and-Innovation-College-Internship---Analytics-and-Innovation---Denver-International-Airport--4-months-_R0083221-1",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's, Associate's, Certificate; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-09",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "ac4fc3e09160de250efe6f57",
-    "title": "Product Management Co-op",
-    "organization": "Robert Bosch Venture Capital",
-    "category": "Internship",
-    "location": "Fountain Inn, SC",
-    "deadline": "",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154671460",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Spring 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-09",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "a72002c60d509453a2af7579",
-    "title": "Performance Engineering Assistant Co-op",
-    "organization": "Varian",
-    "category": "Internship",
-    "location": "Ottawa, ON, Canada",
-    "deadline": "",
-    "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Performance-Engineering-Assistant-Co-op_R-31160",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-09",
-    "active_sources": [],
-    "last_seen": "2026-10-13"
-  },
-  {
-    "id": "9f0aa8405a0453c6d85aba01",
-    "title": "CPU Compiler Intern",
-    "organization": "NVIDIA",
-    "category": "Internship",
-    "location": "Cambridge, UK",
-    "deadline": "",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Cambridge/CPU-Compiler-Intern---2027_JR2027251",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-09",
-    "active_sources": [],
-    "last_seen": "2026-10-12"
-  },
-  {
-    "id": "7705a0b4f9a151eed7425ce5",
-    "title": "Analog IC Design Engineer Intern",
-    "organization": "Texas Instruments",
-    "category": "Internship",
-    "location": "Santa Clara, CA",
-    "deadline": "",
-    "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016378",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-09",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "6fd845838006ea8b5045624a",
-    "title": "Electrical Engineer Intern - Controls/PCB",
-    "organization": "Applied Materials",
-    "category": "Internship",
-    "location": "Gloucester, MA",
-    "deadline": "",
-    "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Electrical-Engineer--Intern--Controls-PCB----BS-or-MS--Gloucester--MA-_R2630658",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-09",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "6efc1e9362a1a89d7fb326a7",
-    "title": "Software Developer Intern",
-    "organization": "WTW",
-    "category": "Internship",
-    "location": "Reigate, UK",
-    "deadline": "",
-    "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605435",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-09",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "6d2a424570e743348d7d242f",
-    "title": "Strategic Insight and Analytics Co-op",
-    "organization": "Johnson & Johnson",
-    "category": "Internship",
-    "location": "Horsham, PA",
-    "deadline": "",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Strategic-Insight-and-Analytics-Co-Op-Off-Cycle--March---August-_R-103640",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Spring 2027, Summer 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-09",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "5258e937841e87da42dd2626",
-    "title": "Software Engineer Intern",
-    "organization": "Aptiv",
-    "category": "Internship",
-    "location": "Walnut Creek, CA",
-    "deadline": "",
-    "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Engineering-Intern_J000704388",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-09",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "49ef6cfe20f0431164e012eb",
-    "title": "IT Analyst Co-op",
-    "organization": "Standard Aero",
-    "category": "Internship",
-    "location": "Cincinnati, OH",
-    "deadline": "",
-    "url": "https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10255",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Spring 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-09",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "4308a261f1e802135eb4daaf",
-    "title": "Product Engineering Student Intern - Robotics",
-    "organization": "John Deere",
-    "category": "Internship",
-    "location": "Champaign, IL",
-    "deadline": "",
-    "url": "https://johndeere.eightfold.ai/careers/job/137483758357",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-09",
-    "active_sources": [],
-    "last_seen": "2026-10-13"
-  },
-  {
-    "id": "41a92ea35e5a6dee0c36a892",
-    "title": "Software Engineer Intern",
-    "organization": "Aptiv",
-    "category": "Internship",
-    "location": "Walnut Creek, CA",
-    "deadline": "",
-    "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Engineering-Intern_J000704387",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-09",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "2714fd70431ca2bdd2ac83fb",
-    "title": "Compiler Intern - Compiler Team",
-    "organization": "Aptiv",
-    "category": "Internship",
-    "location": "Walnut Creek, CA",
-    "deadline": "",
-    "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Intern---Compiler-Team_J000704385",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-09",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "12c06a547018f9c147457a1c",
-    "title": "R&D Systems Hardware Engineering Co-op",
-    "organization": "Werfen",
-    "category": "Internship",
-    "location": "Bedford, MA",
-    "deadline": "",
-    "url": "https://careers-werfen.icims.com/jobs/11153/job?mobile=true&needsRedirect=false",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-09",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-16"
-  },
-  {
-    "id": "041a7c30421abc9ebf0c4c35",
-    "title": "Quantitative Developer Intern",
-    "organization": "Schonfeld",
-    "category": "Internship",
-    "location": "Austin, TX",
-    "deadline": "",
-    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8267092",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's, Master's, PhD; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-09",
-    "first_seen": "2026-10-09",
-    "active_sources": [],
-    "last_seen": "2026-10-12"
+    "last_seen": "2026-10-17"
   }
 ]
