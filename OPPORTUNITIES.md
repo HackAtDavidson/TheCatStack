@@ -2,7 +2,7 @@
 
 > A living catalog of opportunities for Hack@Davidson members. Automatic internship listings are limited to undergraduate roles posted within the configured freshness window; community-submitted records remain visible for human review and future cycles.
 
-_Last refreshed: 2026-10-18 by the opportunity collector._
+_Last refreshed: 2026-10-19 by the opportunity collector._
 
 ## Contents
 
@@ -16,6 +16,25 @@ Status is based on the recorded deadline. Verify eligibility, work authorization
 
 Status | Organization | Opportunity | Location | Application | Deadline | Date posted
 --- | --- | --- | --- | --- | --- | ---
+✅ [OPEN] | Autodesk | Software Engineer Intern | Cambridge, UK | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Cambridge-GBR/Intern--Software-Engineer_26WD101105) | Rolling / check site | 2026-10-19
+✅ [OPEN] | Autodesk | Software Engineer Intern | Birmingham, UK | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Birmingham-GBR/Intern--Software-Engineer_26WD101472) | Rolling / check site | 2026-10-19
+✅ [OPEN] | Autodesk | Software Engineer Intern | Birmingham, UK | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Birmingham-GBR/Intern--Software-Engineer_26WD101472-1) | Rolling / check site | 2026-10-19
+✅ [OPEN] | BorgWarner | EPMO Support Intern | Auburn Hills, MI | [Apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/EPM-Support-Intern--Year-Round-_R2026-4129) | Rolling / check site | 2026-10-19
+✅ [OPEN] | Bosch Home Comfort | Data Analyst & Marketing/Sales Intern | Denham, UK | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000156251739) | Rolling / check site | 2026-10-19
+✅ [OPEN] | FanDuel | Product Co-op | Toronto, ON, Canada | [Apply](https://boards.greenhouse.io/embed/job_app?token=8285180) | Rolling / check site | 2026-10-19
+✅ [OPEN] | GM financial | Portfolio Analytics Intern | Fort Worth, TX | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260773) | Rolling / check site | 2026-10-19
+✅ [OPEN] | Graviton | Quantitative Researcher Intern | London, UK; Amsterdam, Netherlands; NYC; Singapore | [Apply](https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002) | Rolling / check site | 2026-10-19
+✅ [OPEN] | HeyGen | Software Engineer Intern | Toronto, ON, Canada; SF; LA; Singapore | [Apply](https://job-boards.greenhouse.io/heygen/jobs/4540716007) | Rolling / check site | 2026-10-19
+✅ [OPEN] | Johns Hopkins Applied Physics Laboratory | Electrical and Computer Engineer Intern | Laurel, MD | [Apply](https://careers.jhuapl.edu/jobs/60390?icims=1) | Rolling / check site | 2026-10-19
+✅ [OPEN] | Johnson & Johnson | Quality Data Science Co-op | Cincinnati, OH | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629) | Rolling / check site | 2026-10-19
+✅ [OPEN] | Leidos | Electrical Hardware Design Engineer Intern | Huntsville, AL | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Hardware-Design-Engineering-Intern_R-00194798) | Rolling / check site | 2026-10-19
+✅ [OPEN] | Leonardo | Software Engineer Intern | Luton, UK | [Apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Industrial-Placement-Software-Engineer_R0032981) | Rolling / check site | 2026-10-19
+✅ [OPEN] | Robert Bosch Venture Capital | Software Engineering Co-op | Fountain Inn, SC | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000156311682) | Rolling / check site | 2026-10-19
+✅ [OPEN] | RTX | Software Engineer Intern | Cedar Rapids, IA | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineering-Intern--Summer-2027-_01880499) | Rolling / check site | 2026-10-19
+✅ [OPEN] | Wise | Analytics Intern | London, UK | [Apply](https://jobs.smartrecruiters.com/Wise/744000156269320) | Rolling / check site | 2026-10-19
+✅ [OPEN] | Wise | Data Science Intern | London, UK | [Apply](https://jobs.smartrecruiters.com/Wise/744000156265544) | Rolling / check site | 2026-10-19
+✅ [OPEN] | ZS | Decision Analytics Associate Intern | London, UK | [Apply](https://jobs.zs.com/jobs/68243?icims=1) | Rolling / check site | 2026-10-19
+✅ [OPEN] | CMS Energy | Learning & Development Intern/Co-op - Data Visualization | Michigan | [Apply](https://careers.consumersenergy.com/job/MULTIPLE-LOCATIONS-InternCo-Op-Learning-&-Development-(Data-Visualization)-MI/1441130200/?ats=successfactors) | Rolling / check site | 2026-10-18
 ✅ [OPEN] | Leonardo | Electronics Engineer Intern | Bristol, UK | [Apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Bristol---Coldharbour-Lane/Industrial-Placement-Electronics_R0034212) | Rolling / check site | 2026-10-18
 ✅ [OPEN] | Leonardo | Electronics Engineer Intern | Southampton, UK | [Apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Southampton/Industrial-Placement-Electronics_R0034216) | Rolling / check site | 2026-10-18
 ✅ [OPEN] | Leonardo | Electronics Engineer Intern | Basildon, UK | [Apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Industrial-Placement-Electronics_R0034210) | Rolling / check site | 2026-10-18
@@ -30,10 +49,14 @@ Status | Organization | Opportunity | Location | Application | Deadline | Date p
 ✅ [OPEN] | Leonardo | Test Software Engineer Intern | Edinburgh, UK | [Apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Industrial-Placement-Test-Software-Engineer_R0034205) | Rolling / check site | 2026-10-18
 ✅ [OPEN] | Leonardo | Test Systems Engineer Intern | Edinburgh, UK | [Apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Summer-Placement-Test-Systems-Engineer_R0034211) | Rolling / check site | 2026-10-18
 ✅ [OPEN] | Leonardo | Test Systems Engineer Intern | Edinburgh, UK | [Apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Industrial-Placement-Test-Systems-Engineer_R0034207) | Rolling / check site | 2026-10-18
+✅ [OPEN] | Northrop Grumman | Electrical Engineer 1 Intern | Chandler, AZ | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME--Skillbridge----Electrical-Engineer-1_R10256539) | Rolling / check site | 2026-10-18
+✅ [OPEN] | Northrop Grumman | Software Engineering Intern | Boulder, CO | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10256077) | Rolling / check site | 2026-10-18
 ✅ [OPEN] | Tesla | Advanced Automation Engineer Intern - Cell Engineering - Winter/Spring 2027 | Fremont, CA | [Apply](https://www.tesla.com/careers/search/job/286986) | Rolling / check site | 2026-10-18
 ✅ [OPEN] | Tesla | Firmware Intern - SoC Firmware Engineer - SI Hardware Infrastructure | Austin, TX | [Apply](https://www.tesla.com/careers/search/job/287024) | Rolling / check site | 2026-10-18
 ✅ [OPEN] | AeroVironment | Software Engineering Intern | Moorpark, CA | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Moorpark-CA/Software-Engineering-Intern_9094) | Rolling / check site | 2026-10-17
 ✅ [OPEN] | Ascension | Managed Care Analytics Intern | St. Louis, MO | [Apply](https://jobs.ascension.org/us/en/job/15636) | Rolling / check site | 2026-10-17
+✅ [OPEN] | Clera | Computer Vision & Robotics Intern | San Francisco, CA | [Apply](https://jobs.ashbyhq.com/clera/697c2212-e39d-4e6e-92c2-12e6603a61d0/application) | Rolling / check site | 2026-10-17
+✅ [OPEN] | Eulerity | AI Intern, Office of CEO & Head of Product | New York, NY | [Apply](https://job-boards.greenhouse.io/eulerity/jobs/4722871006) | Rolling / check site | 2026-10-17
 ✅ [OPEN] | HCSC | Finance Application Developer Intern | Chicago, IL; Richardson, TX | [Apply](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Finance-Application-Developer-Intern_R0059477) | Rolling / check site | 2026-10-17
 ✅ [OPEN] | HCSC | Finance Data & Analytics Developer Intern | Chicago, IL; Richardson, TX | [Apply](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Finance-Data---Analytics-Developer-Intern_R0059478) | Rolling / check site | 2026-10-17
 ✅ [OPEN] | onsemi | Applications Intern | Scottsdale, AZ | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506972) | Rolling / check site | 2026-10-17
@@ -44,9 +67,11 @@ Status | Organization | Opportunity | Location | Application | Deadline | Date p
 ✅ [OPEN] | Together AI | Research Intern, Frontier Speculative Decoding | San Francisco, CA | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5267198007) | Rolling / check site | 2026-10-17
 ✅ [OPEN] | Together AI | Research Intern, Frontier Speculative Decoding | San Francisco, CA | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5267197007) | Rolling / check site | 2026-10-17
 ✅ [OPEN] | AbbVie | Associate Engineer Intern, Technical Development Program | Worcester, MA | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016186871) | Rolling / check site | 2026-10-16
+✅ [OPEN] | Abridge | Member of Technical Staff Intern | SF | [Apply](https://jobs.ashbyhq.com/abridge/aab11857-7ed3-4fc5-aab3-35256601117e/application?embed=true) | Rolling / check site | 2026-10-16
 ✅ [OPEN] | ADT | Hardware Engineering & Connected Devices Intern | Boca Raton, FL | [Apply](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022475) | Rolling / check site | 2026-10-16
 ✅ [OPEN] | AeroVironment | Software Engineer Intern | Moorpark, CA | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Software-Engineering-Intern_9094) | Rolling / check site | 2026-10-16
 ✅ [OPEN] | AGCO | Embedded Software Engineer Intern | Hesston, KS; Jackson, MN | [Apply](https://careers.agcocorp.com/job/Hesston-Embedded-Software-Engineering-Intern-Summer-2027-KS-67062/1440993300/?ats=successfactors) | Rolling / check site | 2026-10-16
+✅ [OPEN] | AgZen | Software Engineer Co-op | Somerville, MA | [Apply](https://jobs.ashbyhq.com/agzen/4cff4edd-3e9a-4ea1-8138-80c7241a2d3a/application?embed=true) | Rolling / check site | 2026-10-16
 ✅ [OPEN] | Airbus | Tool Technology and Development Engineering Intern | Mobile Area, AL | [Apply](https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Mobile-Area-AL/Short-term-Internship---Tool-Technology-and-Development-Engineering_JR10451236) | Rolling / check site | 2026-10-16
 ✅ [OPEN] | Altera | Software Engineer Intern | Toronto, ON | [Apply](https://altera.wd1.myworkdayjobs.com/en-US/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03320) | Rolling / check site | 2026-10-16
 ✅ [OPEN] | Altera | Software Engineer Intern | Toronto, ON, Canada | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03320) | Rolling / check site | 2026-10-16
@@ -56,15 +81,19 @@ Status | Organization | Opportunity | Location | Application | Deadline | Date p
 ✅ [OPEN] | Apple | SoC Machine Learning Software Engineer Intern | Sunnyvale, CA | [Apply](https://jobs.apple.com/en-us/details/200689488) | Rolling / check site | 2026-10-16
 ✅ [OPEN] | Apple | Software Engineer Intern - Apple Services Engineering | London, UK | [Apply](https://jobs.apple.com/en-us/details/200689473) | Rolling / check site | 2026-10-16
 ✅ [OPEN] | Assort Health | Software Engineer Intern | SF | [Apply](https://jobs.ashbyhq.com/assorthealth/3d8a2c74-8d0c-40be-9624-afc3678654ee/application?embed=true) | Rolling / check site | 2026-10-16
+✅ [OPEN] | BC Pensions | Application Developer Co-op | Victoria, BC, Canada | [Apply](https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/227) | Rolling / check site | 2026-10-16
+✅ [OPEN] | Behaviour Interactive | Product Management Intern, 7 Days to Die | Montreal, QC, Canada | [Apply](https://jobs.lever.co/bhvr/540b00d3-8693-4c2b-9e98-10e33cb0ce62/apply) | Rolling / check site | 2026-10-16
 ✅ [OPEN] | Booz Allen | Software Engineer Intern | Fayetteville, NC | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/University--Software-Engineer-Intern_R0251802) | Rolling / check site | 2026-10-16
 ✅ [OPEN] | Booz Allen Hamilton | Software Engineer Intern | Fayetteville, NC | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/University--Software-Engineer-Intern_R0251802) | Rolling / check site | 2026-10-16
 ✅ [OPEN] | Boston Scientific | AI/Data Science Intern | Maple Grove, MN | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813519129) | Rolling / check site | 2026-10-16
 ✅ [OPEN] | Boston Scientific | Electrical Hardware Engineer Intern | Arden Hills, MN | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813563527) | Rolling / check site | 2026-10-16
 ✅ [OPEN] | Boston Scientific | Marketing Analytics Intern | Maple Grove, MN | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813777926) | Rolling / check site | 2026-10-16
+✅ [OPEN] | CenturyLink | Data Intern, Analytics & Decision Science | Remote in USA | [Apply](https://internaljobs.centurylink.com/job/Remote-Data,-Analytics-&-Decision-Science-Summer-2027-Internship-Pathway/1440961600/?ats=successfactors) | Rolling / check site | 2026-10-16
 ✅ [OPEN] | ChargePoint | IT & Network Intern | Campbell, CA | [Apply](https://www.chargepoint.com/about/opportunities/job/?gh_jid=8893571002) | Rolling / check site | 2026-10-16
-✅ [OPEN] | D2L | Software Developer Co-op - Custom Development Services | Kitchener, ON, Canada | [Apply](https://www.d2l.com/careers/jobs/?job_id=8289767&gh_jid=8289767) | Rolling / check site | 2026-10-16
+✅ [OPEN] | D2L | Software Developer Co-op, Custom Development Services | Kitchener, ON, Canada | [Apply](https://www.d2l.com/careers/jobs/?job_id=8289767&gh_jid=8289767) | Rolling / check site | 2026-10-16
 ✅ [OPEN] | Daimler Truck | Applied Data & Technology Intern | Portland, OR | [Apply](https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Applied-Data---Technology-Intern_DT-20262-1) | Rolling / check site | 2026-10-16
 ✅ [OPEN] | DoorDash | Electrical Engineer Intern - Labs | Oakland, CA | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8274095) | Rolling / check site | 2026-10-16
+✅ [OPEN] | Eaton | C++ Developer Intern, Research & Development Engineering | Brossard, QC, Canada | [Apply](https://eaton.eightfold.ai/careers/job/687239542740) | Rolling / check site | 2026-10-16
 ✅ [OPEN] | Electronic Arts | Analytics Intern | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Analytics-Intern/216232) | Rolling / check site | 2026-10-16
 ✅ [OPEN] | Electronic Arts | Client AI Software Engineer Intern | Manchester, UK | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Client-AI-Software-Engineer-Intern/216364) | Rolling / check site | 2026-10-16
 ✅ [OPEN] | Electronic Arts | Software Engineer Intern - Gameplay UI | Birmingham, UK | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Gameplay-UI/216190) | Rolling / check site | 2026-10-16
@@ -78,6 +107,8 @@ Status | Organization | Opportunity | Location | Application | Deadline | Date p
 ✅ [OPEN] | Gilead Sciences | Research Intern, Strategy, Innovation & Portfolio - AI | Foster City, CA | [Apply](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Strategy--Innovation---Portfolio_R0054502) | Rolling / check site | 2026-10-16
 ✅ [OPEN] | GlobalFoundries | Foundation IP Design Verification Intern | Santa Clara, CA | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Foundation-IP-Design-Verification-Intern--Summer-2027-_JR-2604356) | Rolling / check site | 2026-10-16
 ✅ [OPEN] | GlobalFoundries | Research Account Management & Field Application Engineering Support Intern | Essex Junction, VT | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/GF-Labs-Research-AM-and-FAE-support-Intern--Summer-2027--_JR-2604431) | Rolling / check site | 2026-10-16
+✅ [OPEN] | Healthpeak Properties | Forward Deployed Software Engineer Intern | NYC | [Apply](https://healthpeak.applytojob.com/apply/ss4v1Qi95q/Forward-Deployed-Software-Engineer-Internship) | Rolling / check site | 2026-10-16
+✅ [OPEN] | Healthpeak Properties | Forward Deployed Software Engineer Intern | Irvine, CA | [Apply](https://healthpeak.applytojob.com/apply/RTf9TfJE4h/Forward-Deployed-Software-Engineer-Internship) | Rolling / check site | 2026-10-16
 ✅ [OPEN] | Hilb Group | Benefits Analytics Intern | Hunt Valley, Cockeysville, MD | [Apply](https://hilbgroup.wd5.myworkdayjobs.com/HG-Careers/job/Hunt-Valley-MD/Benefits-Analytics-Intern_JR100866) | Rolling / check site | 2026-10-16
 ✅ [OPEN] | ICF International | Cloud Engineer Intern, AWS/Azure | Reston, VA | [Apply](https://icf.wd5.myworkdayjobs.com/en-US/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Cloud-Engineer--AWS-Azure---Reston--VA-_R2603554) | Rolling / check site | 2026-10-16
 ✅ [OPEN] | Impulse Space | Enterprise Software Engineer Intern | Redondo Beach, CA | [Apply](https://impulsespace.pinpointhq.com/en/postings/66981a77-8e79-4050-9818-4ed4209c5579?ats=pinpointhq) | Rolling / check site | 2026-10-16
@@ -87,10 +118,12 @@ Status | Organization | Opportunity | Location | Application | Deadline | Date p
 ✅ [OPEN] | J.M. Smucker | Finance Technology Intern | Orrville, OH | [Apply](https://smucker.wd5.myworkdayjobs.com/en-US/US_External_Careers/job/Orrville-OH/Finance-Technology-Intern--Spring-2027_116016) | Rolling / check site | 2026-10-16
 ✅ [OPEN] | J.M. Smucker | Finance Technology Intern | Orrville, OH | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Finance-Technology-Intern--Spring-2027_116016) | Rolling / check site | 2026-10-16
 ✅ [OPEN] | John Deere | Process Automation Student Intern - Process Automation - Data and Analytics | Greeneville, TN | [Apply](https://johndeere.eightfold.ai/careers/job/137483907415) | Rolling / check site | 2026-10-16
+✅ [OPEN] | John Deere | Software Engineering Intern, Technology | Ames, IA | [Apply](https://johndeere.eightfold.ai/careers/job/137483908089) | Rolling / check site | 2026-10-16
 ✅ [OPEN] | Kensington | Software Engineering Intern | Toronto, ON | [Apply](https://jobs.lever.co/kepler/5514238a-8301-49f1-8116-26d38ea0900c) | Rolling / check site | 2026-10-16
 ✅ [OPEN] | Kepler Communications | Software Engineer Intern | Toronto, ON, Canada | [Apply](https://jobs.lever.co/kepler/5514238a-8301-49f1-8116-26d38ea0900c/apply) | Rolling / check site | 2026-10-16
 ✅ [OPEN] | Keysight Technologies | R&D Software Engineer Intern | Austin, TX | [Apply](https://jobs.keysight.com/jobs/54848?icims=1) | Rolling / check site | 2026-10-16
 ✅ [OPEN] | Keysight Technologies | R&D Software Engineer Intern | Santa Rosa, CA | [Apply](https://jobs.keysight.com/jobs/54673?icims=1) | Rolling / check site | 2026-10-16
+✅ [OPEN] | KPMG | AI Builder Co-op | Toronto, ON, Canada | [Apply](https://careers.kpmg.ca/jobs/34407?icims=1) | Rolling / check site | 2026-10-16
 ✅ [OPEN] | Leonardo | Software Engineer Intern | Basildon, UK | [Apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Industrial-Placement-Software-Engineer_R0034283) | Rolling / check site | 2026-10-16
 ✅ [OPEN] | Linea Energy | GIS Intern | Austin, TX | [Apply](https://ats.rippling.com/linea-energy/jobs/1247c5f0-eedf-4f15-9f81-065445d89d01) | Rolling / check site | 2026-10-16
 ✅ [OPEN] | LLNL | Critical Infrastructure Analysis Intern, Cyber and Critical Infrastructure Summer Institute | Livermore, CA | [Apply](https://jobs.smartrecruiters.com/llnl/3743990016165496) | Rolling / check site | 2026-10-16
@@ -245,6 +278,7 @@ Status | Organization | Opportunity | Location | Application | Deadline | Date p
 ✅ [OPEN] | Brain Co. | Machine Learning Engineer, Applied AI Co-op | San Francisco, CA | [Apply](https://jobs.ashbyhq.com/brainco/b6adda4c-490c-4e9e-8354-e55c05d3c6ac/application) | Rolling / check site | 2026-10-14
 ✅ [OPEN] | Brookfield | Analytics Modelling Intern | NYC | [Apply](https://brookfield.wd5.myworkdayjobs.com/brookfield/job/New-York-New-York/Intern--Analytics-Modelling---Brookfield-Wealth-Solutions_R2053354) | Rolling / check site | 2026-10-14
 ✅ [OPEN] | CACI | Software Engineer Intern | Florham Park, NJ | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Software-Engineering-Intern---Summer-2027_332543) | Rolling / check site | 2026-10-14
+✅ [OPEN] | CACI | Software Engineering Intern | Florham Park, NJ | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Florham-Park-NJ-US/Software-Engineering-Intern---Summer-2027_332543) | Rolling / check site | 2026-10-14
 ✅ [OPEN] | Cboe | Data Pipeline Engineer Intern | Kansas City, MO | [Apply](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Kansas-City-MO/Data-Pipeline-Engineer-Intern_R-4738) | Rolling / check site | 2026-10-14
 ✅ [OPEN] | Cboe Global Markets | Data Pipeline Engineer Intern | Kansas City, MO | [Apply](https://cboe.wd1.myworkdayjobs.com/en-US/external_career_cboe/job/Kansas-City-MO/Data-Pipeline-Engineer-Intern_R-4738) | Rolling / check site | 2026-10-14
 ✅ [OPEN] | Certara | Junior Software Developer Intern | Sheffield, UK | [Apply](https://careers.certara.com/jobs/2627?icims=1) | Rolling / check site | 2026-10-14
@@ -333,6 +367,7 @@ Status | Organization | Opportunity | Location | Application | Deadline | Date p
 ✅ [OPEN] | RTX | Systems Engineer Intern | Marlborough, MA | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Systems-Engineering-Intern_01882697) | Rolling / check site | 2026-10-14
 ✅ [OPEN] | Sierra Nevada Corporation | Software Engineer Intern | Sparks, NV | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Software-Engineer-Intern--For-SNC-Summer-2026-Intern-Only-_R0031074) | Rolling / check site | 2026-10-14
 ✅ [OPEN] | Skydio | Manufacturing Software Engineer Intern | San Mateo, CA | [Apply](https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb/application) | Rolling / check site | 2026-10-14
+✅ [OPEN] | Skydio | Software Engineer Intern | San Mateo, CA | [Apply](https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c/application) | Rolling / check site | 2026-10-14
 ✅ [OPEN] | Snap | Generative Media Research Intern | Los Angeles, CA | [Apply](https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/XMLNAME-2027-Generative-Media-Researc_R0047179) | Rolling / check site | 2026-10-14
 ✅ [OPEN] | Snap | Generative Media Research Intern | LA | [Apply](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/XMLNAME-2027-Generative-Media-Researc_R0047179) | Rolling / check site | 2026-10-14
 ✅ [OPEN] | Sony Pictures Entertainment | Current Programming Intern, Sony Pictures Television | Culver City, CA | [Apply](https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/Culver-City-California/Current-Programming-Intern--Sony-Pictures-Television---Spring-2027_JR114863-1) | Rolling / check site | 2026-10-14
@@ -477,6 +512,7 @@ Status | Organization | Opportunity | Location | Application | Deadline | Date p
 ✅ [OPEN] | Corewell Health | Digital Services Integrated Data and Analytics Intern | Grand Rapids, MI | [Apply](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Digital-Services-Integrated-Data-and-Analytics-Internship-Summer-2027_R228909) | Rolling / check site | 2026-10-12
 ✅ [OPEN] | Crown Innovations | Intern | Mountain View, CA | [Apply](https://jobs.smartrecruiters.com/TBD20261012CrownInnovationsInc/744000144112445) | Rolling / check site | 2026-10-12
 ✅ [OPEN] | Databricks | Software Engineer Intern | SF; Bellevue, WA; Mountain View, CA; Vancouver, BC, Canada | [Apply](https://boards.greenhouse.io/embed/job_app?token=6865687002) | Rolling / check site | 2026-10-12
+✅ [OPEN] | Databricks | Software Engineering Intern | Bellevue, WA; Mountain View, CA; San Francisco, CA; Vancouver, BC | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002) | Rolling / check site | 2026-10-12
 ✅ [OPEN] | DV Trading | Data Center Engineer Intern | Chicago, IL | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4742962005) | Rolling / check site | 2026-10-12
 ✅ [OPEN] | Expedia Group | Mobile Engineer Intern | Seattle, WA; Austin, TX; San Jose, CA | [Apply](https://expedia.wd108.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Mobile-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110306-1) | Rolling / check site | 2026-10-12
 ✅ [OPEN] | Expedia Group | Software Development Engineer Intern | Seattle, WA; Austin, TX; San Jose, CA | [Apply](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110311-1) | Rolling / check site | 2026-10-12
@@ -545,6 +581,5 @@ Status | Organization | Opportunity | Location | Application | Deadline | Date p
 ✅ [OPEN] | Watts Water | Product Management Co-op | Menomonee Falls, WI | [Apply](https://wattswater.wd5.myworkdayjobs.com/en-US/Intern-External/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702) | Rolling / check site | 2026-10-12
 ✅ [OPEN] | Watts Water | Product Management Co-op | Menomonee Falls, WI | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702) | Rolling / check site | 2026-10-12
 ✅ [OPEN] | Western Digital | Recording Electronics Data Analytics & Optimization Co-op | Rochester, MN | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000155109379) | Rolling / check site | 2026-10-12
-✅ [OPEN] | C&S Wholesale Grocers | IS Intern - Data Analytics & Data Science | Edison, NJ | [Apply](https://cswg.wd1.myworkdayjobs.com/cs_careers/job/Edison-NJ/IS-Internship---Data-Analytics---Data-Science_R-268963) | Rolling / check site | 2026-10-11
 
 ---

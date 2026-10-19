@@ -1,5 +1,617 @@
 [
   {
+    "id": "e1ccf76f53da1e4c54836c20",
+    "title": "EPMO Support Intern",
+    "organization": "BorgWarner",
+    "category": "Internship",
+    "location": "Auburn Hills, MI",
+    "deadline": "",
+    "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/EPM-Support-Intern--Year-Round-_R2026-4129",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-19",
+    "first_seen": "2026-10-19",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-19"
+  },
+  {
+    "id": "d4cad66f8ea3b41c6b6353ee",
+    "title": "Software Engineering Co-op",
+    "organization": "Robert Bosch Venture Capital",
+    "category": "Internship",
+    "location": "Fountain Inn, SC",
+    "deadline": "",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156311682",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-19",
+    "first_seen": "2026-10-19",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-19"
+  },
+  {
+    "id": "d34070eef819297aca0cddb6",
+    "title": "Product Management Intern, 7 Days to Die",
+    "organization": "Behaviour Interactive",
+    "category": "Internship",
+    "location": "Montreal, QC, Canada",
+    "deadline": "",
+    "url": "https://jobs.lever.co/bhvr/540b00d3-8693-4c2b-9e98-10e33cb0ce62/apply",
+    "source_url": "https://github.com/vanshb03/Summer2027-Internships",
+    "eligibility": "Undergraduate internship feed; verify eligibility on the application page; Sponsorship: Not confirmed; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-19",
+    "active_sources": [
+      "Vansh & Ouckah Summer 2027 internships"
+    ],
+    "last_seen": "2026-10-19"
+  },
+  {
+    "id": "d270b8c21f60dd1cc9eab566",
+    "title": "Software Engineer Intern",
+    "organization": "Leonardo",
+    "category": "Internship",
+    "location": "Luton, UK",
+    "deadline": "",
+    "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Industrial-Placement-Software-Engineer_R0032981",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-19",
+    "first_seen": "2026-10-19",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-19"
+  },
+  {
+    "id": "c9649c7c22dd5b131b64ec60",
+    "title": "Product Co-op",
+    "organization": "FanDuel",
+    "category": "Internship",
+    "location": "Toronto, ON, Canada",
+    "deadline": "",
+    "url": "https://boards.greenhouse.io/embed/job_app?token=8285180",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Spring 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-19",
+    "first_seen": "2026-10-19",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-19"
+  },
+  {
+    "id": "c4f8de9cd8a2185b386a66e2",
+    "title": "Quality Data Science Co-op",
+    "organization": "Johnson & Johnson",
+    "category": "Internship",
+    "location": "Cincinnati, OH",
+    "deadline": "",
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-19",
+    "first_seen": "2026-10-19",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-19"
+  },
+  {
+    "id": "c0f151a1fcd8854595e972be",
+    "title": "Forward Deployed Software Engineer Intern",
+    "organization": "Healthpeak Properties",
+    "category": "Internship",
+    "location": "NYC",
+    "deadline": "",
+    "url": "https://healthpeak.applytojob.com/apply/ss4v1Qi95q/Forward-Deployed-Software-Engineer-Internship",
+    "source_url": "https://github.com/vanshb03/Summer2027-Internships",
+    "eligibility": "Undergraduate internship feed; verify eligibility on the application page; Sponsorship: Not confirmed; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-19",
+    "active_sources": [
+      "Vansh & Ouckah Summer 2027 internships"
+    ],
+    "last_seen": "2026-10-19"
+  },
+  {
+    "id": "ba3005441ae675e604329583",
+    "title": "Computer Vision & Robotics Intern",
+    "organization": "Clera",
+    "category": "Internship",
+    "location": "San Francisco, CA",
+    "deadline": "",
+    "url": "https://jobs.ashbyhq.com/clera/697c2212-e39d-4e6e-92c2-12e6603a61d0/application",
+    "source_url": "https://github.com/vanshb03/Summer2027-Internships",
+    "eligibility": "Undergraduate internship feed; verify eligibility on the application page; Sponsorship: Not confirmed; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-17",
+    "first_seen": "2026-10-19",
+    "active_sources": [
+      "Vansh & Ouckah Summer 2027 internships"
+    ],
+    "last_seen": "2026-10-19"
+  },
+  {
+    "id": "b9154cbaf60c7b815f735a87",
+    "title": "Software Engineer Intern",
+    "organization": "HeyGen",
+    "category": "Internship",
+    "location": "Toronto, ON, Canada; SF; LA; Singapore",
+    "deadline": "",
+    "url": "https://job-boards.greenhouse.io/heygen/jobs/4540716007",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Winter 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-19",
+    "first_seen": "2026-10-19",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-19"
+  },
+  {
+    "id": "b904c47ceb46abe5bc268884",
+    "title": "Electrical and Computer Engineer Intern",
+    "organization": "Johns Hopkins Applied Physics Laboratory",
+    "category": "Internship",
+    "location": "Laurel, MD",
+    "deadline": "",
+    "url": "https://careers.jhuapl.edu/jobs/60390?icims=1",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-19",
+    "first_seen": "2026-10-19",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-19"
+  },
+  {
+    "id": "ae9963105cb39494cf05bd8e",
+    "title": "Software Engineer Intern",
+    "organization": "RTX",
+    "category": "Internship",
+    "location": "Cedar Rapids, IA",
+    "deadline": "",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineering-Intern--Summer-2027-_01880499",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-19",
+    "first_seen": "2026-10-19",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-19"
+  },
+  {
+    "id": "aa76bc1a74c6e06c6d0aa764",
+    "title": "AI Builder Co-op",
+    "organization": "KPMG",
+    "category": "Internship",
+    "location": "Toronto, ON, Canada",
+    "deadline": "",
+    "url": "https://careers.kpmg.ca/jobs/34407?icims=1",
+    "source_url": "https://github.com/vanshb03/Summer2027-Internships",
+    "eligibility": "Undergraduate internship feed; verify eligibility on the application page; Sponsorship: Not confirmed; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-19",
+    "active_sources": [
+      "Vansh & Ouckah Summer 2027 internships"
+    ],
+    "last_seen": "2026-10-19"
+  },
+  {
+    "id": "a5580744ed755dd7f4e24784",
+    "title": "Member of Technical Staff Intern",
+    "organization": "Abridge",
+    "category": "Internship",
+    "location": "SF",
+    "deadline": "",
+    "url": "https://jobs.ashbyhq.com/abridge/aab11857-7ed3-4fc5-aab3-35256601117e/application?embed=true",
+    "source_url": "https://github.com/vanshb03/Summer2027-Internships",
+    "eligibility": "Undergraduate internship feed; verify eligibility on the application page; Sponsorship: Not confirmed; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-19",
+    "active_sources": [
+      "Vansh & Ouckah Summer 2027 internships"
+    ],
+    "last_seen": "2026-10-19"
+  },
+  {
+    "id": "a03034ea43d5ee57d72cfd38",
+    "title": "Electrical Engineer 1 Intern",
+    "organization": "Northrop Grumman",
+    "category": "Internship",
+    "location": "Chandler, AZ",
+    "deadline": "",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME--Skillbridge----Electrical-Engineer-1_R10256539",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Incomplete; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-18",
+    "first_seen": "2026-10-19",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-19"
+  },
+  {
+    "id": "979cc993f55f84b9c270677d",
+    "title": "Data Intern, Analytics & Decision Science",
+    "organization": "CenturyLink",
+    "category": "Internship",
+    "location": "Remote in USA",
+    "deadline": "",
+    "url": "https://internaljobs.centurylink.com/job/Remote-Data,-Analytics-&-Decision-Science-Summer-2027-Internship-Pathway/1440961600/?ats=successfactors",
+    "source_url": "https://github.com/vanshb03/Summer2027-Internships",
+    "eligibility": "Undergraduate internship feed; verify eligibility on the application page; Sponsorship: Not confirmed; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-19",
+    "active_sources": [
+      "Vansh & Ouckah Summer 2027 internships"
+    ],
+    "last_seen": "2026-10-19"
+  },
+  {
+    "id": "8e1b19b85a742549aef15c24",
+    "title": "Software Engineer Intern",
+    "organization": "Autodesk",
+    "category": "Internship",
+    "location": "Cambridge, UK",
+    "deadline": "",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Cambridge-GBR/Intern--Software-Engineer_26WD101105",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-19",
+    "first_seen": "2026-10-19",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-19"
+  },
+  {
+    "id": "869396a65ed5d82fcac7da83",
+    "title": "Software Engineering Intern",
+    "organization": "Databricks",
+    "category": "Internship",
+    "location": "Bellevue, WA; Mountain View, CA; San Francisco, CA; Vancouver, BC",
+    "deadline": "",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002",
+    "source_url": "https://github.com/vanshb03/Summer2027-Internships",
+    "eligibility": "Undergraduate internship feed; verify eligibility on the application page; Sponsorship: Not confirmed; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-12",
+    "first_seen": "2026-10-19",
+    "active_sources": [
+      "Vansh & Ouckah Summer 2027 internships"
+    ],
+    "last_seen": "2026-10-19"
+  },
+  {
+    "id": "8478455c52e18ef1ff07c908",
+    "title": "Software Engineering Intern, Technology",
+    "organization": "John Deere",
+    "category": "Internship",
+    "location": "Ames, IA",
+    "deadline": "",
+    "url": "https://johndeere.eightfold.ai/careers/job/137483908089",
+    "source_url": "https://github.com/vanshb03/Summer2027-Internships",
+    "eligibility": "Undergraduate internship feed; verify eligibility on the application page; Sponsorship: Not confirmed; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-19",
+    "active_sources": [
+      "Vansh & Ouckah Summer 2027 internships"
+    ],
+    "last_seen": "2026-10-19"
+  },
+  {
+    "id": "835144552bf6eb6cdfae3e56",
+    "title": "Data Science Intern",
+    "organization": "Wise",
+    "category": "Internship",
+    "location": "London, UK",
+    "deadline": "",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000156265544",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-19",
+    "first_seen": "2026-10-19",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-19"
+  },
+  {
+    "id": "82a095554d59cab9da4efa9a",
+    "title": "Decision Analytics Associate Intern",
+    "organization": "ZS",
+    "category": "Internship",
+    "location": "London, UK",
+    "deadline": "",
+    "url": "https://jobs.zs.com/jobs/68243?icims=1",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-19",
+    "first_seen": "2026-10-19",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-19"
+  },
+  {
+    "id": "6ab40d8cce0f0bd42d91ddf2",
+    "title": "Software Engineer Intern",
+    "organization": "Autodesk",
+    "category": "Internship",
+    "location": "Birmingham, UK",
+    "deadline": "",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Birmingham-GBR/Intern--Software-Engineer_26WD101472",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-19",
+    "first_seen": "2026-10-19",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-19"
+  },
+  {
+    "id": "692d2b9b44de57898220b6b5",
+    "title": "Software Engineer Intern",
+    "organization": "Autodesk",
+    "category": "Internship",
+    "location": "Birmingham, UK",
+    "deadline": "",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Birmingham-GBR/Intern--Software-Engineer_26WD101472-1",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-19",
+    "first_seen": "2026-10-19",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-19"
+  },
+  {
+    "id": "6563c28f4324caaec1ac6938",
+    "title": "Software Engineer Intern",
+    "organization": "Skydio",
+    "category": "Internship",
+    "location": "San Mateo, CA",
+    "deadline": "",
+    "url": "https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c/application",
+    "source_url": "https://github.com/vanshb03/Summer2027-Internships",
+    "eligibility": "Undergraduate internship feed; verify eligibility on the application page; Sponsorship: Not confirmed; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-14",
+    "first_seen": "2026-10-19",
+    "active_sources": [
+      "Vansh & Ouckah Summer 2027 internships"
+    ],
+    "last_seen": "2026-10-19"
+  },
+  {
+    "id": "6523404966c19f3344b8404a",
+    "title": "Learning & Development Intern/Co-op - Data Visualization",
+    "organization": "CMS Energy",
+    "category": "Internship",
+    "location": "Michigan",
+    "deadline": "",
+    "url": "https://careers.consumersenergy.com/job/MULTIPLE-LOCATIONS-InternCo-Op-Learning-&-Development-(Data-Visualization)-MI/1441130200/?ats=successfactors",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-18",
+    "first_seen": "2026-10-19",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-19"
+  },
+  {
+    "id": "595d9a936604deac876465e5",
+    "title": "Software Engineering Intern",
+    "organization": "CACI",
+    "category": "Internship",
+    "location": "Florham Park, NJ",
+    "deadline": "",
+    "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Florham-Park-NJ-US/Software-Engineering-Intern---Summer-2027_332543",
+    "source_url": "https://github.com/vanshb03/Summer2027-Internships",
+    "eligibility": "Undergraduate internship feed; verify eligibility on the application page; Sponsorship: Not confirmed; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-14",
+    "first_seen": "2026-10-19",
+    "active_sources": [
+      "Vansh & Ouckah Summer 2027 internships"
+    ],
+    "last_seen": "2026-10-19"
+  },
+  {
+    "id": "55eba5602b0f3e6d3dbd2055",
+    "title": "Software Engineer Co-op",
+    "organization": "AgZen",
+    "category": "Internship",
+    "location": "Somerville, MA",
+    "deadline": "",
+    "url": "https://jobs.ashbyhq.com/agzen/4cff4edd-3e9a-4ea1-8138-80c7241a2d3a/application?embed=true",
+    "source_url": "https://github.com/vanshb03/Summer2027-Internships",
+    "eligibility": "Undergraduate internship feed; verify eligibility on the application page; Sponsorship: Not confirmed; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-19",
+    "active_sources": [
+      "Vansh & Ouckah Summer 2027 internships"
+    ],
+    "last_seen": "2026-10-19"
+  },
+  {
+    "id": "4dd74b465a26e0a5c9e225a5",
+    "title": "Application Developer Co-op",
+    "organization": "BC Pensions",
+    "category": "Internship",
+    "location": "Victoria, BC, Canada",
+    "deadline": "",
+    "url": "https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/227",
+    "source_url": "https://github.com/vanshb03/Summer2027-Internships",
+    "eligibility": "Undergraduate internship feed; verify eligibility on the application page; Sponsorship: Not confirmed; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-19",
+    "active_sources": [
+      "Vansh & Ouckah Summer 2027 internships"
+    ],
+    "last_seen": "2026-10-19"
+  },
+  {
+    "id": "46df52485f0482a83fa7d1ee",
+    "title": "Data Analyst & Marketing/Sales Intern",
+    "organization": "Bosch Home Comfort",
+    "category": "Internship",
+    "location": "Denham, UK",
+    "deadline": "",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156251739",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-19",
+    "first_seen": "2026-10-19",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-19"
+  },
+  {
+    "id": "348659d490d03fbb1bd08089",
+    "title": "Quantitative Researcher Intern",
+    "organization": "Graviton",
+    "category": "Internship",
+    "location": "London, UK; Amsterdam, Netherlands; NYC; Singapore",
+    "deadline": "",
+    "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's, PhD; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-19",
+    "first_seen": "2026-10-19",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-19"
+  },
+  {
+    "id": "2a7a88198f90d72d2d7279d5",
+    "title": "Analytics Intern",
+    "organization": "Wise",
+    "category": "Internship",
+    "location": "London, UK",
+    "deadline": "",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000156269320",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-19",
+    "first_seen": "2026-10-19",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-19"
+  },
+  {
+    "id": "27eb14b524502c684d6e7058",
+    "title": "AI Intern, Office of CEO & Head of Product",
+    "organization": "Eulerity",
+    "category": "Internship",
+    "location": "New York, NY",
+    "deadline": "",
+    "url": "https://job-boards.greenhouse.io/eulerity/jobs/4722871006",
+    "source_url": "https://github.com/vanshb03/Summer2027-Internships",
+    "eligibility": "Undergraduate internship feed; verify eligibility on the application page; Sponsorship: Not confirmed; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-17",
+    "first_seen": "2026-10-19",
+    "active_sources": [
+      "Vansh & Ouckah Summer 2027 internships"
+    ],
+    "last_seen": "2026-10-19"
+  },
+  {
+    "id": "1ae44ad19928b570f9c77891",
+    "title": "Software Engineering Intern",
+    "organization": "Northrop Grumman",
+    "category": "Internship",
+    "location": "Boulder, CO",
+    "deadline": "",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10256077",
+    "source_url": "https://github.com/vanshb03/Summer2027-Internships",
+    "eligibility": "Undergraduate internship feed; verify eligibility on the application page; Sponsorship: U.S. Citizenship is Required; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-18",
+    "first_seen": "2026-10-19",
+    "active_sources": [
+      "Vansh & Ouckah Summer 2027 internships"
+    ],
+    "last_seen": "2026-10-19"
+  },
+  {
+    "id": "170fb9bcc47a7d21db983eb5",
+    "title": "C++ Developer Intern, Research & Development Engineering",
+    "organization": "Eaton",
+    "category": "Internship",
+    "location": "Brossard, QC, Canada",
+    "deadline": "",
+    "url": "https://eaton.eightfold.ai/careers/job/687239542740",
+    "source_url": "https://github.com/vanshb03/Summer2027-Internships",
+    "eligibility": "Undergraduate internship feed; verify eligibility on the application page; Sponsorship: Not confirmed; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-19",
+    "active_sources": [
+      "Vansh & Ouckah Summer 2027 internships"
+    ],
+    "last_seen": "2026-10-19"
+  },
+  {
+    "id": "1589fbbb70bc970547373580",
+    "title": "Electrical Hardware Design Engineer Intern",
+    "organization": "Leidos",
+    "category": "Internship",
+    "location": "Huntsville, AL",
+    "deadline": "",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Hardware-Design-Engineering-Intern_R-00194798",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-19",
+    "first_seen": "2026-10-19",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-19"
+  },
+  {
+    "id": "0d02f4311987800de3b1391e",
+    "title": "Portfolio Analytics Intern",
+    "organization": "GM financial",
+    "category": "Internship",
+    "location": "Fort Worth, TX",
+    "deadline": "",
+    "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260773",
+    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+    "eligibility": "Degrees: Bachelor's, Master's, PhD; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-19",
+    "first_seen": "2026-10-19",
+    "active_sources": [
+      "Simplify and Pitt CSC internships"
+    ],
+    "last_seen": "2026-10-19"
+  },
+  {
+    "id": "0178d4e248c968ed5c0aefc4",
+    "title": "Forward Deployed Software Engineer Intern",
+    "organization": "Healthpeak Properties",
+    "category": "Internship",
+    "location": "Irvine, CA",
+    "deadline": "",
+    "url": "https://healthpeak.applytojob.com/apply/RTf9TfJE4h/Forward-Deployed-Software-Engineer-Internship",
+    "source_url": "https://github.com/vanshb03/Summer2027-Internships",
+    "eligibility": "Undergraduate internship feed; verify eligibility on the application page; Sponsorship: Not confirmed; Verify degree, work authorization, and location on application page",
+    "published_date": "2026-10-16",
+    "first_seen": "2026-10-19",
+    "active_sources": [
+      "Vansh & Ouckah Summer 2027 internships"
+    ],
+    "last_seen": "2026-10-19"
+  },
+  {
     "id": "fdb21f05c825d577e7753996",
     "title": "Research Intern, Data Sciences - AI",
     "organization": "Gilead Sciences",
@@ -14,7 +626,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "fb6e85f8988cf9e20aa68865",
@@ -31,7 +643,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "f967fbb55671bc1d5e704bea",
@@ -48,7 +660,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "f8e60a126a1c6684f9dad4eb",
@@ -65,7 +677,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "f61aeaa0ef3f320cbcee49c2",
@@ -82,7 +694,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "f5d1871888cd4b19ff8ad018",
@@ -99,7 +711,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "f556973dbc09c4f04f1725db",
@@ -116,7 +728,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "f4a711b09a04f0daf56f670b",
@@ -133,7 +745,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "f3d030647151b76d018a1328",
@@ -150,7 +762,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "f322335a862472ce1b39a870",
@@ -167,7 +779,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "f23461a222413af4e81b5223",
@@ -184,7 +796,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "f1db1f0af04883d89234d557",
@@ -201,7 +813,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "f13622e4d14646f168fbaa90",
@@ -218,7 +830,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "f047610bc7e0d93d3c848050",
@@ -235,7 +847,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "ee57106e171820d65e0025f1",
@@ -252,7 +864,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "eba21cf790a0f32d37eb6b53",
@@ -269,7 +881,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "e83f1312443124c797ff3e0c",
@@ -286,7 +898,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "e7557873d8f1efa1819179c9",
@@ -303,7 +915,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "e73f34d1f1addecf25d05a95",
@@ -320,7 +932,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "e1e85c6c3613234617825e49",
@@ -337,7 +949,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "e0c19b0c16efaff2d78750dd",
@@ -354,7 +966,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "e06bfd9c2041f4ca5e9b79d4",
@@ -371,7 +983,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "df497d56c18a95442b56aec0",
@@ -388,7 +1000,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "ddfad064b48e2ebddb39284d",
@@ -405,7 +1017,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "d8dc038ddaa1e582b827c2e3",
@@ -422,7 +1034,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "d87e5aee0183b5b1257f4f53",
@@ -439,7 +1051,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "d7b936bf2d84c670c71d0db5",
@@ -456,7 +1068,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "d71e4cc375c14faec1d57ec0",
@@ -473,7 +1085,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "d6e0c0dfcfa2130b8d1dc47d",
@@ -490,7 +1102,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "d646a80e54e981fac6b1503b",
@@ -507,7 +1119,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "d47423122b47410c51c127e9",
@@ -524,7 +1136,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "d04c17bb84a120b4c3786060",
@@ -541,7 +1153,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "caee2bc159ba8a15de42acde",
@@ -558,7 +1170,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "ca847cd87a753eb656f7ed14",
@@ -575,7 +1187,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "c3f203c3f9bb3a6c6c37e196",
@@ -592,7 +1204,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "c2432d62b6ec41533a4a0635",
@@ -609,7 +1221,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "bf9df3407f272fb1c4e40c5b",
@@ -626,7 +1238,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "bd89786254a66920f4579a99",
@@ -641,9 +1253,10 @@
     "published_date": "2026-10-17",
     "first_seen": "2026-10-18",
     "active_sources": [
-      "Simplify and Pitt CSC internships"
+      "Simplify and Pitt CSC internships",
+      "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "bce70fd7013d410f7e84d0f1",
@@ -660,7 +1273,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "bbd7d328edbca7bfb729fd2a",
@@ -677,7 +1290,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "bbd201f4b450f92a64796dfe",
@@ -694,7 +1307,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "ba5184d1957465ce6188066f",
@@ -711,7 +1324,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "b9f233700efbf6db288b063a",
@@ -725,9 +1338,7 @@
     "eligibility": "Undergraduate internship feed; verify eligibility on the application page; Sponsorship: U.S. Citizenship is Required; Verify degree, work authorization, and location on application page",
     "published_date": "2026-10-16",
     "first_seen": "2026-10-18",
-    "active_sources": [
-      "Vansh & Ouckah Summer 2027 internships"
-    ],
+    "active_sources": [],
     "last_seen": "2026-10-18"
   },
   {
@@ -745,7 +1356,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "b7e4aa3972b4613bc7be4d41",
@@ -762,7 +1373,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "b775839dfb0c610ef0ff8547",
@@ -779,7 +1390,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "b4756bb313dd610be00d7a1e",
@@ -796,7 +1407,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "b3bdf52bfa833fb65ac78674",
@@ -813,7 +1424,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "b34d7d2ff45d8247015b23da",
@@ -830,7 +1441,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "b3455bf26b5e278f73d5ef62",
@@ -847,7 +1458,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "b1026abaa41ba324e9be21dd",
@@ -864,7 +1475,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "b06a46987921e48df0963f54",
@@ -881,7 +1492,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "af741e62b7b66f3bad5b9efb",
@@ -898,7 +1509,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "ae24e9d4e811bb0559342827",
@@ -915,7 +1526,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "ad758bf3e57de444c806c31d",
@@ -932,7 +1543,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "a867de458ab92375f34fcb4a",
@@ -949,7 +1560,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "a8532af763811094a9c019ac",
@@ -966,7 +1577,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "a78a289cbc2a7ad89dd97236",
@@ -983,7 +1594,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "a699d1c891240906bf3621c1",
@@ -1000,7 +1611,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "a51a47953810e034f77d0909",
@@ -1017,7 +1628,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "a4c9ae18b0ed79aec1a2c7e6",
@@ -1034,7 +1645,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "a2b68da12f2008c92b7cb807",
@@ -1051,7 +1662,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "a2042c1253488005b0ff2315",
@@ -1068,7 +1679,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "a0172c7a0a93909b29ce608d",
@@ -1085,7 +1696,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "9fe9f633b951b2f5f4120d60",
@@ -1102,7 +1713,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "9fe35844699368657ad40cb8",
@@ -1119,7 +1730,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "9f5fd0b2ef420016d8936da0",
@@ -1134,9 +1745,10 @@
     "published_date": "2026-10-17",
     "first_seen": "2026-10-18",
     "active_sources": [
-      "Simplify and Pitt CSC internships"
+      "Simplify and Pitt CSC internships",
+      "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "9d5237b1e784e101535d65b0",
@@ -1153,7 +1765,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "9c1125e3a11dc54b2c4f3913",
@@ -1170,7 +1782,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "9662eeefb196bc0430cf2811",
@@ -1187,7 +1799,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "954d30c47cda3c323bfd2c7a",
@@ -1204,7 +1816,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "9547610ed11443efd9fdecbb",
@@ -1221,7 +1833,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "927c74224bdebbfb69edf72d",
@@ -1238,7 +1850,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "9246bf03b60de8989160cdcf",
@@ -1255,7 +1867,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "90810ebd16e0be22109b7b4e",
@@ -1272,7 +1884,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "8fa24e48dbefd62a4f48faa2",
@@ -1289,7 +1901,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "8daccaa0503f3d991ea6adc4",
@@ -1306,7 +1918,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "8be3b940547b30d28d429744",
@@ -1323,7 +1935,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "89f8cc3e879892bfc37bc7de",
@@ -1340,7 +1952,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "8977e9b2ce9941d3e02af7e5",
@@ -1357,7 +1969,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "8791a9029075f3b2eb0e735d",
@@ -1374,7 +1986,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "86c4b9025315f063bad943be",
@@ -1391,7 +2003,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "82d14c6ddc4b6fb0127ab63b",
@@ -1408,7 +2020,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "7fad07d4e117749ac248928f",
@@ -1425,7 +2037,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "7e18964627a20171fa448c15",
@@ -1442,7 +2054,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "7a3281f532cdb7cdc94d1546",
@@ -1459,7 +2071,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "71b2daf39ff4cd33debb544a",
@@ -1476,7 +2088,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "6e4f408598d2e2ac688811ae",
@@ -1493,7 +2105,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "6b7f9cd0b944edcf15198345",
@@ -1510,7 +2122,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "6a774246bfc2c669806bbdbb",
@@ -1527,7 +2139,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "6a30d75f641aa222483a8724",
@@ -1544,7 +2156,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "6851567a0db216a3fd1969b4",
@@ -1561,7 +2173,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "67b180b4c8704aa08c6bca59",
@@ -1578,7 +2190,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "6788c86481aab5ddd0f45ad0",
@@ -1595,7 +2207,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "645dd2e337035c9a7c41999c",
@@ -1612,7 +2224,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "63b84be62b64316d14ac5ade",
@@ -1629,7 +2241,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "634c28fdd3ab8f3416e0e018",
@@ -1646,7 +2258,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "62409a61c4994d5fdadf0c13",
@@ -1663,7 +2275,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "605e477cf19a34ea931fd8bb",
@@ -1680,7 +2292,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "5e78d3448a7c1d7c5052f431",
@@ -1697,7 +2309,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "59c5ab93f004f97316863f65",
@@ -1714,7 +2326,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "58bebc13637e35781a1a8233",
@@ -1731,7 +2343,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "585c6c9bb4356efd8bab8744",
@@ -1745,9 +2357,7 @@
     "eligibility": "Undergraduate internship feed; verify eligibility on the application page; Sponsorship: Not confirmed; Verify degree, work authorization, and location on application page",
     "published_date": "2026-10-15",
     "first_seen": "2026-10-18",
-    "active_sources": [
-      "Vansh & Ouckah Summer 2027 internships"
-    ],
+    "active_sources": [],
     "last_seen": "2026-10-18"
   },
   {
@@ -1765,7 +2375,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "538101cf6a3f25c5f1f706d0",
@@ -1782,7 +2392,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "4f81cd43a63b6ce9242efc66",
@@ -1799,7 +2409,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "4dac3db975131cc90e422144",
@@ -1816,7 +2426,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "4d2fa6b1ab6072d1608384c8",
@@ -1833,7 +2443,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "4cc01a5a50362075a430476a",
@@ -1850,7 +2460,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "4b2b6512018a77ce1ca3856a",
@@ -1867,7 +2477,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "4b03ee174b5efe1bee8d0d4d",
@@ -1884,7 +2494,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "48e6fa61a24bc56b2e5a7fe8",
@@ -1901,7 +2511,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "4670c99c0ecc133be8015218",
@@ -1918,7 +2528,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "45e24df3ec6c0b83634fd44f",
@@ -1935,7 +2545,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "41d42554edbbfac8ba7a7e48",
@@ -1952,7 +2562,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "410ffee43229b821bb339c4d",
@@ -1969,7 +2579,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "4020652503217a2d6bb1a93a",
@@ -1986,7 +2596,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "3f0c799e659f48bf50d2ecad",
@@ -2003,7 +2613,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "3ecc05757316b448e882d2e0",
@@ -2020,7 +2630,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "3e08768ac003e0794a9e5508",
@@ -2037,7 +2647,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "3c01794b3cbb0b7ae11fa83c",
@@ -2054,7 +2664,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "39e45c8011c0f5aa5d64ec19",
@@ -2071,7 +2681,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "36b7dc6774e5908f1a098326",
@@ -2085,9 +2695,7 @@
     "eligibility": "Undergraduate internship feed; verify eligibility on the application page; Sponsorship: Not confirmed; Verify degree, work authorization, and location on application page",
     "published_date": "2026-10-15",
     "first_seen": "2026-10-18",
-    "active_sources": [
-      "Vansh & Ouckah Summer 2027 internships"
-    ],
+    "active_sources": [],
     "last_seen": "2026-10-18"
   },
   {
@@ -2105,7 +2713,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "3439adadbbe5b45e8005217d",
@@ -2122,7 +2730,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "3366ed9874b5179792115195",
@@ -2139,7 +2747,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "2eaad9693d9347f4a9ed651c",
@@ -2156,7 +2764,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "29370a6c7dba27615d49958e",
@@ -2173,7 +2781,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "27497a419962c1e88ec3c07f",
@@ -2190,7 +2798,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "23c501defc757fc8382732cc",
@@ -2207,7 +2815,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "226605fac3805d757fe799ae",
@@ -2224,7 +2832,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "220a73ea84e0c1aeb192a27b",
@@ -2241,7 +2849,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "214e00fe14bc4de03e6fbafe",
@@ -2258,7 +2866,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "20c880ee86f0dd2fc0d37875",
@@ -2275,7 +2883,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "1f5290a14a7f25201c53c98e",
@@ -2292,7 +2900,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "1f075883cca068ad2c676298",
@@ -2309,7 +2917,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "1d728896d16995c8dc01dd67",
@@ -2326,7 +2934,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "1d611311d5fcbc0ed129aaf8",
@@ -2343,7 +2951,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "1c97b58803db31df5562f6d4",
@@ -2360,7 +2968,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "1bb6208ccc947cabb76442ca",
@@ -2377,7 +2985,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "1ac6a66821eb6479629c1876",
@@ -2394,7 +3002,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "1989a228c4c8119f42591e7e",
@@ -2411,7 +3019,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "17f63bd94925abf1819e332e",
@@ -2428,7 +3036,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "17460d172b15e95bdb17655d",
@@ -2445,7 +3053,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "1713da6bcf53e6e653694140",
@@ -2462,7 +3070,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "1652f8d480404d57790f8d8c",
@@ -2479,7 +3087,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "15ce87550af744d0975e7a43",
@@ -2496,7 +3104,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "15cc55124741a1715a085aa7",
@@ -2513,7 +3121,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "1299c060783db7243b84836f",
@@ -2530,7 +3138,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "11073136624f529cb0f3bbde",
@@ -2547,7 +3155,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "106d0f5438c2bffe772c9045",
@@ -2564,7 +3172,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "0ed9d952a37c0d200f03971d",
@@ -2581,7 +3189,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "0e85fda85765460c9b9dfa9e",
@@ -2598,7 +3206,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "0cf244df903d3f8095ef89fa",
@@ -2615,7 +3223,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "0b078d6a2064ce60954cfdbd",
@@ -2632,7 +3240,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "0a5a9ccadc579675925d26fd",
@@ -2649,7 +3257,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "0989d7f1f8749ee4e3241d73",
@@ -2666,7 +3274,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "08a0147ca83ecd95db8ee3db",
@@ -2683,7 +3291,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "088877701d42462e8b7f55c5",
@@ -2700,7 +3308,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "078ea1a4286214de45e7ea6b",
@@ -2717,7 +3325,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "027d038365e7833cf5a7841a",
@@ -2734,7 +3342,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "00312d20b0649df7b1bd2515",
@@ -2751,7 +3359,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "0017dffb68920a7f5211ddc4",
@@ -2768,7 +3376,7 @@
     "active_sources": [
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "fefafcde0d4c486428048e12",
@@ -2785,7 +3393,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "fac982b4d83c1a82b631529d",
@@ -2800,9 +3408,10 @@
     "published_date": "2026-10-16",
     "first_seen": "2026-10-17",
     "active_sources": [
-      "Simplify and Pitt CSC internships"
+      "Simplify and Pitt CSC internships",
+      "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "f321549911c22015c7ca5cb7",
@@ -2819,7 +3428,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "ec4b2af550714ea384f3c101",
@@ -2836,7 +3445,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "e8130d376138f8ec67924c35",
@@ -2853,7 +3462,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "e79894afa4fe3866f9c88254",
@@ -2868,9 +3477,10 @@
     "published_date": "2026-10-16",
     "first_seen": "2026-10-17",
     "active_sources": [
-      "Simplify and Pitt CSC internships"
+      "Simplify and Pitt CSC internships",
+      "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "e319a4ecc07854e5e813d384",
@@ -2887,7 +3497,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "d0ef32deb0f35a0f3d1946c8",
@@ -2904,7 +3514,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "cdf625888dbd3dcd2b02994a",
@@ -2921,7 +3531,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "c260bc5078c936abd0975ac7",
@@ -2936,9 +3546,10 @@
     "published_date": "2026-10-16",
     "first_seen": "2026-10-17",
     "active_sources": [
-      "Simplify and Pitt CSC internships"
+      "Simplify and Pitt CSC internships",
+      "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "bb045237936f052824cff961",
@@ -2955,7 +3566,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "b78e79b8ccfc39c012bc09b4",
@@ -2972,7 +3583,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "b1e6a64d93e11d66ceaa1f4a",
@@ -2989,7 +3600,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "aff19b64cd74eb54a07e65e3",
@@ -3004,9 +3615,10 @@
     "published_date": "2026-10-16",
     "first_seen": "2026-10-17",
     "active_sources": [
-      "Simplify and Pitt CSC internships"
+      "Simplify and Pitt CSC internships",
+      "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "aee79eb22e03a72547f3b180",
@@ -3023,7 +3635,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "a10d75d0ae1625349966052a",
@@ -3040,7 +3652,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "9f7c6601e5eac1c50fc034e5",
@@ -3055,9 +3667,10 @@
     "published_date": "2026-10-16",
     "first_seen": "2026-10-17",
     "active_sources": [
-      "Simplify and Pitt CSC internships"
+      "Simplify and Pitt CSC internships",
+      "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "95c8e0247e463f9c69dbfc3a",
@@ -3074,7 +3687,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "94e54f774bb4205d9253a475",
@@ -3091,7 +3704,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "8fbd75b08561b1e5c4f6bc5c",
@@ -3108,7 +3721,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "851b830b081364074a8023e9",
@@ -3125,7 +3738,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "758264e66d6ae8510debdd02",
@@ -3142,7 +3755,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "70fde639776438cf7b266275",
@@ -3159,7 +3772,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "6c9f12c2f4f640a0a020fae4",
@@ -3176,7 +3789,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "6c01b550af69d7b40d393a14",
@@ -3193,7 +3806,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "6b3ec24437ef55dd9ed11316",
@@ -3210,7 +3823,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "6ac876dcb17017eed74e0750",
@@ -3227,7 +3840,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "659a47ae9814a16fc52da98f",
@@ -3244,7 +3857,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "6593482064594ecc756a58b8",
@@ -3259,9 +3872,10 @@
     "published_date": "2026-10-16",
     "first_seen": "2026-10-17",
     "active_sources": [
-      "Simplify and Pitt CSC internships"
+      "Simplify and Pitt CSC internships",
+      "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "651a41b2f305dd3e0e6ba9f7",
@@ -3276,9 +3890,10 @@
     "published_date": "2026-10-16",
     "first_seen": "2026-10-17",
     "active_sources": [
-      "Simplify and Pitt CSC internships"
+      "Simplify and Pitt CSC internships",
+      "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "62b5c50137be2494beaba45e",
@@ -3296,24 +3911,24 @@
       "Simplify and Pitt CSC internships",
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "5fc7dea64318a35bb4a57167",
-    "title": "Software Developer Co-op - Custom Development Services",
+    "title": "Software Developer Co-op, Custom Development Services",
     "organization": "D2L",
     "category": "Internship",
     "location": "Kitchener, ON, Canada",
     "deadline": "",
     "url": "https://www.d2l.com/careers/jobs/?job_id=8289767&gh_jid=8289767",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's, Associate's; Sponsorship: Not confirmed; Terms: Winter 2027; Verify degree, work authorization, and location on application page",
+    "source_url": "https://github.com/vanshb03/Summer2027-Internships",
+    "eligibility": "Undergraduate internship feed; verify eligibility on the application page; Sponsorship: Not confirmed; Verify degree, work authorization, and location on application page",
     "published_date": "2026-10-16",
     "first_seen": "2026-10-17",
     "active_sources": [
-      "Simplify and Pitt CSC internships"
+      "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "5c415aeee3d919945791a465",
@@ -3330,7 +3945,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "5729353232307bc0def407fa",
@@ -3347,7 +3962,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "5313313d4fc2d96ca285af24",
@@ -3364,7 +3979,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "4ee339a2a5404f48dcdde526",
@@ -3381,7 +3996,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "4b9ca486899d60c5e48eee8d",
@@ -3398,7 +4013,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "4a2d37d564cbf452dedff1b7",
@@ -3415,7 +4030,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "4983f0004bda4962656d44ec",
@@ -3432,7 +4047,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "497a744a862f82b61975b328",
@@ -3449,7 +4064,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "42b879c658a48c13f93f2fe5",
@@ -3466,7 +4081,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "39d519f5a475d475e4dc7fcc",
@@ -3483,7 +4098,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "38619eb36058b4adbff0e3a2",
@@ -3500,7 +4115,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "334c0f05f8489033fab1d1e8",
@@ -3518,7 +4133,7 @@
       "Simplify and Pitt CSC internships",
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "26a4965a92f00b7f13670fb3",
@@ -3535,7 +4150,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "23bcfa6d9c5a8d9fc9673ae3",
@@ -3552,7 +4167,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "217e3d9a3b92084399596e26",
@@ -3567,9 +4182,10 @@
     "published_date": "2026-10-16",
     "first_seen": "2026-10-17",
     "active_sources": [
-      "Simplify and Pitt CSC internships"
+      "Simplify and Pitt CSC internships",
+      "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "1e85d341e75c008a6886157c",
@@ -3586,7 +4202,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "1c4ed67f21245b2eeda24af6",
@@ -3603,7 +4219,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "139d13cd5a4491fff2cdf9eb",
@@ -3620,7 +4236,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "12c3dc110a982126f60ed296",
@@ -3637,7 +4253,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "021f8272ec5d323d90f2f732",
@@ -3654,7 +4270,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "f9942c2c863578d418f71020",
@@ -3671,7 +4287,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "f43984435547253fe68a6d7a",
@@ -3688,7 +4304,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "f1184862ccb76d6038bd2b02",
@@ -3705,7 +4321,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "eee3df5860eadbacb2f246f1",
@@ -3722,7 +4338,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "e8cf991d9e2f704f691bff0a",
@@ -3739,7 +4355,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "e7a253fb3e321e25d91bf159",
@@ -3756,7 +4372,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "e6186a16b8ba6ea1d968af7c",
@@ -3773,7 +4389,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "df082a2c4cb34a8fb8730b5c",
@@ -3790,7 +4406,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "d8d6db921eb809819d555bb6",
@@ -3807,7 +4423,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "d80dc28584664c071e7c70f0",
@@ -3824,7 +4440,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "d5d891a478ca39b85ebde934",
@@ -3841,7 +4457,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "d4d4fee3e1841470d1fccd9b",
@@ -3858,7 +4474,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "d412ccbf187a584605278579",
@@ -3875,7 +4491,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "d21989515b85844302228a10",
@@ -3892,7 +4508,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "c8459023f0ca2b9d410db590",
@@ -3909,7 +4525,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "c7e8dc08a49bda88c08dbf7e",
@@ -3926,7 +4542,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "c26665fbc572aa3763bf5e3d",
@@ -3944,7 +4560,7 @@
       "Simplify and Pitt CSC internships",
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "bebec1d1b7c0ad6a00a2d9d7",
@@ -3961,7 +4577,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "ab7a02e7f90c8d0bf6d48572",
@@ -3991,9 +4607,10 @@
     "published_date": "2026-10-16",
     "first_seen": "2026-10-16",
     "active_sources": [
-      "Simplify and Pitt CSC internships"
+      "Simplify and Pitt CSC internships",
+      "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "a58a39f03eda02aa9b867c5f",
@@ -4011,7 +4628,7 @@
       "Simplify and Pitt CSC internships",
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "a4391340abfa4dd4d9102272",
@@ -4025,9 +4642,7 @@
     "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
     "published_date": "2026-10-16",
     "first_seen": "2026-10-16",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
+    "active_sources": [],
     "last_seen": "2026-10-18"
   },
   {
@@ -4045,7 +4660,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "9d4c9b0a9d00895ad124cada",
@@ -4062,7 +4677,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "9a080a042075e7b8b817fbce",
@@ -4079,7 +4694,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "956b3809d095bbbe07c886e9",
@@ -4097,7 +4712,7 @@
       "Simplify and Pitt CSC internships",
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "95670ad0c1426f8c72b7c254",
@@ -4114,7 +4729,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "9539be231a2e0383b2d7ec2e",
@@ -4131,7 +4746,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "924bb53224598e969e7943d2",
@@ -4148,7 +4763,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "8cd417b7f24fc97871227973",
@@ -4162,9 +4777,7 @@
     "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
     "published_date": "2026-10-15",
     "first_seen": "2026-10-16",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
+    "active_sources": [],
     "last_seen": "2026-10-18"
   },
   {
@@ -4182,7 +4795,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "8700b02d19e197eb11cf5cd9",
@@ -4199,7 +4812,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "8116fc00ed6cf52662e16142",
@@ -4216,7 +4829,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "74c9de00465c027d6c930f12",
@@ -4233,7 +4846,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "6e229b3da43e70e681c0507d",
@@ -4250,7 +4863,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "6d1f44d3c982492fcdcb9f5c",
@@ -4267,7 +4880,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "6874eb6e5089ed2d8a7a93f5",
@@ -4284,7 +4897,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "6593ae71675c3739a9528afd",
@@ -4301,7 +4914,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "61e71c043795ec5333d4c625",
@@ -4318,7 +4931,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "576ed9fcfaeca32aeee2f055",
@@ -4335,7 +4948,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "4e25e46121e2df31de5e62ba",
@@ -4367,7 +4980,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "41f558d48547290f8e9d733f",
@@ -4384,7 +4997,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "3892e12858864b621f85b049",
@@ -4401,7 +5014,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "3819b8abbeece055e9acd5d5",
@@ -4418,7 +5031,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "34b070b57a6b37b51bc7d1b2",
@@ -4433,9 +5046,10 @@
     "published_date": "2026-10-16",
     "first_seen": "2026-10-16",
     "active_sources": [
-      "Simplify and Pitt CSC internships"
+      "Simplify and Pitt CSC internships",
+      "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "2b0de799fab4cdd0873225f7",
@@ -4450,9 +5064,10 @@
     "published_date": "2026-10-16",
     "first_seen": "2026-10-16",
     "active_sources": [
-      "Simplify and Pitt CSC internships"
+      "Simplify and Pitt CSC internships",
+      "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "2ac2862b852ca9fad673c19d",
@@ -4482,9 +5097,10 @@
     "published_date": "2026-10-16",
     "first_seen": "2026-10-16",
     "active_sources": [
-      "Simplify and Pitt CSC internships"
+      "Simplify and Pitt CSC internships",
+      "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "2242d6704fa8d09f011ba921",
@@ -4501,7 +5117,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "1eba3a1d14edee11f6e8cc1b",
@@ -4518,7 +5134,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "1815e7cddc0ab99425dae96a",
@@ -4535,7 +5151,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "176016789d8abd3289d12635",
@@ -4552,7 +5168,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "168d568eae3cbcb3785fd779",
@@ -4569,7 +5185,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "135cd4d1883afb34da852fe4",
@@ -4586,7 +5202,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "1316da1d0b286f899b7b6ef5",
@@ -4603,7 +5219,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "10c558f5079551839c67d335",
@@ -4620,7 +5236,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "0ff09290b65beee7a06797be",
@@ -4637,7 +5253,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "0e7bab93293f236e1762fe59",
@@ -4654,7 +5270,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "0d023e3e039237b7a1b8c486",
@@ -4671,7 +5287,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "097a7d6681c7edfde2097498",
@@ -4688,7 +5304,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "04d15f26406ce655f4c6354a",
@@ -4705,7 +5321,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "04aab0acb7bcdc6c9e461b3c",
@@ -4722,7 +5338,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "03edb7071752095537fd410d",
@@ -4739,7 +5355,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "fe15287ab48f3ace3380f77f",
@@ -4756,7 +5372,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "fe10cfe6ab419486e4ff0233",
@@ -4773,7 +5389,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "f857ebc1b2afd471b656b534",
@@ -4790,7 +5406,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "f7358eca3299dccdde7589a7",
@@ -4808,7 +5424,7 @@
       "Simplify and Pitt CSC internships",
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "f4b61c901308e0ff94b00c94",
@@ -4825,7 +5441,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "f31aca54a9f21b5b6916b2d6",
@@ -4842,7 +5458,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "f2ebd3ed743472e887baf180",
@@ -4859,7 +5475,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "ebb40deded3eb5ecab8122b3",
@@ -4876,7 +5492,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "eb6b7bf738bc7e5b5c9c2aee",
@@ -4893,7 +5509,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "e7716cfa19a4518cce9a98a5",
@@ -4910,7 +5526,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "e691a18cbd4e8d3445bc5f40",
@@ -4927,7 +5543,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "e57f8a2e84462db9b05944ea",
@@ -4944,7 +5560,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "e4c1f051087f45860ef3392c",
@@ -4961,7 +5577,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "e4567fa60d883a8f78bd5cb6",
@@ -4978,7 +5594,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "e125fbbc9014f06d60148053",
@@ -4995,7 +5611,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "dfab284d1c14c928505a96ba",
@@ -5012,7 +5628,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "d636aa1673c66c01d29776af",
@@ -5029,7 +5645,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "d27c8880fb02ab918f65d021",
@@ -5046,7 +5662,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "cead2c80933bb0f5f6886ccb",
@@ -5078,7 +5694,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "c699be075bed39a58b7995ca",
@@ -5095,7 +5711,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "c4889de06c780b9c24326eac",
@@ -5112,7 +5728,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "c453e7ae1e81e10136b0e859",
@@ -5129,7 +5745,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "c41c92208fb8dfd5baaeab18",
@@ -5146,7 +5762,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "c0123af03b4c532f1c733009",
@@ -5163,7 +5779,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "bfe260d4af729307fa39c9a0",
@@ -5180,7 +5796,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "bf2e8834be7ba688091ac9c6",
@@ -5212,7 +5828,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "b012a461df446d8ddcb6b588",
@@ -5229,7 +5845,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "af1c2a6687b08372fb87fe87",
@@ -5246,7 +5862,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "ad815408f8125a2e83744014",
@@ -5263,7 +5879,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "acbe7713fdaedf0d3153ef11",
@@ -5280,7 +5896,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "ab9ec120a37a14ab1f3fa389",
@@ -5297,7 +5913,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "a9a0bd3f6f361f6954093450",
@@ -5314,7 +5930,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "a740e9a8009c4435bcddfa4a",
@@ -5331,7 +5947,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "a4abe6eb2831f59e20bc4db6",
@@ -5348,7 +5964,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "a37d77d60d5c5599d7d0e0d5",
@@ -5365,7 +5981,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "9f42b848716966dfbede2b07",
@@ -5382,7 +5998,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "93552963969c1e8c02cadfe7",
@@ -5399,7 +6015,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "90ece852cb7839a91f658b13",
@@ -5416,7 +6032,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "8f5215aa429c4ed3d4ebce74",
@@ -5433,7 +6049,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "8ea5a0c8d97a83e807534a48",
@@ -5450,7 +6066,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "8c8031d4acab3f11481f39cf",
@@ -5468,7 +6084,7 @@
       "Simplify and Pitt CSC internships",
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "88e459e77b018d2c44931b4d",
@@ -5485,7 +6101,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "881f56fb1b0d4a6db6ec8e26",
@@ -5502,7 +6118,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "87339286c7e11a1ca77ebbf0",
@@ -5519,7 +6135,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "82f7fe90f9c28a45eb74c683",
@@ -5536,7 +6152,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "81169f6680a140f5fe9d22f6",
@@ -5553,7 +6169,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "8077791d4c95c3bb3bb9c6a6",
@@ -5570,7 +6186,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "6bedf4ec48bb9f4dbfab3791",
@@ -5587,7 +6203,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "685a5ac8b27676f52101d9ae",
@@ -5604,7 +6220,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "65569bb9ad6e7a061e301d21",
@@ -5621,7 +6237,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "649c545709bf0145acd8f3c3",
@@ -5638,7 +6254,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "5f3051af396be461408e4271",
@@ -5655,7 +6271,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "5d3546a651e1b7726dab4235",
@@ -5673,7 +6289,7 @@
       "Simplify and Pitt CSC internships",
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "59cb12f93c2cc339291baf23",
@@ -5690,7 +6306,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "5692ec629488dacf6921452f",
@@ -5707,7 +6323,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "557100f3b3cb991e7be1d3c2",
@@ -5724,7 +6340,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "535e9a3265d8fec90f506be4",
@@ -5741,7 +6357,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "4ac8fb2b96e2fbca92017db2",
@@ -5758,7 +6374,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "47dde2243c0d3ac3d5bc419e",
@@ -5775,7 +6391,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "45000bb626b234ec9e519b83",
@@ -5789,9 +6405,7 @@
     "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
     "published_date": "2026-10-14",
     "first_seen": "2026-10-15",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
+    "active_sources": [],
     "last_seen": "2026-10-18"
   },
   {
@@ -5809,7 +6423,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "3f1f350209446e03c28b1044",
@@ -5826,7 +6440,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "3e970202a918c2a392ef97a7",
@@ -5843,7 +6457,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "3e18d1d13ce68ed933156449",
@@ -5860,7 +6474,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "3ba2f08e1118122357cd659d",
@@ -5877,7 +6491,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "35414d5d767b356cc6f1deca",
@@ -5894,7 +6508,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "345eab5b2f9ede3bf645bede",
@@ -5911,7 +6525,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "32423bbc7f26b0130507e78c",
@@ -5928,7 +6542,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "2bdee1450144f47919978de9",
@@ -5945,7 +6559,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "2aaef0a2f6659f2efbef8e7e",
@@ -5962,7 +6576,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "2aade8f9ec31a9b109e33205",
@@ -5980,7 +6594,7 @@
       "Simplify and Pitt CSC internships",
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "2758e67e0c965eb2a02bd2c8",
@@ -5997,7 +6611,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "269ca3e54366096b7705eb25",
@@ -6014,7 +6628,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "1aa1f7a975844aee46c2be2d",
@@ -6031,7 +6645,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "1a053064b3fde14776f01b41",
@@ -6048,7 +6662,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "178fdd98a43cd9f643d53e53",
@@ -6080,7 +6694,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "12f201d6e457273fd80b38d0",
@@ -6097,7 +6711,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "10f4196e7ed2f335bca2f410",
@@ -6114,7 +6728,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "0c741af9c8121e503aac9b15",
@@ -6131,7 +6745,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "0435e6d659ae5db6eda3f676",
@@ -6148,7 +6762,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "030046efa76c683af983e389",
@@ -6165,7 +6779,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "026a9170fd14762baacdb001",
@@ -6182,7 +6796,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "fc00b20daae23f230a3ffd81",
@@ -6199,7 +6813,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "fbc4fb70e178308a158a1c8c",
@@ -6216,7 +6830,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "f91866ef49e94aca3fffb59e",
@@ -6233,7 +6847,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "f7d9f648e7fe5324051000ad",
@@ -6250,7 +6864,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "f3689915e53d48a79004f8ec",
@@ -6267,7 +6881,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "e9315233f20c4e91c2e4f05d",
@@ -6284,7 +6898,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "e4ec62ac50fcc9b7ab1499bf",
@@ -6301,7 +6915,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "e1fdd45163ac0e5053c5aa84",
@@ -6318,7 +6932,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "dfc396daa7378ffcacb1baaf",
@@ -6335,7 +6949,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "df56b281647b827acca3edee",
@@ -6352,7 +6966,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "d9d08a7918a8424aedbafced",
@@ -6366,9 +6980,7 @@
     "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
     "published_date": "2026-10-13",
     "first_seen": "2026-10-14",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
+    "active_sources": [],
     "last_seen": "2026-10-18"
   },
   {
@@ -6401,7 +7013,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "d082bc637d9515fcf56e4470",
@@ -6418,7 +7030,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "ced12b85ef246d50f490268c",
@@ -6435,7 +7047,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "cb108b13053af7a24c94e1ee",
@@ -6452,7 +7064,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "cafdbb036754e140ec4151cd",
@@ -6469,7 +7081,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "bdd97a52f68b72e5a4084423",
@@ -6486,7 +7098,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "bd67a3da8089e77cc8db6e4d",
@@ -6518,7 +7130,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "b1a32839cbb5f114a217baaa",
@@ -6535,7 +7147,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "ae0d7f575c564ea55b89a6f9",
@@ -6552,7 +7164,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "ad86fe8dd0bf5d80d8f0e6b0",
@@ -6569,7 +7181,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "aad556440aac5bba3d6d44de",
@@ -6586,7 +7198,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "a7b6d5af94318a3516646afe",
@@ -6600,9 +7212,7 @@
     "eligibility": "Degrees: Bachelor's, Master's, PhD; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
     "published_date": "2026-10-13",
     "first_seen": "2026-10-14",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
+    "active_sources": [],
     "last_seen": "2026-10-18"
   },
   {
@@ -6620,7 +7230,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "9ed73bd161ae8510898e977a",
@@ -6637,7 +7247,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "9e55947851ee7080530cf55b",
@@ -6654,7 +7264,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "9ca62356be89798535bb9a73",
@@ -6672,7 +7282,7 @@
       "Simplify and Pitt CSC internships",
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "99e278fb0e46989f003cf094",
@@ -6689,7 +7299,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "99c268f8ee2e86f8e24606b9",
@@ -6703,9 +7313,7 @@
     "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
     "published_date": "2026-10-13",
     "first_seen": "2026-10-14",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
+    "active_sources": [],
     "last_seen": "2026-10-18"
   },
   {
@@ -6723,7 +7331,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "95a9c577f14e62e710cc3c80",
@@ -6740,7 +7348,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "8afea27b6136847c9e0ff6e0",
@@ -6772,7 +7380,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "842e795b635332134519bc4f",
@@ -6789,7 +7397,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "7cbbb0c6e5b1f0382e1b8fcd",
@@ -6806,7 +7414,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "7bb2adcda492bbce112040b6",
@@ -6823,7 +7431,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "72f7b3220e9781edf34c140f",
@@ -6840,7 +7448,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "6d40e8e3ff8c6a55fb70f47c",
@@ -6857,7 +7465,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "6c58f9bc322b07b184d4abaa",
@@ -6890,7 +7498,7 @@
       "Simplify and Pitt CSC internships",
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "6326b18457698fad32d9a5d3",
@@ -6922,7 +7530,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "60d64934770a47c6cc859b6a",
@@ -6939,7 +7547,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "581b0842b30ca144a701dff8",
@@ -6956,7 +7564,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "53c5c1ca4b9de67118ce62cc",
@@ -6973,7 +7581,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "4aaf2c2fd94a0ee877c64ee2",
@@ -6990,7 +7598,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "47bdbf3c002cab6bdd03c610",
@@ -7022,7 +7630,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "38ae80a68be5f2f529617f34",
@@ -7039,7 +7647,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "35c777a05edea51edb205ae6",
@@ -7056,7 +7664,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "350d06947d32aebadb1948fa",
@@ -7073,7 +7681,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "34f1c9d2aca65b84a7db0112",
@@ -7090,7 +7698,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "3133dcf97ba978bb3953333c",
@@ -7119,9 +7727,7 @@
     "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
     "published_date": "2026-10-12",
     "first_seen": "2026-10-14",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
+    "active_sources": [],
     "last_seen": "2026-10-18"
   },
   {
@@ -7139,7 +7745,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "24fa6c0e85a1ce230725ee4b",
@@ -7156,7 +7762,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "236833e21e2612cb4dac0b60",
@@ -7173,7 +7779,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "2019befb34eef5842119cffe",
@@ -7190,7 +7796,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "1bfb817a3d4a07e70c738f11",
@@ -7222,7 +7828,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "0d924f78a2c35e7e164b8cf9",
@@ -7239,7 +7845,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "0c250c13d77436b1393a3988",
@@ -7256,7 +7862,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "0b229f4efb5a195aeda95e40",
@@ -7285,9 +7891,7 @@
     "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
     "published_date": "2026-10-13",
     "first_seen": "2026-10-14",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
+    "active_sources": [],
     "last_seen": "2026-10-18"
   },
   {
@@ -7302,9 +7906,7 @@
     "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: N/A; Verify degree, work authorization, and location on application page",
     "published_date": "2026-10-14",
     "first_seen": "2026-10-14",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
+    "active_sources": [],
     "last_seen": "2026-10-18"
   },
   {
@@ -7322,7 +7924,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "01dc1ca9fd279738e5031b05",
@@ -7339,7 +7941,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "018669c1050d46f90e1de99a",
@@ -7371,7 +7973,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "fb09004dca1ba165cfc59ace",
@@ -7388,7 +7990,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "fa6bd122c884ee04fb113432",
@@ -7405,7 +8007,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "f9cc0a1b5dee8d5d37009fba",
@@ -7422,7 +8024,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "f7a3ff34ab13b96896dc7569",
@@ -7439,7 +8041,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "f54fe65b523e2718a86f5fff",
@@ -7471,7 +8073,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "ee483b4a6f1414a369f7f442",
@@ -7488,7 +8090,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "ed4108b4fca498b743baaffb",
@@ -7505,7 +8107,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "ebe737e9173bc2d32619c3bc",
@@ -7522,7 +8124,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "e5e6ff99c169f9389efee1a4",
@@ -7539,7 +8141,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "e45c5b89532de5fb73fc0a4e",
@@ -7556,7 +8158,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "e2f9ee2039492bb102382c75",
@@ -7573,7 +8175,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "e22b586e117e40c8763e70ad",
@@ -7590,7 +8192,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "df815338d4d0d070b01dc28a",
@@ -7607,7 +8209,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "decc0a14b132f0f716f15d29",
@@ -7624,7 +8226,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "dd1db8df86bc52a325d63a95",
@@ -7641,7 +8243,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "d21ded5b3f6b349fd9b97850",
@@ -7658,7 +8260,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "ced45654ce4246a50c857d3f",
@@ -7672,9 +8274,7 @@
     "eligibility": "Degrees: Bachelor's, Associate's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
     "published_date": "2026-10-12",
     "first_seen": "2026-10-13",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
+    "active_sources": [],
     "last_seen": "2026-10-18"
   },
   {
@@ -7692,7 +8292,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "c71a9980ac8c2ea0b2d8e08a",
@@ -7709,7 +8309,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "c58d5727d7031b5df431150d",
@@ -7727,7 +8327,7 @@
       "Simplify and Pitt CSC internships",
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "c1c758a56894783650244dd8",
@@ -7744,7 +8344,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "bdd3161a8b93282e7c4af330",
@@ -7761,7 +8361,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "baa112214d2f618d3e968acf",
@@ -7808,7 +8408,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "b810426ab4b7670291a3ae34",
@@ -7825,7 +8425,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "b58a385e94b1ed4167564a69",
@@ -7842,7 +8442,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "b2f4132bec07cf259fa7f44a",
@@ -7859,7 +8459,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "b208b4e66522e0f585b82cc3",
@@ -7876,7 +8476,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "b1f38fd2601514cf540e50f8",
@@ -7893,7 +8493,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "ae43d249421b8414bef1d760",
@@ -7910,7 +8510,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "ab972393335407e9eeb25499",
@@ -7927,7 +8527,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "ab91117038c27d42907e8cb8",
@@ -7959,7 +8559,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "9970bedb8f632df38d3fcfb1",
@@ -7991,7 +8591,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "9369b393ff3059ee3cbd80c6",
@@ -8053,7 +8653,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "89dd58c0d5abb15a901a21a3",
@@ -8100,7 +8700,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "824542e384deea1855118ef8",
@@ -8129,9 +8729,7 @@
     "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
     "published_date": "2026-10-12",
     "first_seen": "2026-10-13",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
+    "active_sources": [],
     "last_seen": "2026-10-18"
   },
   {
@@ -8149,7 +8747,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "7e1fb66ca7dbfc4f4631b8db",
@@ -8166,7 +8764,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "7bef7a79c514035eef8d0115",
@@ -8213,7 +8811,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "6cb3ede51efa404f599513c3",
@@ -8230,7 +8828,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "63142c33618a5f4c5bdc585e",
@@ -8247,7 +8845,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "62fd5b8dad7541cf29063172",
@@ -8264,7 +8862,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "5ce79b7b01d655a4a017c58b",
@@ -8281,7 +8879,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "59ddc6faaa2add44ec1c56db",
@@ -8298,7 +8896,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "57537bc3c6159f5aba87b7fb",
@@ -8315,7 +8913,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "572c30165c2ae123296fc675",
@@ -8332,7 +8930,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "55cca4aa9b109a75ad2af45e",
@@ -8364,7 +8962,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "5300195a466d48f65b04f25e",
@@ -8396,7 +8994,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "4fa52bd1f97caf3c8bf32820",
@@ -8428,7 +9026,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "483cb930d01c0950a1780ef4",
@@ -8445,7 +9043,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "46bddc7aa7f07bb217cf0f4e",
@@ -8462,7 +9060,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "43b45b1e68948aca1a7e1df8",
@@ -8479,7 +9077,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "3ca2f172c26009f014271251",
@@ -8496,7 +9094,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "3c6896ad1aec2006f587d2a4",
@@ -8513,7 +9111,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "3ad2a4a3845070f91b39a2f5",
@@ -8530,7 +9128,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "366104a6414f56ff2b6fa1bd",
@@ -8547,7 +9145,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "307abe301ed4d6da3e191a04",
@@ -8564,7 +9162,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "303a0ca0cbaf18b61177c85b",
@@ -8596,7 +9194,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "2d094c0fa39eeed8751815bf",
@@ -8613,7 +9211,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "2b5d89d09e78709ff30f8161",
@@ -8630,7 +9228,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "27134fffa731d07cf4e86f42",
@@ -8647,7 +9245,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "25a5880dd45c608dd6ae2c2e",
@@ -8679,7 +9277,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "18a74a065f868e7e75083d14",
@@ -8696,7 +9294,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "14ed9944bf801d665fd1c0ab",
@@ -8710,9 +9308,7 @@
     "eligibility": "Degrees: Bachelor's, Master's; Sponsorship: Not confirmed; Terms: Summer 2027; Verify degree, work authorization, and location on application page",
     "published_date": "2026-10-12",
     "first_seen": "2026-10-13",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
+    "active_sources": [],
     "last_seen": "2026-10-18"
   },
   {
@@ -8731,7 +9327,7 @@
       "Simplify and Pitt CSC internships",
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "0af51d2723c692e698b0f6b6",
@@ -8748,7 +9344,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "0a9da656a0210bf0ecf2fe53",
@@ -8765,7 +9361,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "02e91761ac7c0dfc7dd8ca88",
@@ -8798,7 +9394,7 @@
       "Simplify and Pitt CSC internships",
       "Vansh & Ouckah Summer 2027 internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "e6053d6229b14f0852bc7dc8",
@@ -8815,7 +9411,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "b014bc8ef89b7fbbf9dbea1c",
@@ -8832,24 +9428,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
-  },
-  {
-    "id": "aa2326deb51b6fe6ee6ddd94",
-    "title": "IS Intern - Data Analytics & Data Science",
-    "organization": "C&S Wholesale Grocers",
-    "category": "Internship",
-    "location": "Edison, NJ",
-    "deadline": "",
-    "url": "https://cswg.wd1.myworkdayjobs.com/cs_careers/job/Edison-NJ/IS-Internship---Data-Analytics---Data-Science_R-268963",
-    "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-    "eligibility": "Degrees: Bachelor's; Sponsorship: Not confirmed; Terms: Summer 2026; Verify degree, work authorization, and location on application page",
-    "published_date": "2026-10-11",
-    "first_seen": "2026-10-12",
-    "active_sources": [
-      "Simplify and Pitt CSC internships"
-    ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "9883b903390bfbdff0820378",
@@ -8881,7 +9460,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "931acf4369558ed6d1ac7e73",
@@ -8898,7 +9477,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "728ab84cca9a3d352e5fd2be",
@@ -8930,7 +9509,7 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   },
   {
     "id": "2d3533d2c3c0c00169d06750",
@@ -8947,6 +9526,6 @@
     "active_sources": [
       "Simplify and Pitt CSC internships"
     ],
-    "last_seen": "2026-10-18"
+    "last_seen": "2026-10-19"
   }
 ]
