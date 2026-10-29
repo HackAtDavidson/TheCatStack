@@ -13,6 +13,7 @@ Status | Organization | Opportunity | Location | Apply | Deadline
 --- | --- | --- | --- | --- | ---
 ✅ [OPEN] | Thermo Fisher Scientific | IT & Digital Intern | Pittsburgh, PA; Frederick, MD; Carlsbad, CA; Morrisville, NC | [Apply](https://go.vansh.nyc/hU) | Rolling / check site
 ✅ [OPEN] | Thermo Fisher Scientific | IT & Digital Intern | Pittsburgh, PA; Frederick, MD; Carlsbad, CA; Morrisville, NC | [Apply](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pittsburgh-Pennsylvania-USA/XMLNAME-2027-IT---Digital-Internship_R-01366217) | Rolling / check site
+✅ [OPEN] | Cisco | Security Consulting Engineer I Intern | Research Triangle Park, NC | [Apply](https://go.vansh.nyc/Zg) | Rolling / check site
 ✅ [OPEN] | Wells Fargo | Technology Intern - Early Careers - Data Engineering | Iselin, Woodbridge Township, NJ; Charlotte, NC; Irving, TX | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Data-Engineering-_R-583066) | Rolling / check site
 ✅ [OPEN] | Cisco | Software Engineer Data & AI II Intern | San Jose, CA; Milpitas, CA; Research Triangle Park, NC; San Francisco, CA | [Apply](https://go.vansh.nyc/gO) | Rolling / check site
 ✅ [OPEN] | Cisco | Software Engineer Data & AI II Intern | San Jose, CA; Milpitas, CA; Research Triangle Park, NC; San Francisco, CA | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-II--Intern----United-States_2026798) | Rolling / check site
@@ -30,7 +31,6 @@ Status | Organization | Opportunity | Location | Apply | Deadline
 ✅ [OPEN] | Cisco | Machine Learning Engineer II Intern | San Jose, CA; Milpitas, CA; Rtp, NC; San Francisco, CA | [Apply](https://go.vansh.nyc/e8) | Rolling / check site
 ✅ [OPEN] | Cisco | Machine Learning Engineer II Intern | San Jose, CA; Milpitas, CA; Rtp, NC; San Francisco, CA | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Machine-Learning-Engineer-II--Intern----United-States_2026802) | Rolling / check site
 ✅ [OPEN] | Cisco | Software Engineer Intern, Embedded Systems II | San Jose, CA; Milpitas, CA; Rtp, NC; San Francisco, CA | [Apply](https://go.vansh.nyc/e2) | Rolling / check site
-✅ [OPEN] | Cisco | Software Engineer Intern, Embedded Systems II | San Jose, CA; Milpitas, CA; Rtp, NC; San Francisco, CA | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-II--Intern----United-States_2026805) | Rolling / check site
 <!-- END CURRENT OPPORTUNITIES -->
 
 ## Browse and use
