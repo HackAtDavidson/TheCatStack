@@ -12,25 +12,25 @@ _Showing up to 20 current opportunities. See the [full catalog](OPPORTUNITIES.md
 Status | Organization | Opportunity | Location | Apply | Deadline
 --- | --- | --- | --- | --- | ---
 ✅ [OPEN] | Trane Technologies | AI & Analytics Intern | Davidson, NC; Minneapolis, MN | [Apply](https://go.vansh.nyc/10w) | Rolling / check site
-✅ [OPEN] | Thermo Fisher Scientific | IT & Digital Intern | Pittsburgh, PA; Frederick, MD; Carlsbad, CA; Morrisville, NC | [Apply](https://go.vansh.nyc/hU) | Rolling / check site
-✅ [OPEN] | Thermo Fisher Scientific | IT & Digital Intern | Pittsburgh, PA; Frederick, MD; Carlsbad, CA; Morrisville, NC | [Apply](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pittsburgh-Pennsylvania-USA/XMLNAME-2027-IT---Digital-Internship_R-01366217) | Rolling / check site
+✅ [OPEN] | First Citizens BancShares | AI Innovation Intern | Raleigh, NC | [Apply](https://go.vansh.nyc/129) | Rolling / check site
+✅ [OPEN] | First Citizens BancShares | Summer Intern - AI Innovation | Raleigh, NC | [Apply](https://firstcitizens.jibeapply.com/jobs/36311?icims=1) | Rolling / check site
+✅ [OPEN] | Hyster-Yale Materials Handling | Business Analytics Intern | Greenville, NC | [Apply](https://hysteryale.wd1.myworkdayjobs.com/hyster-yalecareers/job/HY-US-Greenville-NC-Headquarters/Summer-2027-Business-Analytics-Intern_R8539) | Rolling / check site
+✅ [OPEN] | MANN+HUMMEL | Product Management & Market Intelligence Intern | Gastonia, NC | [Apply](https://careers.mann-hummel.com/job/Gastonia-Product-Management-&-Market-Intelligence-Intern-NC-28054/1453138533/?ats=successfactors) | Rolling / check site
 ✅ [OPEN] | Cisco | Security Consulting Engineer I Intern | Research Triangle Park, NC | [Apply](https://go.vansh.nyc/Zg) | Rolling / check site
 ✅ [OPEN] | Schweitzer Engineering Laboratories | Software Engineer Intern | Charlotte, NC | [Apply](https://go.vansh.nyc/ZH) | Rolling / check site
 ✅ [OPEN] | Schweitzer Engineering Laboratories | Software Engineer Intern | Charlotte, NC | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Engineering-Intern_2026-23468) | Rolling / check site
+✅ [OPEN] | First Citizens BancShares | Data Analyst Intern - Enterprise Data Analyst - Data Products | Raleigh, NC | [Apply](https://firstcitizens.jibeapply.com/jobs/36230?icims=1) | Rolling / check site
 ✅ [OPEN] | Wells Fargo | Technology Intern - Early Careers - Data Engineering | Iselin, Woodbridge Township, NJ; Charlotte, NC; Irving, TX | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Data-Engineering-_R-583066) | Rolling / check site
-✅ [OPEN] | Cisco | Software Engineer Data & AI II Intern | San Jose, CA; Milpitas, CA; Research Triangle Park, NC; San Francisco, CA | [Apply](https://go.vansh.nyc/gO) | Rolling / check site
-✅ [OPEN] | Cisco | Software Engineer Data & AI II Intern | San Jose, CA; Milpitas, CA; Research Triangle Park, NC; San Francisco, CA | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-II--Intern----United-States_2026798) | Rolling / check site
-✅ [OPEN] | Cisco | Software Engineer Embedded Systems I Co-op | San Jose, CA; Milpitas, CA; Research Triangle Park, NC | [Apply](https://go.vansh.nyc/gQ) | Rolling / check site
-✅ [OPEN] | Cisco | Software Engineer Embedded Systems I Co-op | San Jose, CA; Milpitas, CA; Research Triangle Park, NC | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Co-op----United-States_2029701) | Rolling / check site
-✅ [OPEN] | John Deere | Software Engineer Intern - Product Engineering | Waterloo, IA; Cary, NC | [Apply](https://johndeere.eightfold.ai/careers/job/137483990265) | Rolling / check site
-✅ [OPEN] | Renesas Electronics | Product Engineer Intern | Morrisville, NC | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000157550697) | Rolling / check site
+✅ [OPEN] | Itron | Systems Engineer Intern | West Union, SC | [Apply](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-South-Carolina-West-Union/Intern---Systems-Engineer--Spring-2027-_JR102789-2) | Rolling / check site
+✅ [OPEN] | Itron | Systems Engineer Intern | West Union, SC | [Apply](https://go.vansh.nyc/115) | Rolling / check site
+✅ [OPEN] | Itron | Systems Engineer Intern | West Union, SC | [Apply](https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-South-Carolina-West-Union/Intern---Systems-Engineer--Spring-2027-_JR102789-1) | Rolling / check site
 ✅ [OPEN] | Current Lighting Employee Co | AI Co-op | Greenville, SC | [Apply](https://go.vansh.nyc/Zi) | Rolling / check site
-✅ [OPEN] | Axon | Software Engineer Intern | Seattle, WA; Arlington County, Arlington, VA | [Apply](https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003) | Rolling / check site
-✅ [OPEN] | Axon | Software Engineer Intern | Seattle, WA; Arlington, VA | [Apply](https://go.vansh.nyc/10l) | Rolling / check site
-✅ [OPEN] | MITRE | Critical Infrastructure Protection Intern | McLean, VA | [Apply](https://go.vansh.nyc/10s) | Rolling / check site
-✅ [OPEN] | MITRE | Data Science and Engineering Intern | McLean, VA | [Apply](https://go.vansh.nyc/10t) | Rolling / check site
-✅ [OPEN] | MITRE | Trustworthy AI Intern | McLean, VA | [Apply](https://go.vansh.nyc/10r) | Rolling / check site
-✅ [OPEN] | RTX | Software Engineer Intern | Sterling, VA | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01885791) | Rolling / check site
+✅ [OPEN] | Tevora | Cybersecurity Intern, Federal | Fairfax, VA; Irvine, CA | [Apply](https://go.vansh.nyc/12b) | Rolling / check site
+✅ [OPEN] | Tevora | Cybersecurity Intern, Healthcare | Irvine, CA; Fairfax, VA | [Apply](https://go.vansh.nyc/12c) | Rolling / check site
+✅ [OPEN] | Tevora | Cybersecurity Intern, Payments | Fairfax, VA; Irvine, CA | [Apply](https://go.vansh.nyc/12d) | Rolling / check site
+✅ [OPEN] | Tevora | Cybersecurity Intern, Solutions | Irvine, CA; Fairfax, VA | [Apply](https://go.vansh.nyc/12e) | Rolling / check site
+✅ [OPEN] | Tevora | Cybersecurity Intern, Threat | Irvine, CA; Fairfax, VA | [Apply](https://go.vansh.nyc/12f) | Rolling / check site
+✅ [OPEN] | Amazon | Software Engineer Intern - Machine Learning/Automated Reasoning | Boston, MA; Seattle, WA; Austin, TX; Irvine, CA; Arlington County, Arlington, VA; NYC; Bellevue, WA; Sunnyvale, CA; San Diego, CA | [Apply](https://amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027) | Rolling / check site
 <!-- END CURRENT OPPORTUNITIES -->
 
 ## Browse and use
