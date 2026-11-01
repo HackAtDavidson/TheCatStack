@@ -25,12 +25,12 @@ Status | Organization | Opportunity | Location | Apply | Deadline
 ✅ [OPEN] | Itron | Systems Engineer Intern | West Union, SC | [Apply](https://go.vansh.nyc/115) | Rolling / check site
 ✅ [OPEN] | Itron | Systems Engineer Intern | West Union, SC | [Apply](https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-South-Carolina-West-Union/Intern---Systems-Engineer--Spring-2027-_JR102789-1) | Rolling / check site
 ✅ [OPEN] | Current Lighting Employee Co | AI Co-op | Greenville, SC | [Apply](https://go.vansh.nyc/Zi) | Rolling / check site
+✅ [OPEN] | Iridium Communications | Software Engineering Intern | McLean, VA; Tempe, AZ; Leesburg, VA; Chandler, AZ | [Apply](https://go.vansh.nyc/137) | Rolling / check site
+✅ [OPEN] | Range | Software Engineering Intern | McLean, VA | [Apply](https://go.vansh.nyc/13l) | Rolling / check site
 ✅ [OPEN] | Tevora | Cybersecurity Intern, Federal | Fairfax, VA; Irvine, CA | [Apply](https://go.vansh.nyc/12b) | Rolling / check site
 ✅ [OPEN] | Tevora | Cybersecurity Intern, Healthcare | Irvine, CA; Fairfax, VA | [Apply](https://go.vansh.nyc/12c) | Rolling / check site
 ✅ [OPEN] | Tevora | Cybersecurity Intern, Payments | Fairfax, VA; Irvine, CA | [Apply](https://go.vansh.nyc/12d) | Rolling / check site
 ✅ [OPEN] | Tevora | Cybersecurity Intern, Solutions | Irvine, CA; Fairfax, VA | [Apply](https://go.vansh.nyc/12e) | Rolling / check site
-✅ [OPEN] | Tevora | Cybersecurity Intern, Threat | Irvine, CA; Fairfax, VA | [Apply](https://go.vansh.nyc/12f) | Rolling / check site
-✅ [OPEN] | Amazon | Software Engineer Intern - Machine Learning/Automated Reasoning | Boston, MA; Seattle, WA; Austin, TX; Irvine, CA; Arlington County, Arlington, VA; NYC; Bellevue, WA; Sunnyvale, CA; San Diego, CA | [Apply](https://amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027) | Rolling / check site
 <!-- END CURRENT OPPORTUNITIES -->
 
 ## Browse and use
