@@ -12,6 +12,15 @@ _Showing up to 20 current opportunities. See the [full catalog](OPPORTUNITIES.md
 Status | Organization | Opportunity | Location | Apply | Deadline
 --- | --- | --- | --- | --- | ---
 ✅ [OPEN] | Trane Technologies | AI & Analytics Intern | Davidson, NC; Minneapolis, MN | [Apply](https://go.vansh.nyc/10w) | Rolling / check site
+✅ [OPEN] | First Citizens BancShares | Data Analyst Intern - Enterprise Data Analyst - Data Products | Raleigh, NC | [Apply](https://firstcitizens.jibeapply.com/jobs/36234?icims=1) | Rolling / check site
+✅ [OPEN] | First Citizens BancShares | Data Analyst Intern, Enterprise Data Products | Raleigh, NC | [Apply](https://go.vansh.nyc/19n) | Rolling / check site
+✅ [OPEN] | LabCorp | Agentic AI Developer Co-op | Durham, NC | [Apply](https://go.vansh.nyc/19P) | Rolling / check site
+✅ [OPEN] | LabCorp | Full-Stack Life Sciences Engineer Co-op | Durham, NC | [Apply](https://go.vansh.nyc/19C) | Rolling / check site
+✅ [OPEN] | Sierra Nevada Corporation | DevOps Engineer Intern | Southern Pines, NC | [Apply](https://go.vansh.nyc/19u) | Rolling / check site
+✅ [OPEN] | Sierra Nevada Corporation | Software Engineer Intern | Southern Pines, NC | [Apply](https://go.vansh.nyc/19v) | Rolling / check site
+✅ [OPEN] | Toshiba Commerce Solutions | Agentic Software Engineering Intern | Durham, NC | [Apply](https://go.vansh.nyc/19T) | Rolling / check site
+✅ [OPEN] | Toshiba Commerce Solutions | AI Data Science & Business Analytics Intern | Durham, NC | [Apply](https://go.vansh.nyc/19U) | Rolling / check site
+✅ [OPEN] | IAT Insurance Group | Cyber Security Intern | Raleigh, NC | [Apply](https://go.vansh.nyc/197) | Rolling / check site
 ✅ [OPEN] | First Citizens BancShares | AI Innovation Intern | Raleigh, NC | [Apply](https://go.vansh.nyc/129) | Rolling / check site
 ✅ [OPEN] | First Citizens BancShares | Summer Intern - AI Innovation | Raleigh, NC | [Apply](https://firstcitizens.jibeapply.com/jobs/36311?icims=1) | Rolling / check site
 ✅ [OPEN] | Hyster-Yale Materials Handling | Business Analytics Intern | Greenville, NC | [Apply](https://hysteryale.wd1.myworkdayjobs.com/hyster-yalecareers/job/HY-US-Greenville-NC-Headquarters/Summer-2027-Business-Analytics-Intern_R8539) | Rolling / check site
@@ -22,15 +31,6 @@ Status | Organization | Opportunity | Location | Apply | Deadline
 ✅ [OPEN] | First Citizens BancShares | Data Analyst Intern - Enterprise Data Analyst - Data Products | Raleigh, NC | [Apply](https://firstcitizens.jibeapply.com/jobs/36230?icims=1) | Rolling / check site
 ✅ [OPEN] | Wells Fargo | Technology Intern - Early Careers - Data Engineering | Iselin, Woodbridge Township, NJ; Charlotte, NC; Irving, TX | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Data-Engineering-_R-583066) | Rolling / check site
 ✅ [OPEN] | Itron | Systems Engineer Intern | West Union, SC | [Apply](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-South-Carolina-West-Union/Intern---Systems-Engineer--Spring-2027-_JR102789-2) | Rolling / check site
-✅ [OPEN] | Itron | Systems Engineer Intern | West Union, SC | [Apply](https://go.vansh.nyc/115) | Rolling / check site
-✅ [OPEN] | Itron | Systems Engineer Intern | West Union, SC | [Apply](https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-South-Carolina-West-Union/Intern---Systems-Engineer--Spring-2027-_JR102789-1) | Rolling / check site
-✅ [OPEN] | Current Lighting Employee Co | AI Co-op | Greenville, SC | [Apply](https://go.vansh.nyc/Zi) | Rolling / check site
-✅ [OPEN] | Iridium Communications | Software Engineering Intern | McLean, VA; Tempe, AZ; Leesburg, VA; Chandler, AZ | [Apply](https://go.vansh.nyc/137) | Rolling / check site
-✅ [OPEN] | Range | Software Engineering Intern | McLean, VA | [Apply](https://go.vansh.nyc/13l) | Rolling / check site
-✅ [OPEN] | Tevora | Cybersecurity Intern, Federal | Fairfax, VA; Irvine, CA | [Apply](https://go.vansh.nyc/12b) | Rolling / check site
-✅ [OPEN] | Tevora | Cybersecurity Intern, Healthcare | Irvine, CA; Fairfax, VA | [Apply](https://go.vansh.nyc/12c) | Rolling / check site
-✅ [OPEN] | Tevora | Cybersecurity Intern, Payments | Fairfax, VA; Irvine, CA | [Apply](https://go.vansh.nyc/12d) | Rolling / check site
-✅ [OPEN] | Tevora | Cybersecurity Intern, Solutions | Irvine, CA; Fairfax, VA | [Apply](https://go.vansh.nyc/12e) | Rolling / check site
 <!-- END CURRENT OPPORTUNITIES -->
 
 ## Browse and use
