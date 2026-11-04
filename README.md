@@ -12,6 +12,12 @@ _Showing up to 20 current opportunities. See the [full catalog](OPPORTUNITIES.md
 Status | Organization | Opportunity | Location | Apply | Deadline
 --- | --- | --- | --- | --- | ---
 ✅ [OPEN] | Trane Technologies | AI & Analytics Intern | Davidson, NC; Minneapolis, MN | [Apply](https://go.vansh.nyc/10w) | Rolling / check site
+✅ [OPEN] | Highmark Health | AI Services and Platforms Software Engineer Intern | New Mexico; Washington; Kansas; Pennsylvania; North Dakota; Oregon; Delaware; Iowa; California; Washington, DC; Vermont; Wyoming; Connecticut; Texas; Montana; Florida; New Hampshire; Nevada; South Carolina; South Dakota; Georgia; Arizona; Mississippi; Tennessee; Virginia; Arkansas; Minnesota; Colorado; Nebraska; Rhode Island; Utah; Kentucky; West Virginia; NYC; Maryland; Hawaii; Wisconsin; Maine; Massachusetts; North Carolina; Oklahoma; Missouri; Ohio; New Jersey; Indiana; Louisiana; Alaska; Michigan; Illinois; Alabama; Idaho | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-AI-Services-and-Platforms-Software-Engineer-Graduate-Intern_J288322) | Rolling / check site
+✅ [OPEN] | Arch Capital Group | Originations Portal IT Intern | Greensboro, NC | [Apply](https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Originations-Portal-IT-Intern_R26_1135) | Rolling / check site
+✅ [OPEN] | Arch Capital Group | Originations Portal IT Intern | Greensboro, NC | [Apply](https://go.vansh.nyc/1et) | Rolling / check site
+✅ [OPEN] | Direct Supply | Software Engineer Intern | Milwaukee, WI; Durham, NC | [Apply](https://go.vansh.nyc/1eq) | Rolling / check site
+✅ [OPEN] | First Citizens BancShares | Applied AI Intern | Raleigh, NC | [Apply](https://go.vansh.nyc/1fD) | Rolling / check site
+✅ [OPEN] | First Citizens BancShares | Applied AI Intern | Raleigh, NC | [Apply](https://firstcitizens.jibeapply.com/jobs/36413?icims=1) | Rolling / check site
 ✅ [OPEN] | Inmar Intelligence | Data, Analytics & AI Intern | Winston Salem, NC | [Apply](https://go.vansh.nyc/1d1) | Rolling / check site
 ✅ [OPEN] | Inmar Intelligence | Software Engineering Intern | Winston Salem, NC | [Apply](https://go.vansh.nyc/1d2) | Rolling / check site
 ✅ [OPEN] | Q2 | Data Science Intern | Cary, NC | [Apply](https://go.vansh.nyc/1dg) | Rolling / check site
@@ -25,12 +31,6 @@ Status | Organization | Opportunity | Location | Apply | Deadline
 ✅ [OPEN] | LabCorp | Full-Stack Life Sciences Engineer Co-op | Durham, NC | [Apply](https://go.vansh.nyc/19C) | Rolling / check site
 ✅ [OPEN] | LabCorp | Full-Stack Life Sciences Software Engineer Co-op | Durham, NC; Burlington, NC | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Full-Stack-Life-Sciences-Engineer_2639083) | Rolling / check site
 ✅ [OPEN] | Renesas Electronics | Product Engineer Intern | Morrisville, NC | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000159218106) | Rolling / check site
-✅ [OPEN] | Sierra Nevada Corporation | DevOps Engineer Intern | Southern Pines, NC | [Apply](https://go.vansh.nyc/19u) | Rolling / check site
-✅ [OPEN] | Sierra Nevada Corporation | Software Engineer Intern | Southern Pines, NC | [Apply](https://go.vansh.nyc/19v) | Rolling / check site
-✅ [OPEN] | Toshiba Commerce Solutions | Agentic Software Engineering Intern | Durham, NC | [Apply](https://go.vansh.nyc/19T) | Rolling / check site
-✅ [OPEN] | Toshiba Commerce Solutions | AI Data Science & Business Analytics Intern | Durham, NC | [Apply](https://go.vansh.nyc/19U) | Rolling / check site
-✅ [OPEN] | Toshiba Commerce Solutions | Software Engineering Intern | Durham, NC | [Apply](https://go.vansh.nyc/19Y) | Rolling / check site
-✅ [OPEN] | Toshiba Global Commerce Solutions | Agentic Software Engineer Intern | Durham, NC | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5279504007) | Rolling / check site
 <!-- END CURRENT OPPORTUNITIES -->
 
 ## Browse and use

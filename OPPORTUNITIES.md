@@ -2,7 +2,7 @@
 
 > A living catalog of opportunities for Hack@Davidson members. Automatic internship listings are limited to undergraduate roles posted within the configured freshness window; community-submitted records remain visible for human review and future cycles.
 
-_Last refreshed: 2026-11-03 by the opportunity collector._
+_Last refreshed: 2026-11-04 by the opportunity collector._
 
 ## Contents
 
@@ -16,15 +16,23 @@ Status is based on the recorded deadline. Verify eligibility, work authorization
 
 Status | Organization | Opportunity | Location | Application | Deadline | Date posted
 --- | --- | --- | --- | --- | --- | ---
+✅ [OPEN] | Nokia | Optoelectronics Test Mech Development Intern | Allentown, PA | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41694) | Rolling / check site | 2026-11-04
 ✅ [OPEN] | Alcon | Software, Data & AI Engineering Intern | Fort Worth, TX; Lake Forest, CA; Johns Creek, GA; Houston, TX; Goleta, CA | [Apply](https://go.vansh.nyc/1bZ) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Allegion | Digital Manufacturing Intern | Colorado Springs, CO | [Apply](https://go.vansh.nyc/1c2) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Allegion | Firmware Engineer Intern, Advanced Development | Indianapolis, IN | [Apply](https://go.vansh.nyc/1c1) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Allegion | Software Engineering Intern | Golden, CO | [Apply](https://go.vansh.nyc/1c3) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Allegion | Software Engineering Intern, DevOps | Carmel, IN; Golden, CO | [Apply](https://go.vansh.nyc/1c0) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | American Express | Campus Undergraduate Summer Internship Program - Software Engineer 2027 - Enterprise Technology Services | Sunnyvale, CA | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015722) | Rolling / check site | 2026-11-03
+✅ [OPEN] | American Express | Cybersecurity AI Engineer Intern - Enterprise Technology Services | Phoenix, AZ | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016065) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | American Express | Undergraduate Program Cybersecurity AI Engineer Intern, Enterprise Technology Services | Phoenix, AZ | [Apply](https://go.vansh.nyc/1dS) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | American Express | Undergraduate Program Software Engineer Intern, Enterprise Technology Services | Sunnyvale, CA | [Apply](https://go.vansh.nyc/1dH) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Apache Industrial | AI Implementation Intern | Houston, TX | [Apply](https://apacheip.wd1.myworkdayjobs.com/apache_careers/job/Houston-Headquarters/AI-Implementation-Intern_R115430) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Apache Industrial | AI Implementation Intern | Houston, TX | [Apply](https://go.vansh.nyc/1fA) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Arch Capital Group | Data and Analytics Intern | Farmington, CT | [Apply](https://go.vansh.nyc/1dE) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Arch Capital Group | Originations Portal IT Intern | Greensboro, NC | [Apply](https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Originations-Portal-IT-Intern_R26_1135) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Arch Capital Group | Originations Portal IT Intern | Greensboro, NC | [Apply](https://go.vansh.nyc/1et) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Arlo Technologies | Firmware Developer Co-op | Richmond, Canada | [Apply](https://go.vansh.nyc/1fB) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Arrowstreet Capital | Software Engineer Intern | Boston, MA | [Apply](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Software-Engineer-Intern--Summer-2027_R1561) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Arrowstreet Capital | Software Engineer Intern | Boston, MA | [Apply](https://go.vansh.nyc/1dK) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | AspenTech | Software Development Intern, Digital Grid Management | Medina, MN | [Apply](https://go.vansh.nyc/1c7) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | ATC | Cyber Security Intern | Pewaukee, WI | [Apply](https://go.vansh.nyc/1bS) | Rolling / check site | 2026-11-03
@@ -35,9 +43,16 @@ Status | Organization | Opportunity | Location | Application | Deadline | Date p
 ✅ [OPEN] | Auto-Owners Insurance | Software Developer Intern | Lansing, MI | [Apply](https://go.vansh.nyc/1cM) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Axos Bank | AI Engineer Intern | San Diego, CA | [Apply](https://go.vansh.nyc/1bU) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Axos Bank | Software Development Intern | San Diego, CA | [Apply](https://go.vansh.nyc/1bT) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Baird | Quality Assurance Automation Engineer Intern | Milwaukee, WI | [Apply](https://go.vansh.nyc/1f0) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Baird | Software Developer Intern | Milwaukee, WI; Madison, WI | [Apply](https://go.vansh.nyc/1eZ) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Blackberry | Software Developer Intern | Ottawa, Canada | [Apply](https://go.vansh.nyc/1fe) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Blackberry | Software Development Intern | Ottawa, Canada | [Apply](https://go.vansh.nyc/1ff) | Rolling / check site | 2026-11-03
+✅ [OPEN] | BlueCross BlueShield of Nebraska | Data Intern, Healthcare | Omaha, NE | [Apply](https://go.vansh.nyc/1fk) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Booz Allen Hamilton | Cyber Security Intern | Colorado Springs, CO | [Apply](https://go.vansh.nyc/1bV) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Booz Allen Hamilton | Data Scientist Intern | Colorado Springs, CO | [Apply](https://go.vansh.nyc/1bW) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Bose | Electrical Engineering Co-op, FPGA and Audio Research Platforms | Framingham, MA | [Apply](https://go.vansh.nyc/1dW) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Bose | Software/DSP Research Engineer Co-op | Framingham, MA | [Apply](https://go.vansh.nyc/1es) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Bose | Software/DSP Research Engineer Co-op | Framingham, MA | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Software-DSP-Research-Engineer-Co-op_R29369) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Botpress Technologies | Software Developer Intern | Montreal, QC, Canada | [Apply](https://apply.workable.com/botpress/j/9B3CB646E8/apply) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Botpress Technologies | Software Developer Intern | Montreal, Canada | [Apply](https://go.vansh.nyc/1dR) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Bracco | Software Engineering Intern | Eden Prairie, MN | [Apply](https://go.vansh.nyc/1bX) | Rolling / check site | 2026-11-03
@@ -48,7 +63,11 @@ Status | Organization | Opportunity | Location | Application | Deadline | Date p
 ✅ [OPEN] | Cambridge Investment Research | Salesforce Developer Intern | Phoenix, AZ; Fairfield, IA | [Apply](https://go.vansh.nyc/1ci) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Cambridge Investment Research | Software Engineering Intern | Fairfield, IA; West Des Moines, IA; Phoenix, AZ | [Apply](https://go.vansh.nyc/1ch) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | CareSource | Data Science Intern | Remote; United States | [Apply](https://go.vansh.nyc/1dQ) | Rolling / check site | 2026-11-03
+✅ [OPEN] | CFS Energy | Software Engineer Intern | Devens, MA | [Apply](https://go.vansh.nyc/1e7) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Charter Manufacturing | Automation & Analytics Intern | Milwaukee, WI | [Apply](https://go.vansh.nyc/1cf) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Ciena | Hardware Engineering Co-op | Ottawa, ON, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineering-Co-op--Winter-2027-_R032054) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Ciena | Software Developer Co-op | Quebec, Canada; Remote; Canada | [Apply](https://go.vansh.nyc/1fg) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Ciena | Software Developer Co-op Intern | Remote in Canada; Québec City, QC, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---Software-developer-Intern-Co-op_R032046) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Cincinnati Children’s Hospital and Medical Center | Student II Security Analyst Intern | Remote; United States | [Apply](https://go.vansh.nyc/1cq) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Clarios | Forward Deployed Engineering Intern | Milwaukee, WI | [Apply](https://go.vansh.nyc/1ck) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Clio | Software Developer Co-op | Toronto, Canada; Vancouver, Canada; Calgary, Canada | [Apply](https://go.vansh.nyc/1co) | Rolling / check site | 2026-11-03
@@ -56,59 +75,115 @@ Status | Organization | Opportunity | Location | Application | Deadline | Date p
 ✅ [OPEN] | CNA Insurance | Cybersecurity Intern, Technology | Chicago, IL | [Apply](https://go.vansh.nyc/1cc) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | CNA Insurance | Data Engineering Intern, Technology | Chicago, IL | [Apply](https://go.vansh.nyc/1cb) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | CNA Insurance | Software Engineering Intern, Technology | Chicago, IL | [Apply](https://go.vansh.nyc/1c9) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Commonwealth Fusion Systems | Software Engineer Intern | Devens, MA | [Apply](https://jobs.lever.co/cfsenergy/f71bb176-75b9-4a30-8b2a-e3078b45505d/apply) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | CWAN | Gen AI Intern | Seattle, WA | [Apply](https://go.vansh.nyc/1cn) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | CWAN | Software Development Intern | Boise, ID | [Apply](https://go.vansh.nyc/1cl) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | CWAN | Software Development Intern | Chicago, IL | [Apply](https://go.vansh.nyc/1cm) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Dairyland Power Cooperative | Energy Data Analyst Intern | La Crosse, WI | [Apply](https://go.vansh.nyc/1f1) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Dell Technologies | Software Engineering Undergraduate Intern, CSG | United States | [Apply](https://go.vansh.nyc/1dN) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Dimensional Fund Advisors | Software Engineer Intern | Austin, TX | [Apply](https://go.vansh.nyc/1fh) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Direct Supply | AI Engineer Intern | Milwaukee, WI | [Apply](https://go.vansh.nyc/1ep) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Direct Supply | Software Engineer Intern | Milwaukee, WI; Durham, NC | [Apply](https://go.vansh.nyc/1eq) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | DriveTime | Data Science Intern | Tempe, AZ; Dallas, TX | [Apply](https://go.vansh.nyc/1ct) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | DriveTime | Database Engineering Intern | Tempe, AZ | [Apply](https://go.vansh.nyc/1cs) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | DriveTime | Software Engineering Intern | Tempe, AZ | [Apply](https://go.vansh.nyc/1cr) | Rolling / check site | 2026-11-03
+✅ [OPEN] | DuCharme, McMillen & Associates | Cybersecurity Intern | Fort Wayne, IN | [Apply](https://go.vansh.nyc/1f4) | Rolling / check site | 2026-11-03
+✅ [OPEN] | DuCharme, McMillen & Associates | IT Quality Assurance Intern | Lisle, IL | [Apply](https://go.vansh.nyc/1f2) | Rolling / check site | 2026-11-03
+✅ [OPEN] | DuCharme, McMillen & Associates | IT Quality Assurance Intern | Lisle, IL | [Apply](https://go.vansh.nyc/1f3) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Ecolab | Digital & AI Technology Intern | Saint Paul, MN; Eagan, MN; Naperville, IL | [Apply](https://go.vansh.nyc/1fF) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Electronic Arts | Anticheat Engineer Intern | Austin, TX | [Apply](https://go.vansh.nyc/1fN) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Electronic Arts | Anticheat Engineer Intern | Austin, TX | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Anticheat-Engineer-Intern-Summer-2027/216242) | Rolling / check site | 2026-11-03
+✅ [OPEN] | EMC Insurance | Cybersecurity Intern | United States | [Apply](https://go.vansh.nyc/1ei) | Rolling / check site | 2026-11-03
+✅ [OPEN] | ENFOS | Software Engineer Intern | Chicago, IL | [Apply](https://go.vansh.nyc/1eo) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Engramme | Back-End Software Engineer Co-op | San Francisco, CA | [Apply](https://go.vansh.nyc/1fx) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Engramme | Full-Stack Software Engineer Co-op | San Francisco, CA | [Apply](https://go.vansh.nyc/1fy) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Engramme | Machine Learning Engineer Co-op | San Francisco, CA | [Apply](https://go.vansh.nyc/1fz) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Erie Insurance Group | Claims Systems & AI Intern 2 | Erie, PA | [Apply](https://jobs.erieinsurance.com/job/Erie-Intern-II-(Claims-Systems-&-AI)-PA-16506/1447480500/?ats=successfactors) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Eurofins | Business Intelligence Intern | Lancaster, PA | [Apply](https://go.vansh.nyc/1dC) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | FHLBank Chicago | Cybersecurity Intern | Chicago, IL | [Apply](https://go.vansh.nyc/1cN) | Rolling / check site | 2026-11-03
+✅ [OPEN] | First Citizens BancShares | Applied AI Intern | Raleigh, NC | [Apply](https://go.vansh.nyc/1fD) | Rolling / check site | 2026-11-03
+✅ [OPEN] | First Citizens BancShares | Applied AI Intern | Raleigh, NC | [Apply](https://firstcitizens.jibeapply.com/jobs/36413?icims=1) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Flextronics International | Manufacturing Data & Analytics Co-op | Libertyville, IL | [Apply](https://go.vansh.nyc/1dl) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | GenMD | Member of Technical Staff Intern - Applied AI | Palo Alto, CA | [Apply](https://jobs.ashbyhq.com/genmd/47c4fc76-f21f-402b-9d5c-45bafe30aa2c/application?embed=true) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | GenMD | Member of Technical Staff Intern, Applied AI | Palo Alto, CA | [Apply](https://go.vansh.nyc/1bK) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Global Relay | Java Developer Co-op | Halifax, Canada | [Apply](https://go.vansh.nyc/1fE) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Global Relay | Java Developer Co-op | Halifax Regional Municipality, NS, Canada | [Apply](https://www.globalrelay.com/careers/jobs?gh_jid=6241594004) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Global Relay | Java Developer Co-op | Vancouver, Canada | [Apply](https://go.vansh.nyc/1ej) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Gordon Food Service | Cloud DevOps Intern | Atlanta, GA | [Apply](https://go.vansh.nyc/1cv) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Graco | AI Intern | Dayton, MN | [Apply](https://go.vansh.nyc/1cx) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Graco | Cybersecurity Intern | Dayton, MN | [Apply](https://go.vansh.nyc/1cy) | Rolling / check site | 2026-11-03
+✅ [OPEN] | GreatAmerica Financial Services | Platform Engineering Intern | Cedar Rapids, IA | [Apply](https://go.vansh.nyc/1fj) | Rolling / check site | 2026-11-03
+✅ [OPEN] | GreatAmerica Financial Services | Quality Assurance Analyst Intern | Cedar Rapids, IA; Des Moines, IA | [Apply](https://go.vansh.nyc/1fi) | Rolling / check site | 2026-11-03
+✅ [OPEN] | GreatAmerica Financial Services | Software Engineer Intern | Cedar Rapids, IA | [Apply](https://go.vansh.nyc/1fo) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Guardian Life | AI & Machine Learning Intern, Digital & Technology | New York, NY; Bethlehem, PA; Holmdel, NJ | [Apply](https://go.vansh.nyc/1cW) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Guardian Life | Application Development Intern, Digital & Technology | New York, NY; Bethlehem, PA; Holmdel, NJ | [Apply](https://go.vansh.nyc/1cX) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Guardian Life | Cloud & DevOps Intern, Digital & Technology | Bethlehem, PA; Holmdel, NJ | [Apply](https://go.vansh.nyc/1cY) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Guardian Life | Cybersecurity Intern, Digital & Technology | New York, NY; Bethlehem, PA; Holmdel, NJ | [Apply](https://go.vansh.nyc/1cZ) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Guardian Life | Data Engineering Intern, Digital & Technology | New York, NY; Bethlehem, PA; Holmdel, NJ | [Apply](https://go.vansh.nyc/1cV) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Hearst | Editorial AI Development Intern | San Francisco, CA | [Apply](https://go.vansh.nyc/1fC) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Hewlett Packard (HP) | Software Engineering Intern, AIML Platform | San Francisco, CA | [Apply](https://go.vansh.nyc/1e0) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Hewlett Packard (HP) | Software Engineering Intern, Product & Developer Productivity | San Francisco, CA | [Apply](https://go.vansh.nyc/1e4) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Hewlett Packard Enterprise | Hardware Engineer Intern | Westford, MA | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Westford-Massachusetts-United-States-of-America/Hardware-Engineering-Intern_1214170) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Hewlett Packard Enterprise | Hardware Engineering Intern | Westford, MA | [Apply](https://go.vansh.nyc/1ed) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Highmark Health | AI Services and Platforms Software Engineer Intern | New Mexico; Washington; Kansas; Pennsylvania; North Dakota; Oregon; Delaware; Iowa; California; Washington, DC; Vermont; Wyoming; Connecticut; Texas; Montana; Florida; New Hampshire; Nevada; South Carolina; South Dakota; Georgia; Arizona; Mississippi; Tennessee; Virginia; Arkansas; Minnesota; Colorado; Nebraska; Rhode Island; Utah; Kentucky; West Virginia; NYC; Maryland; Hawaii; Wisconsin; Maine; Massachusetts; North Carolina; Oklahoma; Missouri; Ohio; New Jersey; Indiana; Louisiana; Alaska; Michigan; Illinois; Alabama; Idaho | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-AI-Services-and-Platforms-Software-Engineer-Graduate-Intern_J288322) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Highmark Health | Vulnerability Management Analyst Undergraduate Intern | Remote; United States | [Apply](https://go.vansh.nyc/1e9) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Honeywell | Electronics Engineer Intern | Leicestershire, UK | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159006) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Honeywell | Electronics Engineer Intern | Leicestershire, UK | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159005) | Rolling / check site | 2026-11-03
+✅ [OPEN] | HP Inc. | Software Engineer Intern - AIML Platform - HP IQ | SF | [Apply](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--AIML-Platform---HP-IQ_UNI4800-1) | Rolling / check site | 2026-11-03
+✅ [OPEN] | HP Inc. | Software Engineer Intern - AIML Platform - HP IQ | SF | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--AIML-Platform---HP-IQ_UNI4800) | Rolling / check site | 2026-11-03
+✅ [OPEN] | HP Inc. | Software Engineer Intern - Product & Developer Productivity | SF | [Apply](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4803-1) | Rolling / check site | 2026-11-03
+✅ [OPEN] | HP Inc. | Software Engineer Intern - Product & Developer Productivity | SF | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4803) | Rolling / check site | 2026-11-03
+✅ [OPEN] | ICD | Cyber Security Intern | New York, NY | [Apply](https://go.vansh.nyc/1eu) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | IGS Energy | Software Engineer Intern | Remote; United States | [Apply](https://go.vansh.nyc/1d0) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Ingredion | AI & Data Scientist Intern | Westchester, IL | [Apply](https://go.vansh.nyc/1dn) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Ingredion | Global Supply Chain Data Science Intern | Westchester, IL | [Apply](https://go.vansh.nyc/1do) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Inmar Intelligence | Data, Analytics & AI Intern | Winston Salem, NC | [Apply](https://go.vansh.nyc/1d1) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Inmar Intelligence | Software Engineering Intern | Winston Salem, NC | [Apply](https://go.vansh.nyc/1d2) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Insulet Corporation | Embedded Software Test Engineering Co-op | Acton, MA | [Apply](https://go.vansh.nyc/1dp) | Rolling / check site | 2026-11-03
+✅ [OPEN] | JM Family | AI & Decision Science Intern | Deerfield Beach, FL | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI---Decision-Science-Intern_JR105095) | Rolling / check site | 2026-11-03
+✅ [OPEN] | JM Family | AI Center of Excellence Delivery Team Intern | Deerfield Beach, FL | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI-Center-of-Excellence--COE--Delivery-Team-Intern_JR105176) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | JM Family Enterprises | AI & Decision Science Intern | Deerfield Beach, FL | [Apply](https://go.vansh.nyc/1dZ) | Rolling / check site | 2026-11-03
+✅ [OPEN] | JM Family Enterprises | AI Center of Excellence Delivery Team Intern | Deerfield Beach, FL | [Apply](https://go.vansh.nyc/1fK) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Johnson & Johnson | Data Science Co-op | Cincinnati, OH | [Apply](https://go.vansh.nyc/1cB) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Johnson & Johnson | Heart Recovery Software R&D Co-op | Halethorpe, MD | [Apply](https://go.vansh.nyc/1cE) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Johnson & Johnson | Software Engineering Co-op | Danvers, MA | [Apply](https://go.vansh.nyc/1cC) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Johnson & Johnson | Software Engineering Co-op | Cincinnati, OH | [Apply](https://go.vansh.nyc/1cz) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Johnson & Johnson | Software Engineering Co-op | Cincinnati, OH | [Apply](https://go.vansh.nyc/1cA) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Johnson & Johnson | Software Test Engineering Co-op | Danvers, MA | [Apply](https://go.vansh.nyc/1cD) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Jomboy Media | Business Intelligence Intern | NYC | [Apply](https://job-boards.greenhouse.io/jomboymedia/jobs/4477954009) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Jomboy Media | Business Intelligence Intern | NYC | [Apply](https://job-boards.greenhouse.io/jomboymedia/jobs/4478036009) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Kabam | Operations Product Manager Co-op | Vancouver, BC, Canada | [Apply](https://jobs.lever.co/kabam/3c37f284-4ba4-4f74-93f7-d224b910e5c9/apply) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Ketjen | Data Science Intern | Houston, TX | [Apply](https://go.vansh.nyc/1fd) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Keysight Technologies | DevSecOps Intern | Colorado Springs, CO | [Apply](https://go.vansh.nyc/1dt) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Keysight Technologies | R&D Software Engineer Intern | Colorado Springs, CO | [Apply](https://jobs.keysight.com/jobs/56415?icims=1) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Manulife Financial | AI Co-op | Toronto, Canada | [Apply](https://go.vansh.nyc/1dA) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Maricopa Association of Governments | Socioeconomic Data Intern | Phoenix, AZ | [Apply](https://go.vansh.nyc/1dx) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Marvell | Hardware Signal Integrity Intern | Santa Clara, CA | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Hardware-Signal-Integrity-Intern--MS---Summer-2027_2603877) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Marvell | Hardware Signal Integrity Intern | Santa Clara, CA | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Hardware-Signal-Integrity-Intern--MS---Summer-2027_2603877-1) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Marvell | Security Verification/Validation Engineer Intern | Chandler, AZ | [Apply](https://go.vansh.nyc/1dy) | Rolling / check site | 2026-11-03
+✅ [OPEN] | McKesson | CMM Technology Intern | Columbus, OH | [Apply](https://go.vansh.nyc/1fp) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Micron Technology | AI Engineering Intern, SMAI TD | Boise, ID | [Apply](https://go.vansh.nyc/1d5) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Micron Technology | Data Center SSD Firmware Intern | Longmont, CO | [Apply](https://go.vansh.nyc/1d3) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Micron Technology | Firmware Engineer Intern | Longmont, CO | [Apply](https://go.vansh.nyc/1d4) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Micron Technology | IT Software Engineer Intern | Boise, ID | [Apply](https://go.vansh.nyc/1d6) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Micron Technology | SSD Firmware Intern, CICD | Longmont, CO | [Apply](https://go.vansh.nyc/1d7) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Micron Technology | System Engineer Intern, HBM | Boise, ID | [Apply](https://go.vansh.nyc/1bI) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Microsoft | Software Engineer Intern | Redmond, WA | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557037859) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Microsoft | Software Engineer Intern, Teamwork Experiences | Redmond, WA | [Apply](https://go.vansh.nyc/1dY) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Moderna | mRNA Design Engineer Co-op | Cambridge, MA | [Apply](https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--mRNA-Design-Engineering_R20128) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Moderna | mRNA Design Engineering Co-op | Cambridge, MA | [Apply](https://go.vansh.nyc/1fa) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Momentive | Data Science Intern, Enterprise Reporting & Analytics | Niskayuna, NY | [Apply](https://go.vansh.nyc/1cF) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Mosaic | Artificial Intelligence Co-op Intern | Lithia, FL | [Apply](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Artificial-Intelligence-Co-Op-Intern---Summer-2027_65420) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Newrez | Software Developer Intern | Coppell, TX | [Apply](https://go.vansh.nyc/1cG) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Nex | Software Engineer Intern - Sports & Fitness - Game Development | San Jose, CA | [Apply](https://job-boards.greenhouse.io/nex/jobs/5421056008) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Nex | Software Engineer Intern, Sports & Fitness Game Development | San Jose, CA | [Apply](https://go.vansh.nyc/1fL) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | NJM Insurance Group | IT QA Automation Intern | Trenton, NJ | [Apply](https://go.vansh.nyc/1d9) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Northrop Grumman | Cyber Systems Engineer Intern | Roy, UT | [Apply](https://go.vansh.nyc/1dD) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Northrop Grumman | Engineering Software Tool Development Intern, Field Engineering | Baltimore, MD | [Apply](https://go.vansh.nyc/1dO) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Northrop Grumman | Flight Software Engineer Intern | Manhattan Beach, CA | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Flight-Software-Engineer-Intern---Redondo-Beach-CA_R10259032) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Northrop Grumman | Flight Software Engineer Intern | Manhattan Beach, CA | [Apply](https://go.vansh.nyc/1dV) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Northrop Grumman | Ground Software Engineer Intern | Redondo Beach, CA | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Ground-Software-Engineer-Intern---Redondo-Beach-CA_R10259057) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Northrop Grumman | Ground Software Engineer Intern | Redondo Beach, CA | [Apply](https://go.vansh.nyc/1e5) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Northrop Grumman | Software Engineer Intern | Linthicum, MD | [Apply](https://go.vansh.nyc/1d8) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | NVIDIA | AI Compiler and Kernel Intern | Austin, TX | [Apply](https://go.vansh.nyc/1bR) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | NVIDIA | Math Libraries Intern, cuEST | Santa Clara, CA | [Apply](https://go.vansh.nyc/1bE) | Rolling / check site | 2026-11-03
@@ -118,35 +193,72 @@ Status | Organization | Opportunity | Location | Application | Deadline | Date p
 ✅ [OPEN] | Paccar | Product Planning Intern | Denton, TX | [Apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Product-Planning-TX-76205-7864/1453917433/?ats=successfactors) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Paccar | Software Developer Intern | Denton, TX | [Apply](https://go.vansh.nyc/1dr) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Paccar | Software Developer Intern | Denton, TX | [Apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Software-Developer-TX-76205-7864/1453615433/?ats=successfactors) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Pacific Northwest National Laboratory | Undergraduate Tech Intern - Electrical Engineering | Richland, WA | [Apply](https://careers.pnnl.gov/jobs/13023?icims=1) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Q2 | Data Science Intern | Austin, TX | [Apply](https://go.vansh.nyc/1dd) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Q2 | Data Science Intern | Cary, NC | [Apply](https://go.vansh.nyc/1dg) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Q2 | Machine Learning Engineer Intern | Cary, NC | [Apply](https://go.vansh.nyc/1dh) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Q2 | Machine Learning Engineer Intern | Austin, TX | [Apply](https://go.vansh.nyc/1de) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Q2 | Software Engineer Intern | Cary, NC | [Apply](https://go.vansh.nyc/1df) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Q2 | Software Engineer Intern | Austin, TX | [Apply](https://go.vansh.nyc/1dc) | Rolling / check site | 2026-11-03
+✅ [OPEN] | RAVE Aerospace | Software Engineering Intern | Laramie, WY | [Apply](https://go.vansh.nyc/1eX) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Regeneron Pharmaceuticals | Data Analytics & Digital Tools Co-op (IOPS) | Rensselaer, NY | [Apply](https://go.vansh.nyc/1dq) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Republic Airways | Data Analytics Intern | Carmel, IN | [Apply](https://go.vansh.nyc/1fq) | Rolling / check site | 2026-11-03
+✅ [OPEN] | RGA Reinsurance Company | Data Analyst Intern | Chesterfield, MO | [Apply](https://rgare.wd1.myworkdayjobs.com/en-US/Careers/job/United-States-Chesterfield-MO-RGA-HQ/Summer-Intern---Data-Analyst_J29309) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | RGA Reinsurance Company | Data Analyst Intern | Chesterfield, MO | [Apply](https://go.vansh.nyc/1dL) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Robert Bosch Venture Capital | Quality Projects Intern | Worcester, UK | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000159363644) | Rolling / check site | 2026-11-03
+✅ [OPEN] | RoboForce | Machine Learning Engineer Intern - AI & Robotics | Milpitas, CA | [Apply](https://job-boards.greenhouse.io/roboforce/jobs/5470001008) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Rockwell Automation | Embedded Software Engineer Co-op | Milwaukee, WI; Mayfield Heights, OH | [Apply](https://go.vansh.nyc/1di) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Rockwell Automation | Robotics Research Co-op, Data Engineering | Waterloo, Canada | [Apply](https://go.vansh.nyc/1dj) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | RTX | Cyber Research Intern | Cedar Rapids, IA | [Apply](https://go.vansh.nyc/1cR) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | RTX | Secure System Engineering Intern | Windsor Locks, CT | [Apply](https://go.vansh.nyc/1du) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | RTX | Software Engineer Co-op | Cedar Rapids, IA | [Apply](https://go.vansh.nyc/1cP) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | RTX | Software Engineer Co-op | Cedar Rapids, IA | [Apply](https://go.vansh.nyc/1cO) | Rolling / check site | 2026-11-03
+✅ [OPEN] | RTX | Software Engineer Intern | West Valley City, UT | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | RTX | Software Engineering Co-op, AGS | Cedar Rapids, IA | [Apply](https://go.vansh.nyc/1cQ) | Rolling / check site | 2026-11-03
+✅ [OPEN] | RTX | Software Engineering Intern | West Valley City, UT | [Apply](https://go.vansh.nyc/1e6) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | RTX | Systems Engineer Co-op | Cedar Rapids, IA | [Apply](https://go.vansh.nyc/1cU) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | RTX | Systems Engineer Intern, Mission Sensor Manager | Cedar Rapids, IA | [Apply](https://go.vansh.nyc/1cT) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Samsung Research America | Agentic AI Solutions Intern | Mountain View, CA | [Apply](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8926019002) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Samsung Research America Internship | Agentic AI Solutions Intern | Mountain View, CA | [Apply](https://go.vansh.nyc/1dP) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Seaspan | Logistics Support Analysis Intern | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9160) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Sherwin-Williams | R&D Data Visualization Intern | Brecksville, OH | [Apply](https://go.vansh.nyc/1eh) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Sherwin-Williams | R&D Data Visualization Intern | Brecksville, OH | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2628298) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Sierra Nevada Corporation | Software Engineer Intern | Southern Pines, NC | [Apply](https://go.vansh.nyc/1dz) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Simon Property Group | Data Engineering Intern | Indianapolis, IN | [Apply](https://go.vansh.nyc/1ft) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Simon Property Group | Front End Developer Intern | Indianapolis, IN | [Apply](https://go.vansh.nyc/1fs) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Simon Property Group | Project Delivery Intern | Indianapolis, IN | [Apply](https://go.vansh.nyc/1fr) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | SouthState Bank | Quantitative Intern | Remote; United States | [Apply](https://go.vansh.nyc/1cH) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Spring Venture Group | Data Integrity Specialist Intern | Kansas City, MO | [Apply](https://jobs.smartrecruiters.com/SpringVentureGroup1/744000159509589) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Staples | Software Engineer Intern - SDS e-Commerce Team | Framingham, MA | [Apply](https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77133) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Staples | Software Engineer Intern, SDS e-Commerce Team | Framingham, MA | [Apply](https://go.vansh.nyc/1fw) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Sun Life | Business Operations Software Engineer Co-op | Milwaukee, WI; Kansas City, MO; Hartford, CT; Portland, ME; Wellesley, MA | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Milwaukee-Wisconsin/Business-Operations-Software-Engineer---2027-Co-op_JR00128846-1) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Sun Life | Business Operations Software Engineer Co-op | Milwaukee, WI; Wellesley Hills, MA; Hartford, CT; Portland, ME; Kansas City, MO | [Apply](https://go.vansh.nyc/1fl) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | SWBC | Application Security Intern | San Antonio, TX | [Apply](https://go.vansh.nyc/1cK) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | SWBC | DevOps Intern | San Antonio, TX | [Apply](https://go.vansh.nyc/1cJ) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | SWBC | Software Engineering Intern | San Antonio, TX | [Apply](https://go.vansh.nyc/1cI) | Rolling / check site | 2026-11-03
+✅ [OPEN] | T-Mobile | Software Engineering Intern | Atlanta, GA | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380652) | Rolling / check site | 2026-11-03
+✅ [OPEN] | T-Mobile | Software Engineering Intern | Atlanta, GA | [Apply](https://go.vansh.nyc/1f5) | Rolling / check site | 2026-11-03
+✅ [OPEN] | T-Mobile | T-Ads Software Engineer Intern | Philadelphia, PA | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381234) | Rolling / check site | 2026-11-03
+✅ [OPEN] | T-Mobile | T-Ads Software Engineering Intern | Philadelphia, PA | [Apply](https://go.vansh.nyc/1er) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Texas Instruments | Validation/Characterization Engineering Intern | Santa Clara, CA | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25012970) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | The Mosaic Company | Artificial Intelligence Co-op | Tampa, FL | [Apply](https://go.vansh.nyc/1dB) | Rolling / check site | 2026-11-03
+✅ [OPEN] | The New York Times | Advertising Business Data Analyst Intern | NYC | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4750496005) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Toshiba Commerce Solutions | AI Software Engineering Intern | Frisco, TX | [Apply](https://go.vansh.nyc/1e8) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Toshiba Global Commerce Solutions | AI Software Engineer Intern | Frisco, TX | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5283178007) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Trimble | AI Developer Intern | Dayton, OH | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OH-Dayton/AI-Developer-Intern_R58195) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Trimble | AI Developer Intern | Westminster, CO; Dayton, OH | [Apply](https://go.vansh.nyc/1dM) | Rolling / check site | 2026-11-03
+✅ [OPEN] | TruStage | Innovation & AI Technology Intern | Madison, WI | [Apply](https://trustage.wd1.myworkdayjobs.com/TruStage/job/Madison-WI/IT---Innovation---AI-Technology-Internship--Hybrid-_R-012293) | Rolling / check site | 2026-11-03
+✅ [OPEN] | TruStage | IT Intern, Innovation & AI Technology | Madison, WI | [Apply](https://go.vansh.nyc/1fm) | Rolling / check site | 2026-11-03
+✅ [OPEN] | TWG Global | AI Engineering Intern | Santa Monica, CA | [Apply](https://go.vansh.nyc/1eY) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Two Six Technologies | Research Intern | Arlington County, Arlington, VA | [Apply](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236149004) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Two Six Technologies | Security Operations Intern | Arlington, VA | [Apply](https://go.vansh.nyc/1dI) | Rolling / check site | 2026-11-03
+✅ [OPEN] | USAFacts | AI Product Intern | Bellevue, WA | [Apply](https://job-boards.greenhouse.io/usafacts/jobs/4478239009) | Rolling / check site | 2026-11-03
+✅ [OPEN] | USAFacts | Technical Product Manager Intern | Bellevue, WA | [Apply](https://job-boards.greenhouse.io/usafacts/jobs/4478253009) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | Viavi Solutions | Software Engineering Co-op | Germantown, MD | [Apply](https://go.vansh.nyc/1c8) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Wabtec | Firmware Engineering Co-op | Waltham, MA | [Apply](https://go.vansh.nyc/1fM) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Wabtec | Firmware Engineering Co-op | Waltham, MA | [Apply](https://jobs.smartrecruiters.com/Wabtec/3743990016605126) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Xanadu | Photonics Test Engineer Intern | Toronto, ON, Canada | [Apply](https://xanadu.careers.hibob.com/jobs/fa179125-845b-4a10-a648-75c1cc20bda4) | Rolling / check site | 2026-11-03
+✅ [OPEN] | Zebra Technologies | Software Engineer Intern | Holtsville, NY | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103638) | Rolling / check site | 2026-11-03
 ✅ [OPEN] | 7-Eleven | Development Analyst Intern | Irving, TX | [Apply](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Development-Analyst-Intern_R26_6319) | Rolling / check site | 2026-11-02
 ✅ [OPEN] | Aerospace Corporation | Software Engineering Undergrad Intern | El Segundo, CA | [Apply](https://go.vansh.nyc/19W) | Rolling / check site | 2026-11-02
 ✅ [OPEN] | American Express | Undergraduate Program AI Engineer Intern, Enterprise Technology Services | Toronto, Canada | [Apply](https://go.vansh.nyc/1bH) | Rolling / check site | 2026-11-02
@@ -278,6 +390,8 @@ Status | Organization | Opportunity | Location | Application | Deadline | Date p
 ✅ [OPEN] | Sierra Nevada Corporation | Data Science Intern - Summer 2027 | Sparks, NV | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Data-Science-Intern--Summer-2027-_R0031257) | Rolling / check site | 2026-11-02
 ✅ [OPEN] | Sierra Nevada Corporation | DevOps Engineer Intern | Southern Pines, NC | [Apply](https://go.vansh.nyc/19u) | Rolling / check site | 2026-11-02
 ✅ [OPEN] | Sierra Nevada Corporation | Software Engineer Intern | Southern Pines, NC | [Apply](https://go.vansh.nyc/19v) | Rolling / check site | 2026-11-02
+✅ [OPEN] | Signet Jewelers | Data Analytics Intern | Akron, OH | [Apply](https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern_REQ_84318-1) | Rolling / check site | 2026-11-02
+✅ [OPEN] | Signet Jewelers | Data Analytics Intern | Akron, OH | [Apply](https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern_REQ_84317) | Rolling / check site | 2026-11-02
 ✅ [OPEN] | Spring Venture Group | Data Integrity Specialist Intern | Kansas City, MO | [Apply](https://jobs.smartrecruiters.com/SpringVentureGroup1/744000159230389) | Rolling / check site | 2026-11-02
 ✅ [OPEN] | T-Mobile | Product Management Intern | Philadelphia, PA | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-Product-Management-Internship_REQ380735) | Rolling / check site | 2026-11-02
 ✅ [OPEN] | T-Mobile | Product Operations Manager Intern | Bellevue, WA | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Product-Operations-Manager-Internship_REQ380888) | Rolling / check site | 2026-11-02
@@ -1022,186 +1136,5 @@ Status | Organization | Opportunity | Location | Application | Deadline | Date p
 ✅ [OPEN] | Workday | Analytics Engineer Intern | Pleasanton, CA | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Analytics-Engineer-Intern_JR-0111200) | Rolling / check site | 2026-10-28
 ✅ [OPEN] | WorldEngine AI | Research Intern - Robotics Data - Real-to-Sim | SF | [Apply](https://jobs.ashbyhq.com/worldengine/ba22a6ae-9b75-4078-83c4-d908a29ccdd9/application?embed=true) | Rolling / check site | 2026-10-28
 ✅ [OPEN] | WorldEngine AI | Research Intern, Robotics Data - Real-to-Sim | San Francisco, CA | [Apply](https://go.vansh.nyc/Xy) | Rolling / check site | 2026-10-28
-✅ [OPEN] | 42dot | Foundation Models Intern | San Francisco, CA; Sunnyvale, CA | [Apply](https://go.vansh.nyc/WM) | Rolling / check site | 2026-10-27
-✅ [OPEN] | AeroVironment | Test Engineer Intern - Space Technologies | Albuquerque, NM | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Albuquerque-NM/Test-Engineering-Intern---Space-Technologies_9253) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Altera | IP Design Intern | Toronto, ON, Canada | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/IP-Design-Intern_R03322) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Amazon | Database Engineer Intern | Seattle, WA; East Palo Alto, CA | [Apply](https://amazon.jobs/en/jobs/10590290/database-engineer-intern-summer-2027) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Amazon | Database Engineer Intern | Seattle, WA; East Palo Alto, CA | [Apply](https://go.vansh.nyc/WF) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Amazon Development Center U.S., Inc. - B02 | Database Engineer Intern | Seattle, WA | [Apply](https://go.vansh.nyc/Wb) | Rolling / check site | 2026-10-27
-✅ [OPEN] | American Family Insurance Group | Cybersecurity Intern | Madison, WI; Boston, MA | [Apply](https://go.vansh.nyc/VN) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Apple Bank | Information Security Intern | New York, NY | [Apply](https://go.vansh.nyc/VV) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Arrowstreet Capital | Investment Processes Intern | Boston, MA | [Apply](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Investment-Processes-Intern--Summer-2027_R1557) | Rolling / check site | 2026-10-27
-✅ [OPEN] | ASML | Frontend Developer Intern | San Jose, CA | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Frontend-Developer_J-00354852) | Rolling / check site | 2026-10-27
-✅ [OPEN] | ASML | Frontend Developer Intern | San Jose, CA | [Apply](https://go.vansh.nyc/Wr) | Rolling / check site | 2026-10-27
-✅ [OPEN] | ASML | Imaging Product Engineer Intern | San Jose, CA | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship--Imaging-product-engineer_J-00355220) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Assurant | AI and Data Science Intern | Atlanta, GA | [Apply](https://go.vansh.nyc/WN) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Assurant | AI and Data Science Intern | Atlanta, GA | [Apply](https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Georgia-Virtual/Summer-2027--AI-and-Data-Science-Internship_R-116105) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Atoms | AI Research Intern | SF; Mountain View, CA | [Apply](https://job-boards.greenhouse.io/atoms/jobs/8919596002) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Atoms | AI Research Intern | SF; Mountain View, CA | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8919606002) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Atoms | AI Research Intern | Mountain View, CA | [Apply](https://go.vansh.nyc/VZ) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Blackberry | Software Testing Development Intern, QNX | Ottawa, Canada | [Apply](https://go.vansh.nyc/Vb) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Boston Dynamics | Electrical Engineer Co-op | Waltham, MA | [Apply](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Electrical-Engineer-Co-Op_R3315) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Boston Properties | Cyber Security Co-op | Boston, MA | [Apply](https://go.vansh.nyc/VJ) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Bracco | Product Security Engineering Intern | Eden Prairie, MN | [Apply](https://go.vansh.nyc/VO) | Rolling / check site | 2026-10-27
-✅ [OPEN] | CACI | Software Engineer Intern - Summer 2027 | Sarasota, FL | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Sarasota-FL-US/Software-Engineering-Intern---Summer-2027_332618) | Rolling / check site | 2026-10-27
-✅ [OPEN] | CACI | Software Engineering Intern | Sarasota, FL | [Apply](https://go.vansh.nyc/VM) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Cboe Global Markets | Linux Engineer Intern | Chicago, IL; Kansas City, MO; New York, NY | [Apply](https://go.vansh.nyc/W4) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Cencora | AI Intern | Conshohocken, PA | [Apply](https://go.vansh.nyc/Vc) | Rolling / check site | 2026-10-27
-✅ [OPEN] | CFS Energy | Scientific Software Engineer Intern | Devens, MA | [Apply](https://go.vansh.nyc/VW) | Rolling / check site | 2026-10-27
-✅ [OPEN] | CIBC | Data Analyst Co-op | Toronto, Canada | [Apply](https://go.vansh.nyc/Wy) | Rolling / check site | 2026-10-27
-✅ [OPEN] | CIBC | Junior Insights & Analytics Co-op | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Junior-Insights---Analytics-Co-op_2622099-1) | Rolling / check site | 2026-10-27
-✅ [OPEN] | CIBC | Junior Insights & Analytics Co-op | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Junior-Insights---Analytics-Co-op_2622099) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Ciena | Electronic Reliability Engineer Co-op | Ottawa, ON, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Electronic-Reliability-Engineer-Co-op--Winter-2027-_R031987) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Ciena | Optical Performance Lab Verification and Testing Co-op | Ottawa, ON, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Optical-Performance-Lab-Verification-and-Testing-Co-op_R031991) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Commonwealth Fusion Systems | Plasma Physics Intern | Devens, MA | [Apply](https://jobs.lever.co/cfsenergy/32987ab7-59ed-4364-a012-91cbece8877a/apply) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Commonwealth Fusion Systems | Scientific Software Engineer Intern | Devens, MA | [Apply](https://jobs.lever.co/cfsenergy/912d6878-25dd-4bdc-8df8-8f7002999619/apply) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Delta Dental | Application Development Intern | Okemos, MI | [Apply](https://go.vansh.nyc/VS) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Disney | Software Engineer Intern, Pipeline Infrastructure | Vancouver, Canada | [Apply](https://go.vansh.nyc/UA) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Disney | Systems Engineer Intern, Data Services | Vancouver, Canada | [Apply](https://go.vansh.nyc/Uz) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Emerson Electric | Software Engineer Intern | Austin, TX | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010630) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Emerson Electric | Software Engineer Intern | Austin, TX | [Apply](https://go.vansh.nyc/WG) | Rolling / check site | 2026-10-27
-✅ [OPEN] | EQT Corporation | AI Intern | Remote; United States | [Apply](https://go.vansh.nyc/VF) | Rolling / check site | 2026-10-27
-✅ [OPEN] | EQT Corporation | AI Intern | Remote in USA | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5462562008) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Ericsson | Cybersecurity Analyst Intern | Plano, TX | [Apply](https://go.vansh.nyc/Vu) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Fidelity Investments | Data Strategy Intern | Boston, MA | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Intern--Data-Strategy_2135102) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Filevine | Security Specialist Intern | Salt Lake City, UT | [Apply](https://go.vansh.nyc/XI) | Rolling / check site | 2026-10-27
-✅ [OPEN] | First Citizens BancShares | Data Analyst Intern - Enterprise Data Analyst - Data Products | Raleigh, NC | [Apply](https://firstcitizens.jibeapply.com/jobs/36230?icims=1) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Geotab | Software Developer Intern, Geotab Vitality | Oakville, Canada; Toronto, Canada; Waterloo, Canada | [Apply](https://go.vansh.nyc/17F) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Geotab | Software Developer Intern, MyAdmin | Oakville, Canada; Waterloo, Canada | [Apply](https://go.vansh.nyc/17E) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Great American Insurance Company | Claims Lab Developer Intern | Cincinnati, OH | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Claims-Lab-Developer-Intern---Summer-2027_R9803) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Great American Insurance Company | Cloud Data Platform Intern | Cincinnati, OH | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Cloud-Data-Platform-Intern---Summer-2027_R9795) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Great American Insurance Company | Data Application Engineer Intern | Cincinnati, OH | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Application-Development-Intern---Summer-2027_R9796) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Great American Insurance Company | Data Engineer Intern | Cincinnati, OH | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Engineering-Intern---Summer-2027_R9794) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Great American Insurance Company | Emerging Technology Intern | Cincinnati, OH | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Emerging-Technology-Intern---Summer-2027_R9801) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Great American Insurance Group | Cloud Data Platform Intern | Cincinnati, OH | [Apply](https://go.vansh.nyc/Wu) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Highmark Health | Cyber Risk Management Analyst Undergraduate Intern | Camp Hill, PA | [Apply](https://go.vansh.nyc/UF) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Hitachi | Software Analyst Intern | Toronto, ON, Canada | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R0148741) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Hitachi | Software Analyst Intern | Toronto, Canada | [Apply](https://go.vansh.nyc/Wz) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Hive Financial Systems | Analytics Intern | Atlanta, GA | [Apply](https://go.vansh.nyc/Xk) | Rolling / check site | 2026-10-27
-✅ [OPEN] | HP IQ | Electrical Engineer Intern - Hardware | SF | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6116396004) | Rolling / check site | 2026-10-27
-✅ [OPEN] | HP IQ | Wireless Automation and Test Engineer Intern - Wireless Automation and Test | SF | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6114741004) | Rolling / check site | 2026-10-27
-✅ [OPEN] | JM Family | Data Engineer Intern | Deerfield Beach, FL | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Engineer-Intern_JR105120) | Rolling / check site | 2026-10-27
-✅ [OPEN] | JM Family | Sales Reporting & Analysis Intern | Deerfield Beach, FL | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Sales-Reporting---Analysis-Intern_JR105145) | Rolling / check site | 2026-10-27
-✅ [OPEN] | JM Family Enterprises | Data Engineer Intern | Deerfield Beach, FL | [Apply](https://go.vansh.nyc/VR) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Johns Hopkins APL | Cybersecurity Software Developer Intern | Laurel, MD | [Apply](https://go.vansh.nyc/UB) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Keysight Technologies | Application Development Intern | Santa Rosa, CA | [Apply](https://jobs.keysight.com/jobs/55157?icims=1) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Keysight Technologies | Application Development Intern | Santa Rosa, CA | [Apply](https://go.vansh.nyc/WE) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Keysight Technologies | Electrical Engineering Intern - R&D Design Validation - Test Automation | Budd Lake, Mt Olive, NJ | [Apply](https://jobs.keysight.com/jobs/55190?icims=1) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Keysight Technologies | Quantum R&D Engineer Intern | Cambridge, MA | [Apply](https://jobs.keysight.com/jobs/55183?icims=1) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Kudu Dynamics | Cybersecurity Intern | Arlington, VA; Washington, DC; Camp Springs, MD | [Apply](https://go.vansh.nyc/W5) | Rolling / check site | 2026-10-27
-✅ [OPEN] | L3Harris Technologies | Associate Software Engineering Intern | Greenville, TX | [Apply](https://go.vansh.nyc/UY) | Rolling / check site | 2026-10-27
-✅ [OPEN] | L3Harris Technologies | Associate – Software Engineering Intern | Greenville, TX | [Apply](https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineering-TX-75402/1443908200/?ats=successfactors) | Rolling / check site | 2026-10-27
-✅ [OPEN] | L3Harris Technologies | Software Engineer Intern | Rochester, NY | [Apply](https://jobs.l3harris.com/job/Rochester-Intern,-Software-Engineer-NY-14624/1443908600/?ats=successfactors) | Rolling / check site | 2026-10-27
-✅ [OPEN] | L3Harris Technologies | Software Engineer Intern | Rochester, NY | [Apply](https://go.vansh.nyc/UZ) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Lila Sciences | Robot Perception & State Estimation Co-op | Cambridge, MA | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4467398009) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Lila Sciences | Robot Perception & State Estimation Co-op | Cambridge, MA | [Apply](https://go.vansh.nyc/VD) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Lockheed Martin | Software Engineer Intern | Huntsville, AL | [Apply](https://go.vansh.nyc/UC) | Rolling / check site | 2026-10-27
-✅ [OPEN] | lowRISC CIC | Design Engineer Intern | Cambridge, UK | [Apply](https://lowrisc.applytojob.com/apply/YDXpDtU0O2/Summer-Internship-Design-Engineer) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Mercor | Research Engineer Intern, Benchmarking | San Francisco, CA | [Apply](https://go.vansh.nyc/WT) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Mercor | Research Engineer Intern, Environments, Data and Post-Training | San Francisco, CA | [Apply](https://go.vansh.nyc/WU) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Micron Technology | AI & Product Management Intern - Mobile Memory - Lpdram | San Jose, CA | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---AI---Product-Management--Mobile-Memory--LPDRAM-_JR115839) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Micron Technology | AI Engineer Intern, Platform | Boise, ID | [Apply](https://go.vansh.nyc/VX) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Micron Technology | CMBU Product Management Intern | San Jose, CA | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---CMBU-Product-Management_JR115941) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Micron Technology | HBM Data Scientist Intern | Richardson, TX | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---HBM-Data-Scientist_JR115127) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Micron Technology | HBM Data Scientist Intern | Richardson, TX | [Apply](https://go.vansh.nyc/VY) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Micron Technology | NAND Storage Strategic Roadmap Planning Intern | Boise, ID | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---NAND-Storage-Strategic-Roadmap-Planning_JR115838) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Micron Technology | Product Test Development Engineer Intern | Boise, ID | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern--Product-Test-Development-Engineer_JR115106) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Micron Technology | Product Yield Enhancement Software Engineer Intern | Boise, ID | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Product-Yield-Software-Engineer_JR115864) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Micron Technology | Product Yield Software Engineer Intern | Boise, ID | [Apply](https://go.vansh.nyc/VP) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Motorola | Localization and QA Automation Developer Co-op | Vancouver, Canada | [Apply](https://go.vansh.nyc/We) | Rolling / check site | 2026-10-27
-✅ [OPEN] | National Interstate Insurance | Claims Lab Developer Intern | Cincinnati, OH | [Apply](https://go.vansh.nyc/Wm) | Rolling / check site | 2026-10-27
-✅ [OPEN] | National Interstate Insurance | Data Application Development Intern | Cincinnati, OH | [Apply](https://go.vansh.nyc/Wj) | Rolling / check site | 2026-10-27
-✅ [OPEN] | National Interstate Insurance | Data Automation Intern | Cincinnati, OH | [Apply](https://go.vansh.nyc/Wg) | Rolling / check site | 2026-10-27
-✅ [OPEN] | National Interstate Insurance | Data Engineering Intern | Cincinnati, OH | [Apply](https://go.vansh.nyc/Wd) | Rolling / check site | 2026-10-27
-✅ [OPEN] | National Interstate Insurance | Emerging Technology Intern | Cincinnati, OH | [Apply](https://go.vansh.nyc/Wh) | Rolling / check site | 2026-10-27
-✅ [OPEN] | National Interstate Insurance | Platform Operations Developer Intern | Cincinnati, OH | [Apply](https://go.vansh.nyc/Wi) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Nike | Product Line Management Intern - Apparel - Accessories | Beaverton, OR | [Apply](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Apparel---Accessories-Product-Line-Management-Undergraduate-Intern_R-96479) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Nissan | AI Intern | Dallas, TX; Franklin, TN | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Irving-Texas---United-States-of-America/AI-Intern---Summer-2027---Dallas--TX-or-Franklin--TN_R00214219) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Nissan | AI Intern | Dallas, TX; Franklin, TN | [Apply](https://go.vansh.nyc/VH) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Nissan Global | Physical AI Manufacturing Intern | Smyrna, TN | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Physical-AI-Manufacturing-Intern---Summer-2027---Smyrna--TN_R00214526) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Nomad GCS | Software Engineer Intern | Columbia Falls, MT | [Apply](https://nomadgcs.bamboohr.com/careers/506/) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Nomad GCS | Software Engineer Intern | Columbia Falls, MT | [Apply](https://go.vansh.nyc/WO) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Northrop Grumman | Software Engineer Intern | Azusa, CA | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Software-Engineer-Intern---Azusa-CA_R10257903) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Northrop Grumman | Software Engineer Intern | Colorado Springs, CO | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10257803) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Northrop Grumman | Software Engineer Intern | Azusa, CA | [Apply](https://go.vansh.nyc/Wl) | Rolling / check site | 2026-10-27
-✅ [OPEN] | NVIDIA | Software Engineer Intern - AI Agents and Backend Infrastructure | Bristol, UK; Belfast, UK; Remote in UK; Reading, UK | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/Software-Engineering-Intern--AI-Agents-and-Backend-Infrastructure---2027_JR2027939) | Rolling / check site | 2026-10-27
-✅ [OPEN] | onsemi | Customer Operations Data Analyst Intern | Scottsdale, AZ | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507070) | Rolling / check site | 2026-10-27
-✅ [OPEN] | OpusClip | Customer Experience Test Automation Intern | Burnaby, Canada | [Apply](https://go.vansh.nyc/WR) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Paccar | Data Engineer Intern | Chillicothe, OH | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Data-Engineer-Intern-(OH)-WA-98033/1451916833/?ats=successfactors) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Paccar | Data Engineer Intern | Chillicothe, OH | [Apply](https://go.vansh.nyc/WP) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Papa John's | Cyber Security Intern | Atlanta, GA | [Apply](https://go.vansh.nyc/W8) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Peraton | Cybersecurity Engineer Co-op | San Diego, CA | [Apply](https://go.vansh.nyc/W2) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Philips | Embedded Test Engineer Co-op | Murrysville, PA | [Apply](https://go.vansh.nyc/Xl) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Protagonist | Software Engineer Intern | Washington, DC | [Apply](https://job-boards.greenhouse.io/protagonist/jobs/6236620004) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Protagonist | Software Engineering Intern | Washington, DC | [Apply](https://go.vansh.nyc/WS) | Rolling / check site | 2026-10-27
-✅ [OPEN] | PTC | Onshape QA Intern | Boston, MA | [Apply](https://go.vansh.nyc/Vf) | Rolling / check site | 2026-10-27
-✅ [OPEN] | PTC | Onshape SysOps Intern | Boston, MA | [Apply](https://go.vansh.nyc/Vg) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Rockwell Automation | Cybersecurity Intern | Milwaukee, WI; Chelmsford, MA | [Apply](https://go.vansh.nyc/Vd) | Rolling / check site | 2026-10-27
-✅ [OPEN] | RTX | Embedded Software Engineer Intern | Goleta, CA | [Apply](https://go.vansh.nyc/VI) | Rolling / check site | 2026-10-27
-✅ [OPEN] | RTX | Embedded Software Engineer Intern | Goleta, CA | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Embedded-Software-Engineering-Intern--Summer-2027-_01884782) | Rolling / check site | 2026-10-27
-✅ [OPEN] | RTX | Receiver – & Processing Architecture Software Engineer Intern - Exciter | Marlborough, MA | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-Intern--Summer-2027----Onsite_01885187) | Rolling / check site | 2026-10-27
-✅ [OPEN] | RTX | Secure Software Intern | Woburn, MA | [Apply](https://go.vansh.nyc/VG) | Rolling / check site | 2026-10-27
-✅ [OPEN] | RTX | Secure Software Intern | Woburn, MA | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Secure-Software-Intern--Summer-2027-_01884942) | Rolling / check site | 2026-10-27
-✅ [OPEN] | RTX | Software Engineer Intern | Cedar Rapids, IA | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Intern--Summer-2027-_01885074) | Rolling / check site | 2026-10-27
-✅ [OPEN] | RTX | Software Engineer Intern | Fort Wayne, IN | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering-Intern--Summer-2027-_01881090-1) | Rolling / check site | 2026-10-27
-✅ [OPEN] | RTX | Software Engineer Intern, Receiver, Exciter, & Processing Architecture | Marlborough, MA | [Apply](https://go.vansh.nyc/WQ) | Rolling / check site | 2026-10-27
-✅ [OPEN] | RTX | Software Engineering Intern | Cedar Rapids, IA | [Apply](https://go.vansh.nyc/Ww) | Rolling / check site | 2026-10-27
-✅ [OPEN] | RTX | Systems Engineering Co-op | St. Petersburg, FL | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Systems-Engineering-Co-op_01884435) | Rolling / check site | 2026-10-27
-✅ [OPEN] | SageSure | Data Science Product Analyst Intern | Fairfield, CA | [Apply](https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719503006) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Salesforce | Forward Deployed Engineer Intern - Global Public Sector | Arkansas; Ohio | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/Arkansas---Remote/Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Salesforce | Forward Deployed Engineer Intern - Global Public Sector | Arkansas; Ohio | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Arkansas---Remote/Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026-1) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Salesforce | Forward Deployed Engineer Intern, Global Public Sector | United States | [Apply](https://go.vansh.nyc/WD) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Sephora | AI Automation Intern, WMS & DC Systems | United States | [Apply](https://go.vansh.nyc/11M) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Sephora | AI Platform Infrastructure Intern, Technology | United States | [Apply](https://go.vansh.nyc/11N) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Sherwin-Williams | R&D Product Systems Intern | Cleveland, OH | [Apply](https://go.vansh.nyc/UD) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Sherwin-Williams | R&D Product Systems Intern | Cleveland, OH | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627417) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Sierra Nevada Corporation | Cybersecurity Analyst Intern | Sparks, NV | [Apply](https://go.vansh.nyc/VQ) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Sonos | Data Quality Intern | Boston, MA | [Apply](https://go.vansh.nyc/Wa) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Sonos | Data Quality Intern | Boston, MA | [Apply](https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Data-Quality-Intern_R2876-1) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Sonos | Software Engineering Intern | Seattle, WA | [Apply](https://go.vansh.nyc/W9) | Rolling / check site | 2026-10-27
-✅ [OPEN] | stealth-startup-community | Embedded Firmware and Controls Engineer Intern | Austin, TX | [Apply](https://go.vansh.nyc/X4) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Sun Life | Quality Engineering Analyst Intern | Waterloo, Canada | [Apply](https://go.vansh.nyc/Xj) | Rolling / check site | 2026-10-27
-✅ [OPEN] | SWBC | Integration Analyst Intern | San Antonio, TX | [Apply](https://go.vansh.nyc/Wp) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Texas Instruments | Web Marketing Intern, Front-end Developer | Dallas, TX | [Apply](https://go.vansh.nyc/Wf) | Rolling / check site | 2026-10-27
-✅ [OPEN] | The Federal Reserve System | REIN Data Intern | Atlanta, GA | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---REIN-Data-Intern_R-0000033089) | Rolling / check site | 2026-10-27
-✅ [OPEN] | The Walt Disney Company | Content Research Insights & Analytics Intern | Burbank, CA | [Apply](https://go.vansh.nyc/Xi) | Rolling / check site | 2026-10-27
-✅ [OPEN] | The Walt Disney Company | Content Research Insights & Analytics Intern | Burbank, CA | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Content-Research-Insights---Analytics-Intern--Spring-2027_10164072-1) | Rolling / check site | 2026-10-27
-✅ [OPEN] | The Walt Disney Company | Content Research Insights & Analytics Intern | Burbank, CA | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Burbank-CA-USA/Content-Research-Insights---Analytics-Intern--Spring-2027_10164072-2) | Rolling / check site | 2026-10-27
-✅ [OPEN] | TMX Group | Analyst Model Validation Intern | Montreal, QC, Canada | [Apply](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Montreal---1190-av-des-Canadiens-de-Montreal/Intern-Analyst-Model-Validation---Winter-term_R-6603) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Toshiba International Corporation | Firmware Engineer Intern | San Jose, CA | [Apply](https://go.vansh.nyc/11O) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Uber | Software Engineer Intern | Toronto, ON, Canada | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304178) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Uber | Software Engineering Intern | Toronto, Canada | [Apply](https://go.vansh.nyc/Wx) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Visa | Data Science Intern - Data and AI Team | Foster City, CA | [Apply](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Visa | Data Science Intern - Data and AI Team | Foster City, CA | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-1) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Visa | Data Science Intern, Data and AI Team | Foster City, CA | [Apply](https://go.vansh.nyc/UG) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Visa | Network and Security Engineering Intern | Ashburn, VA | [Apply](https://go.vansh.nyc/Xg) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Visa | Network and Security Engineering Intern | Denver, CO | [Apply](https://go.vansh.nyc/Xh) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Visa | Product Management Intern - Data and AI Team | Foster City, CA | [Apply](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Visa | Product Management Intern - Data and AI Team | Foster City, CA | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W-1) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Visa | Software Engineer Intern | Austin, TX | [Apply](https://go.vansh.nyc/Xf) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Visa | Software Engineer Intern | Foster City, CA | [Apply](https://go.vansh.nyc/Xe) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Visa | Software Engineer Intern | Ashburn, VA | [Apply](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Visa | Software Engineer Intern | Foster City, CA | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF089919W-1) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Visa | Software Engineer Intern | Denver, CO | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF089880W-1) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Visa | Software Engineer Intern | Austin, TX | [Apply](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Visa | Software Engineer Intern | Denver, CO | [Apply](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF089880W) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Visa | Software Engineer Intern | Ashburn, VA | [Apply](https://go.vansh.nyc/Vz) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Visa | Software Engineer Intern | Bellevue, WA | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF089920W-2) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Visa | Software Engineer Intern | Austin, TX | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W-1) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Visa | Software Engineer Intern | Austin, TX | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W-1) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Visa | Software Engineer Intern | Foster City, CA | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF089875W-1) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Visa | Software Engineer Intern | Bellevue, WA | [Apply](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF089920W-1) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Visa | Software Engineer Intern | Foster City, CA | [Apply](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF089919W) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Visa | Software Engineer Intern | Austin, TX | [Apply](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Visa | Software Engineer Intern | Foster City, CA | [Apply](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF089875W) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Visa | Software Engineer Intern | Ashburn, VA | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W-1) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Visa | Sophomore Program Software Engineer Intern | Denver, CO | [Apply](https://go.vansh.nyc/VB) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Visa | Sophomore Program Software Engineer Intern | Austin, TX | [Apply](https://go.vansh.nyc/VC) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Visa | Sophomore Program Software Engineer Intern | Bellevue, WA | [Apply](https://go.vansh.nyc/Vx) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Visa | Sophomore Program Software Engineer Intern | Foster City, CA | [Apply](https://go.vansh.nyc/Vy) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Visa | Sophomore Program Software Engineer Intern | Ashburn, VA | [Apply](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Visa | Sophomore Program Software Engineer Intern | Ashburn, VA | [Apply](https://go.vansh.nyc/VE) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Visa | Sophomore Program Software Engineer Intern | Ashburn, VA | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W-1) | Rolling / check site | 2026-10-27
-✅ [OPEN] | Workiva | Machine Learning Engineering Intern | Remote; United States | [Apply](https://go.vansh.nyc/W7) | Rolling / check site | 2026-10-27
 
 ---
