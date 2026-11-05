@@ -13,6 +13,10 @@ Status | Organization | Opportunity | Location | Apply | Deadline
 --- | --- | --- | --- | --- | ---
 ✅ [OPEN] | Trane Technologies | AI & Analytics Intern | Davidson, NC; Minneapolis, MN | [Apply](https://go.vansh.nyc/10w) | Rolling / check site
 ✅ [OPEN] | Highmark Health | AI Services and Platforms Software Engineer Intern | New Mexico; Washington; Kansas; Pennsylvania; North Dakota; Oregon; Delaware; Iowa; California; Washington, DC; Vermont; Wyoming; Connecticut; Texas; Montana; Florida; New Hampshire; Nevada; South Carolina; South Dakota; Georgia; Arizona; Mississippi; Tennessee; Virginia; Arkansas; Minnesota; Colorado; Nebraska; Rhode Island; Utah; Kentucky; West Virginia; NYC; Maryland; Hawaii; Wisconsin; Maine; Massachusetts; North Carolina; Oklahoma; Missouri; Ohio; New Jersey; Indiana; Louisiana; Alaska; Michigan; Illinois; Alabama; Idaho | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-AI-Services-and-Platforms-Software-Engineer-Graduate-Intern_J288322) | Rolling / check site
+✅ [OPEN] | APEX Analytix | Automation Developer Intern | Greensboro, NC | [Apply](https://go.vansh.nyc/1ij) | Rolling / check site
+✅ [OPEN] | APEX Analytix | Data Analyst Intern | Greensboro, NC | [Apply](https://go.vansh.nyc/1il) | Rolling / check site
+✅ [OPEN] | APEX Analytix | Data Engineering Intern | Greensboro, NC | [Apply](https://go.vansh.nyc/1ik) | Rolling / check site
+✅ [OPEN] | APEX Analytix | Data Science Intern | Greensboro, NC | [Apply](https://go.vansh.nyc/1ii) | Rolling / check site
 ✅ [OPEN] | Arch Capital Group | Originations Portal IT Intern | Greensboro, NC | [Apply](https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Originations-Portal-IT-Intern_R26_1135) | Rolling / check site
 ✅ [OPEN] | Arch Capital Group | Originations Portal IT Intern | Greensboro, NC | [Apply](https://go.vansh.nyc/1et) | Rolling / check site
 ✅ [OPEN] | Direct Supply | Software Engineer Intern | Milwaukee, WI; Durham, NC | [Apply](https://go.vansh.nyc/1eq) | Rolling / check site
@@ -27,10 +31,6 @@ Status | Organization | Opportunity | Location | Apply | Deadline
 ✅ [OPEN] | First Citizens BancShares | Data Analyst Intern - Enterprise Data Analyst - Data Products | Raleigh, NC | [Apply](https://firstcitizens.jibeapply.com/jobs/36234?icims=1) | Rolling / check site
 ✅ [OPEN] | First Citizens BancShares | Data Analyst Intern, Enterprise Data Products | Raleigh, NC | [Apply](https://go.vansh.nyc/19n) | Rolling / check site
 ✅ [OPEN] | LabCorp | Agentic AI Developer Co-op | Durham, NC; Burlington, NC | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Agentic-AI-Developer_2639201-1) | Rolling / check site
-✅ [OPEN] | LabCorp | Agentic AI Developer Co-op | Durham, NC | [Apply](https://go.vansh.nyc/19P) | Rolling / check site
-✅ [OPEN] | LabCorp | Full-Stack Life Sciences Engineer Co-op | Durham, NC | [Apply](https://go.vansh.nyc/19C) | Rolling / check site
-✅ [OPEN] | LabCorp | Full-Stack Life Sciences Software Engineer Co-op | Durham, NC; Burlington, NC | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Full-Stack-Life-Sciences-Engineer_2639083) | Rolling / check site
-✅ [OPEN] | Renesas Electronics | Product Engineer Intern | Morrisville, NC | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000159218106) | Rolling / check site
 <!-- END CURRENT OPPORTUNITIES -->
 
 ## Browse and use
