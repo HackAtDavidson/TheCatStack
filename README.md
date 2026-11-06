@@ -13,6 +13,7 @@ Status | Organization | Opportunity | Location | Apply | Deadline
 --- | --- | --- | --- | --- | ---
 ✅ [OPEN] | Trane Technologies | AI & Analytics Intern | Davidson, NC; Minneapolis, MN | [Apply](https://go.vansh.nyc/10w) | Rolling / check site
 ✅ [OPEN] | Highmark Health | AI Services and Platforms Software Engineer Intern | New Mexico; Washington; Kansas; Pennsylvania; North Dakota; Oregon; Delaware; Iowa; California; Washington, DC; Vermont; Wyoming; Connecticut; Texas; Montana; Florida; New Hampshire; Nevada; South Carolina; South Dakota; Georgia; Arizona; Mississippi; Tennessee; Virginia; Arkansas; Minnesota; Colorado; Nebraska; Rhode Island; Utah; Kentucky; West Virginia; NYC; Maryland; Hawaii; Wisconsin; Maine; Massachusetts; North Carolina; Oklahoma; Missouri; Ohio; New Jersey; Indiana; Louisiana; Alaska; Michigan; Illinois; Alabama; Idaho | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-AI-Services-and-Platforms-Software-Engineer-Graduate-Intern_J288322) | Rolling / check site
+✅ [OPEN] | Envista Forensics | Digital Forensics Intern | Morrisville, NC | [Apply](https://go.vansh.nyc/1kg) | Rolling / check site
 ✅ [OPEN] | APEX Analytix | Automation Developer Intern | Greensboro, NC | [Apply](https://go.vansh.nyc/1ij) | Rolling / check site
 ✅ [OPEN] | APEX Analytix | Data Analyst Intern | Greensboro, NC | [Apply](https://go.vansh.nyc/1il) | Rolling / check site
 ✅ [OPEN] | APEX Analytix | Data Engineering Intern | Greensboro, NC | [Apply](https://go.vansh.nyc/1ik) | Rolling / check site
@@ -30,7 +31,6 @@ Status | Organization | Opportunity | Location | Apply | Deadline
 ✅ [OPEN] | Sierra Nevada Corporation | Software Engineer Intern | Southern Pines, NC | [Apply](https://go.vansh.nyc/1dz) | Rolling / check site
 ✅ [OPEN] | First Citizens BancShares | Data Analyst Intern - Enterprise Data Analyst - Data Products | Raleigh, NC | [Apply](https://firstcitizens.jibeapply.com/jobs/36234?icims=1) | Rolling / check site
 ✅ [OPEN] | First Citizens BancShares | Data Analyst Intern, Enterprise Data Products | Raleigh, NC | [Apply](https://go.vansh.nyc/19n) | Rolling / check site
-✅ [OPEN] | LabCorp | Agentic AI Developer Co-op | Durham, NC; Burlington, NC | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Agentic-AI-Developer_2639201-1) | Rolling / check site
 <!-- END CURRENT OPPORTUNITIES -->
 
 ## Browse and use
