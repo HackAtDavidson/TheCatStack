@@ -12,8 +12,14 @@ _Showing up to 20 current opportunities. See the [full catalog](OPPORTUNITIES.md
 Status | Organization | Opportunity | Location | Apply | Deadline
 --- | --- | --- | --- | --- | ---
 ✅ [OPEN] | Highmark Health | Reporting and Analytics Undergraduate Intern | New Mexico; Washington; Kansas; Pennsylvania; North Dakota; Oregon; Delaware; Iowa; California; Washington, DC; Vermont; Wyoming; Connecticut; Texas; Montana; Florida; New Hampshire; Nevada; South Carolina; South Dakota; Georgia; Arizona; Mississippi; Tennessee; Virginia; Arkansas; Minnesota; Colorado; Nebraska; Rhode Island; Utah; Kentucky; West Virginia; NYC; Maryland; Hawaii; Wisconsin; Maine; Massachusetts; North Carolina; Oklahoma; Ohio; New Jersey; Indiana; Louisiana; Alaska; Michigan; Illinois; Alabama; Idaho | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-UCD-Reporting-and-Analytics-Undergraduate-Intern_J287987) | Rolling / check site
-✅ [OPEN] | Highmark Health | AI Services and Platforms Software Engineer Intern | New Mexico; Washington; Kansas; Pennsylvania; North Dakota; Oregon; Delaware; Iowa; California; Washington, DC; Vermont; Wyoming; Connecticut; Texas; Montana; Florida; New Hampshire; Nevada; South Carolina; South Dakota; Georgia; Arizona; Mississippi; Tennessee; Virginia; Arkansas; Minnesota; Colorado; Nebraska; Rhode Island; Utah; Kentucky; West Virginia; NYC; Maryland; Hawaii; Wisconsin; Maine; Massachusetts; North Carolina; Oklahoma; Missouri; Ohio; New Jersey; Indiana; Louisiana; Alaska; Michigan; Illinois; Alabama; Idaho | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-AI-Services-and-Platforms-Software-Engineer-Graduate-Intern_J288322) | Rolling / check site
+✅ [OPEN] | APEX Analytix | Product Management Intern | Greensboro, NC | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/116e13fe-7202-45ba-a119-a81af4fcb4b9) | Rolling / check site
+✅ [OPEN] | Cisco | Software Engineer Embedded Systems I Intern | San Jose, CA; Austin, TX; Research Triangle Park, NC | [Apply](https://go.vansh.nyc/1sE) | Rolling / check site
+✅ [OPEN] | Piedmont Airlines | Safety Data Analytics Intern | Charlotte, NC | [Apply](https://aaregional.wd503.myworkdayjobs.com/search/job/Charlotte-NC/Safety-Data-Analytics-Intern_R1014574) | Rolling / check site
 ✅ [OPEN] | DP World | AI & Analytics Intern - Talent Management | Charlotte, NC | [Apply](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27855) | Rolling / check site
+✅ [OPEN] | JMP Statistical Discovery | C++ Software Development Intern | Cary, NC | [Apply](https://jmp-sas.icims.com/jobs/46960/job?mobile=true&needsRedirect=false) | Rolling / check site
+✅ [OPEN] | JMP Statistical Discovery | Software Development Intern, C++ | Cary, NC | [Apply](https://go.vansh.nyc/1sw) | Rolling / check site
+✅ [OPEN] | Renesas Electronics | Applications Engineer Intern | Morrisville, NC | [Apply](https://go.vansh.nyc/1sk) | Rolling / check site
+✅ [OPEN] | Renesas Electronics | Applications Engineer Intern | Morrisville, NC | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000160975701) | Rolling / check site
 ✅ [OPEN] | Cisco | Software Engineer Intern, Full-Stack / Backend I | San Jose, CA; Austin, TX; Research Triangle Park, NC | [Apply](https://go.vansh.nyc/1ok) | Rolling / check site
 ✅ [OPEN] | Epic Games | AI Programmer Intern | Cary, NC | [Apply](https://epicgames.com/careers/jobs/6251540004?gh_jid=6251540004) | Rolling / check site
 ✅ [OPEN] | Epic Games | AI Programmer Intern | Cary, NC | [Apply](https://go.vansh.nyc/1pv) | Rolling / check site
@@ -25,12 +31,6 @@ Status | Organization | Opportunity | Location | Apply | Deadline
 ✅ [OPEN] | APEX Analytix | Data Analyst Intern | Greensboro, NC | [Apply](https://go.vansh.nyc/1il) | Rolling / check site
 ✅ [OPEN] | APEX Analytix | Data Engineering Intern | Greensboro, NC | [Apply](https://go.vansh.nyc/1ik) | Rolling / check site
 ✅ [OPEN] | APEX Analytix | Data Science Intern | Greensboro, NC | [Apply](https://go.vansh.nyc/1ii) | Rolling / check site
-✅ [OPEN] | Arch Capital Group | Originations Portal IT Intern | Greensboro, NC | [Apply](https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Originations-Portal-IT-Intern_R26_1135) | Rolling / check site
-✅ [OPEN] | Arch Capital Group | Originations Portal IT Intern | Greensboro, NC | [Apply](https://go.vansh.nyc/1et) | Rolling / check site
-✅ [OPEN] | Direct Supply | Software Engineer Intern | Milwaukee, WI; Durham, NC | [Apply](https://go.vansh.nyc/1eq) | Rolling / check site
-✅ [OPEN] | First Citizens BancShares | Applied AI Intern | Raleigh, NC | [Apply](https://go.vansh.nyc/1fD) | Rolling / check site
-✅ [OPEN] | First Citizens BancShares | Applied AI Intern | Raleigh, NC | [Apply](https://firstcitizens.jibeapply.com/jobs/36413?icims=1) | Rolling / check site
-✅ [OPEN] | Inmar Intelligence | Data, Analytics & AI Intern | Winston Salem, NC | [Apply](https://go.vansh.nyc/1d1) | Rolling / check site
 <!-- END CURRENT OPPORTUNITIES -->
 
 ## Browse and use
