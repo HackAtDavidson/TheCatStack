@@ -12,6 +12,9 @@ _Showing up to 20 current opportunities. See the [full catalog](OPPORTUNITIES.md
 Status | Organization | Opportunity | Location | Apply | Deadline
 --- | --- | --- | --- | --- | ---
 ✅ [OPEN] | Highmark Health | Reporting and Analytics Undergraduate Intern | New Mexico; Washington; Kansas; Pennsylvania; North Dakota; Oregon; Delaware; Iowa; California; Washington, DC; Vermont; Wyoming; Connecticut; Texas; Montana; Florida; New Hampshire; Nevada; South Carolina; South Dakota; Georgia; Arizona; Mississippi; Tennessee; Virginia; Arkansas; Minnesota; Colorado; Nebraska; Rhode Island; Utah; Kentucky; West Virginia; NYC; Maryland; Hawaii; Wisconsin; Maine; Massachusetts; North Carolina; Oklahoma; Ohio; New Jersey; Indiana; Louisiana; Alaska; Michigan; Illinois; Alabama; Idaho | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-UCD-Reporting-and-Analytics-Undergraduate-Intern_J287987) | Rolling / check site
+✅ [OPEN] | Daimler Truck | IT Developer Analyst Intern | Mount Holly, NC | [Apply](https://go.vansh.nyc/1yM) | Rolling / check site
+✅ [OPEN] | General Dynamics Information Technology | Professional Programmer Intern | Raleigh, NC | [Apply](https://go.vansh.nyc/1xx) | Rolling / check site
+✅ [OPEN] | General Dynamics Information Technology | Programmer Intern | Raleigh, NC | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-NC-Raleigh/Professional-Programmer---Intern_RQ232030) | Rolling / check site
 ✅ [OPEN] | APEX Analytix | Product Management Intern | Greensboro, NC | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/116e13fe-7202-45ba-a119-a81af4fcb4b9) | Rolling / check site
 ✅ [OPEN] | Cisco | Software Engineer Embedded Systems I Intern | San Jose, CA; Austin, TX; Research Triangle Park, NC | [Apply](https://go.vansh.nyc/1sE) | Rolling / check site
 ✅ [OPEN] | Piedmont Airlines | Safety Data Analytics Intern | Charlotte, NC | [Apply](https://aaregional.wd503.myworkdayjobs.com/search/job/Charlotte-NC/Safety-Data-Analytics-Intern_R1014574) | Rolling / check site
@@ -28,9 +31,6 @@ Status | Organization | Opportunity | Location | Apply | Deadline
 ✅ [OPEN] | Epic Games | AI Programmer Intern | Cary, NC | [Apply](https://go.vansh.nyc/1pv) | Rolling / check site
 ✅ [OPEN] | Scout Motors | Digital Products Intern | Charlotte, NC | [Apply](https://job-boards.greenhouse.io/scoutmotors/jobs/5287137007) | Rolling / check site
 ✅ [OPEN] | Scout Motors Inc. | Digital Products Intern | Charlotte, NC | [Apply](https://go.vansh.nyc/1oV) | Rolling / check site
-✅ [OPEN] | Scout Motors Inc. | IT Intern | Charlotte, NC | [Apply](https://go.vansh.nyc/1oW) | Rolling / check site
-✅ [OPEN] | Envista Forensics | Digital Forensics Intern | Morrisville, NC | [Apply](https://go.vansh.nyc/1kg) | Rolling / check site
-✅ [OPEN] | APEX Analytix | Automation Developer Intern | Greensboro, NC | [Apply](https://go.vansh.nyc/1ij) | Rolling / check site
 <!-- END CURRENT OPPORTUNITIES -->
 
 ## Browse and use
