@@ -11,8 +11,10 @@ _Showing up to 20 current opportunities. See the [full catalog](OPPORTUNITIES.md
 
 Status | Organization | Opportunity | Location | Apply | Deadline
 --- | --- | --- | --- | --- | ---
-✅ [OPEN] | Highmark Health | Reporting and Analytics Undergraduate Intern | New Mexico; Washington; Kansas; Pennsylvania; North Dakota; Oregon; Delaware; Iowa; California; Washington, DC; Vermont; Wyoming; Connecticut; Texas; Montana; Florida; New Hampshire; Nevada; South Carolina; South Dakota; Georgia; Arizona; Mississippi; Tennessee; Virginia; Arkansas; Minnesota; Colorado; Nebraska; Rhode Island; Utah; Kentucky; West Virginia; NYC; Maryland; Hawaii; Wisconsin; Maine; Massachusetts; North Carolina; Oklahoma; Ohio; New Jersey; Indiana; Louisiana; Alaska; Michigan; Illinois; Alabama; Idaho | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-UCD-Reporting-and-Analytics-Undergraduate-Intern_J287987) | Rolling / check site
+✅ [OPEN] | Forterra | Software Engineer Intern | Winter Park, FL; Durham, NC; East Palo Alto, CA; Clarksburg, MD; Arlington County, Arlington, VA | [Apply](https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395) | Rolling / check site
 ✅ [OPEN] | Trane Technologies | Product Management Engineering Co-op | Pueblo, CO; Grand Rapids, MI | [Apply](https://careers.tranetechnologies.com/global/en/job/JR-10435) | Rolling / check site
+✅ [OPEN] | Prometheus Group | Web Development Intern | Raleigh, NC | [Apply](https://go.vansh.nyc/1Bh) | Rolling / check site
+✅ [OPEN] | bioMérieux | Machine Learning Co-op | Durham, NC | [Apply](https://jobs.jobvite.com/biofiredx/job/ol94AfwS?nl=1&nl=1&fr=false) | Rolling / check site
 ✅ [OPEN] | Midrex Technologies | IT Cyber Security Intern | Charlotte, NC | [Apply](https://go.vansh.nyc/1zU) | Rolling / check site
 ✅ [OPEN] | NetApp | Data Analyst Intern | Research Triangle Park, NC | [Apply](https://go.vansh.nyc/1zX) | Rolling / check site
 ✅ [OPEN] | SAS | Software Developer Intern, Go/Golang | Cary, NC | [Apply](https://go.vansh.nyc/1zC) | Rolling / check site
@@ -29,8 +31,6 @@ Status | Organization | Opportunity | Location | Apply | Deadline
 ✅ [OPEN] | Cisco | Software Engineer Embedded Systems I Intern | San Jose, CA; Austin, TX; Research Triangle Park, NC | [Apply](https://go.vansh.nyc/1sE) | Rolling / check site
 ✅ [OPEN] | Piedmont Airlines | Safety Data Analytics Intern | Charlotte, NC | [Apply](https://aaregional.wd503.myworkdayjobs.com/search/job/Charlotte-NC/Safety-Data-Analytics-Intern_R1014574) | Rolling / check site
 ✅ [OPEN] | Selective Insurance Company of America | IT Commercial Lines Intern | Hartford, CT; Charlotte, NC | [Apply](https://go.vansh.nyc/1xm) | Rolling / check site
-✅ [OPEN] | Selective Insurance Company of America | IT Information Management Intern | Charlotte, NC | [Apply](https://go.vansh.nyc/1xn) | Rolling / check site
-✅ [OPEN] | TRC Companies | GIS Intern | Seattle, WA; Houston, TX; Lakewood, CO; Raleigh, NC; Chicago, IL; Phoenix, AZ | [Apply](https://careers.trccompanies.com/jobs/28698?icims=1&lang=en-us) | Rolling / check site
 <!-- END CURRENT OPPORTUNITIES -->
 
 ## Browse and use
