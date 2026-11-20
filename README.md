@@ -13,6 +13,7 @@ Status | Organization | Opportunity | Location | Apply | Deadline
 --- | --- | --- | --- | --- | ---
 ✅ [OPEN] | Forterra | Software Engineer Intern | Winter Park, FL; Durham, NC; East Palo Alto, CA; Clarksburg, MD; Arlington County, Arlington, VA | [Apply](https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395) | Rolling / check site
 ✅ [OPEN] | Trane Technologies | Product Management Engineering Co-op | Pueblo, CO; Grand Rapids, MI | [Apply](https://careers.tranetechnologies.com/global/en/job/JR-10435) | Rolling / check site
+✅ [OPEN] | SAS | Cybersecurity Compliance and AI Automation Intern | Cary, NC | [Apply](https://go.vansh.nyc/1Dy) | Rolling / check site
 ✅ [OPEN] | Lucid | Product Management Intern | Raleigh, NC | [Apply](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004) | Rolling / check site
 ✅ [OPEN] | Syngenta Group | Data Science Intern | Greensboro, NC | [Apply](https://go.vansh.nyc/1Co) | Rolling / check site
 ✅ [OPEN] | Syngenta Group | Data Science Intern | Greensboro, NC | [Apply](https://jobs.smartrecruiters.com/SyngentaGroup/744000162383708) | Rolling / check site
@@ -29,8 +30,7 @@ Status | Organization | Opportunity | Location | Apply | Deadline
 ✅ [OPEN] | Martin Marietta | Software Data Integration Engineer Intern | Raleigh, NC | [Apply](https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Software-Data-Integration-Engineer_JR024146) | Rolling / check site
 ✅ [OPEN] | Martin Marietta | Software Data Integration Engineer Intern | Raleigh, NC | [Apply](https://go.vansh.nyc/1zf) | Rolling / check site
 ✅ [OPEN] | Piedmont Airlines | Safety Data Analytics Intern | Charlotte, NC | [Apply](https://aaregional.wd503.myworkdayjobs.com/search/job/Charlotte-NC/Safety-Data-Analytics-Intern_R1014590) | Rolling / check site
-✅ [OPEN] | General Dynamics Information Technology | Professional Programmer Intern | Raleigh, NC | [Apply](https://go.vansh.nyc/1xx) | Rolling / check site
-✅ [OPEN] | General Dynamics Information Technology | Programmer Intern | Raleigh, NC | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-NC-Raleigh/Professional-Programmer---Intern_RQ232030) | Rolling / check site
+✅ [OPEN] | Unum | IT Intern | Chattanooga, TN; Portland, ME; Columbia, SC | [Apply](https://go.vansh.nyc/1BE) | Rolling / check site
 <!-- END CURRENT OPPORTUNITIES -->
 
 ## Browse and use
