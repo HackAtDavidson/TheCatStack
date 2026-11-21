@@ -12,7 +12,13 @@ _Showing up to 20 current opportunities. See the [full catalog](OPPORTUNITIES.md
 Status | Organization | Opportunity | Location | Apply | Deadline
 --- | --- | --- | --- | --- | ---
 ✅ [OPEN] | Forterra | Software Engineer Intern | Winter Park, FL; Durham, NC; East Palo Alto, CA; Clarksburg, MD; Arlington County, Arlington, VA | [Apply](https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395) | Rolling / check site
-✅ [OPEN] | Trane Technologies | Product Management Engineering Co-op | Pueblo, CO; Grand Rapids, MI | [Apply](https://careers.tranetechnologies.com/global/en/job/JR-10435) | Rolling / check site
+✅ [OPEN] | Cisco | AI Cybersecurity Engineer I Intern | Research Triangle Park, NC | [Apply](https://go.vansh.nyc/1G5) | Rolling / check site
+✅ [OPEN] | Jewelers Mutual Group | Behavioral Analytics Intern | Raleigh, NC | [Apply](https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=ee5ca626-0eea-4cb4-95ce-735ab0ebca6e) | Rolling / check site
+✅ [OPEN] | Method | Engineering Resident Intern | Remote in USA; Santa Clara, CA; Charlotte, NC; NYC; Remote in Canada | [Apply](https://job-boards.greenhouse.io/method/jobs/8208724003) | Rolling / check site
+✅ [OPEN] | Method | Engineering Resident Intern | Remote; United States; Canada; Santa Clara, CA; Charlotte, NC; New York, NY | [Apply](https://go.vansh.nyc/1Fq) | Rolling / check site
+✅ [OPEN] | Method | Product Management Intern | Remote in USA; Santa Clara, CA; Charlotte, NC; NYC; Remote in Canada | [Apply](https://job-boards.greenhouse.io/method/jobs/8207585003) | Rolling / check site
+✅ [OPEN] | Sierra Space | Software Engineering Intern | Centennial, CO; Louisville, CO; Durham, NC; Madison, WI; Broomfield, CO | [Apply](https://go.vansh.nyc/1EY) | Rolling / check site
+✅ [OPEN] | SIG SAUER | Electrical/Computer Engineering Intern - Uncrewed Systems | Sanford, NC | [Apply](https://recruiting.ultipro.com/sig1011sigsa/JobBoard/9ec422f8-2ba7-4e60-983b-b473bf030bd6/OpportunityDetail?opportunityId=3af1fb9e-2e3d-4fd9-89f0-d2b9bc090053) | Rolling / check site
 ✅ [OPEN] | SAS | Cybersecurity Compliance and AI Automation Intern | Cary, NC | [Apply](https://go.vansh.nyc/1Dy) | Rolling / check site
 ✅ [OPEN] | Lucid | Product Management Intern | Raleigh, NC | [Apply](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004) | Rolling / check site
 ✅ [OPEN] | Syngenta Group | Data Science Intern | Greensboro, NC | [Apply](https://go.vansh.nyc/1Co) | Rolling / check site
@@ -23,14 +29,8 @@ Status | Organization | Opportunity | Location | Apply | Deadline
 ✅ [OPEN] | Midrex Technologies | IT Cyber Security Intern | Charlotte, NC | [Apply](https://go.vansh.nyc/1zU) | Rolling / check site
 ✅ [OPEN] | NetApp | Data Analyst Intern | Research Triangle Park, NC | [Apply](https://go.vansh.nyc/1zX) | Rolling / check site
 ✅ [OPEN] | SAS | Software Developer Intern, Go/Golang | Cary, NC | [Apply](https://go.vansh.nyc/1zC) | Rolling / check site
-✅ [OPEN] | Daimler Truck | IT Developer Analyst Intern | Mt Holly, NC | [Apply](https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Mount-Holly-NC-US/IT-Developer-Analyst-Intern_DT-20681-1) | Rolling / check site
-✅ [OPEN] | Daimler Truck | IT Developer Analyst Intern | Mount Holly, NC | [Apply](https://go.vansh.nyc/1yM) | Rolling / check site
-✅ [OPEN] | Martin Marietta | Data Scientist Intern | Raleigh, NC | [Apply](https://go.vansh.nyc/1ze) | Rolling / check site
-✅ [OPEN] | Martin Marietta | Data Scientist Intern | Raleigh, NC | [Apply](https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Data-Scientist_JR024144-1) | Rolling / check site
-✅ [OPEN] | Martin Marietta | Software Data Integration Engineer Intern | Raleigh, NC | [Apply](https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Software-Data-Integration-Engineer_JR024146) | Rolling / check site
-✅ [OPEN] | Martin Marietta | Software Data Integration Engineer Intern | Raleigh, NC | [Apply](https://go.vansh.nyc/1zf) | Rolling / check site
-✅ [OPEN] | Piedmont Airlines | Safety Data Analytics Intern | Charlotte, NC | [Apply](https://aaregional.wd503.myworkdayjobs.com/search/job/Charlotte-NC/Safety-Data-Analytics-Intern_R1014590) | Rolling / check site
-✅ [OPEN] | Unum | IT Intern | Chattanooga, TN; Portland, ME; Columbia, SC | [Apply](https://go.vansh.nyc/1BE) | Rolling / check site
+✅ [OPEN] | AFL | Business Intelligence Co-op | Duncan, SC | [Apply](https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=33f4e729-d1f6-4137-a95a-4ac8b27a9453) | Rolling / check site
+✅ [OPEN] | AFL | Web Design/Development Intern | Duncan, SC | [Apply](https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=6e9432db-e1de-4103-b8dd-5bfd57365e4d) | Rolling / check site
 <!-- END CURRENT OPPORTUNITIES -->
 
 ## Browse and use
