@@ -12,6 +12,8 @@ _Showing up to 20 current opportunities. See the [full catalog](OPPORTUNITIES.md
 Status | Organization | Opportunity | Location | Apply | Deadline
 --- | --- | --- | --- | --- | ---
 ✅ [OPEN] | Forterra | Software Engineer Intern | Winter Park, FL; Durham, NC; East Palo Alto, CA; Clarksburg, MD; Arlington County, Arlington, VA | [Apply](https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395) | Rolling / check site
+✅ [OPEN] | Advance Auto Parts | Data Science Intern | Raleigh, NC | [Apply](https://go.vansh.nyc/1Gi) | Rolling / check site
+✅ [OPEN] | Advance Auto Parts | Data Science Intern | Raleigh, NC | [Apply](https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/Raleigh-NC/Data-Science-Intern_R-0620261-1) | Rolling / check site
 ✅ [OPEN] | Cisco | AI Cybersecurity Engineer I Intern | Research Triangle Park, NC | [Apply](https://go.vansh.nyc/1G5) | Rolling / check site
 ✅ [OPEN] | Jewelers Mutual Group | Behavioral Analytics Intern | Raleigh, NC | [Apply](https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=ee5ca626-0eea-4cb4-95ce-735ab0ebca6e) | Rolling / check site
 ✅ [OPEN] | Method | Engineering Resident Intern | Remote in USA; Santa Clara, CA; Charlotte, NC; NYC; Remote in Canada | [Apply](https://job-boards.greenhouse.io/method/jobs/8208724003) | Rolling / check site
@@ -26,11 +28,9 @@ Status | Organization | Opportunity | Location | Apply | Deadline
 ✅ [OPEN] | APEX Analytix | Product Management Intern - DevOps | Greensboro, NC | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/101ae05c-1f3c-4d80-9f71-216aa078c164) | Rolling / check site
 ✅ [OPEN] | Prometheus Group | Web Development Intern | Raleigh, NC | [Apply](https://go.vansh.nyc/1Bh) | Rolling / check site
 ✅ [OPEN] | bioMérieux | Machine Learning Co-op | Durham, NC | [Apply](https://jobs.jobvite.com/biofiredx/job/ol94AfwS?nl=1&nl=1&fr=false) | Rolling / check site
-✅ [OPEN] | Midrex Technologies | IT Cyber Security Intern | Charlotte, NC | [Apply](https://go.vansh.nyc/1zU) | Rolling / check site
-✅ [OPEN] | NetApp | Data Analyst Intern | Research Triangle Park, NC | [Apply](https://go.vansh.nyc/1zX) | Rolling / check site
-✅ [OPEN] | SAS | Software Developer Intern, Go/Golang | Cary, NC | [Apply](https://go.vansh.nyc/1zC) | Rolling / check site
 ✅ [OPEN] | AFL | Business Intelligence Co-op | Duncan, SC | [Apply](https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=33f4e729-d1f6-4137-a95a-4ac8b27a9453) | Rolling / check site
 ✅ [OPEN] | AFL | Web Design/Development Intern | Duncan, SC | [Apply](https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=6e9432db-e1de-4103-b8dd-5bfd57365e4d) | Rolling / check site
+✅ [OPEN] | AFL | Web Design/Development Intern | Duncan, SC | [Apply](https://go.vansh.nyc/1Fd) | Rolling / check site
 <!-- END CURRENT OPPORTUNITIES -->
 
 ## Browse and use
