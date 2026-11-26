@@ -20,6 +20,7 @@ Status | Organization | Opportunity | Location | Apply | Deadline
 ✅ [OPEN] | Bandwidth | Software Engineer Intern | Raleigh, NC | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/8414440) | Rolling / check site
 ✅ [OPEN] | Bandwidth Inc. | Software Engineer Intern | Raleigh, NC | [Apply](https://go.vansh.nyc/1IW) | Rolling / check site
 ✅ [OPEN] | Carrier Global | Software & Controls Engineering Intern | Charlotte, NC | [Apply](https://go.vansh.nyc/1Js) | Rolling / check site
+✅ [OPEN] | Cisco | Security Engineer I Intern | Research Triangle Park, NC | [Apply](https://go.vansh.nyc/1JA) | Rolling / check site
 ✅ [OPEN] | APEX Analytix | Software Engineer Intern - Platform Tooling | Greensboro, NC | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/0ab75bb7-08ee-403a-bbe5-3937bb948b19) | Rolling / check site
 ✅ [OPEN] | Advance Auto Parts | Data Science Intern | Raleigh, NC | [Apply](https://go.vansh.nyc/1Gi) | Rolling / check site
 ✅ [OPEN] | Advance Auto Parts | Data Science Intern | Raleigh, NC | [Apply](https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/Raleigh-NC/Data-Science-Intern_R-0620261-1) | Rolling / check site
@@ -30,7 +31,6 @@ Status | Organization | Opportunity | Location | Apply | Deadline
 ✅ [OPEN] | Method | Product Management Intern | Remote in USA; Santa Clara, CA; Charlotte, NC; NYC; Remote in Canada | [Apply](https://job-boards.greenhouse.io/method/jobs/8207585003) | Rolling / check site
 ✅ [OPEN] | Northrop Grumman | AI/ML Engineering Intern | Morrisville, NC | [Apply](https://go.vansh.nyc/1GD) | Rolling / check site
 ✅ [OPEN] | Sierra Space | Electrical Engineering Intern - Electrical Engineering | Madison, WI; Centennial, CO; Durham, NC; Louisville, CO; Broomfield, CO | [Apply](https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO/XMLNAME-2027-Summer-Internship---Electrical-Engineering_R26563-1) | Rolling / check site
-✅ [OPEN] | Sierra Space | Software Engineering Intern | Centennial, CO; Louisville, CO; Durham, NC; Madison, WI; Broomfield, CO | [Apply](https://go.vansh.nyc/1EY) | Rolling / check site
 <!-- END CURRENT OPPORTUNITIES -->
 
 ## Browse and use
