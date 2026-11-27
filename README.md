@@ -11,6 +11,7 @@ _Showing up to 20 current opportunities. See the [full catalog](OPPORTUNITIES.md
 
 Status | Organization | Opportunity | Location | Apply | Deadline
 --- | --- | --- | --- | --- | ---
+✅ [OPEN] | Revvity | Software Engineering Intern, In Vivo Imaging | Morrisville, NC | [Apply](https://go.vansh.nyc/1KR) | Rolling / check site
 ✅ [OPEN] | Bandwidth | Software Engineer Intern | Raleigh, NC | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/8414444) | Rolling / check site
 ✅ [OPEN] | Bandwidth | Software Engineer Intern | Raleigh, NC | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/8414436) | Rolling / check site
 ✅ [OPEN] | Bandwidth | Software Engineer Intern | Raleigh, NC | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/8414452) | Rolling / check site
@@ -30,7 +31,6 @@ Status | Organization | Opportunity | Location | Apply | Deadline
 ✅ [OPEN] | Method | Engineering Resident Intern | Remote; United States; Canada; Santa Clara, CA; Charlotte, NC; New York, NY | [Apply](https://go.vansh.nyc/1Fq) | Rolling / check site
 ✅ [OPEN] | Method | Product Management Intern | Remote in USA; Santa Clara, CA; Charlotte, NC; NYC; Remote in Canada | [Apply](https://job-boards.greenhouse.io/method/jobs/8207585003) | Rolling / check site
 ✅ [OPEN] | Northrop Grumman | AI/ML Engineering Intern | Morrisville, NC | [Apply](https://go.vansh.nyc/1GD) | Rolling / check site
-✅ [OPEN] | Sierra Space | Electrical Engineering Intern - Electrical Engineering | Madison, WI; Centennial, CO; Durham, NC; Louisville, CO; Broomfield, CO | [Apply](https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO/XMLNAME-2027-Summer-Internship---Electrical-Engineering_R26563-1) | Rolling / check site
 <!-- END CURRENT OPPORTUNITIES -->
 
 ## Browse and use
